@@ -11,7 +11,7 @@ noc <- read.csv("https://www.dropbox.com/s/hjngggjiwmsdyw8/noc_regions.csv?dl=1"
 paises <- read.csv("https://www.dropbox.com/s/qol9t3g4z359img/countryContinent.csv?dl=1", encoding="utf-8")
 ciudades <- read.csv("https://www.dropbox.com/s/6fhwd3ydoeop30j/list-host-cities-olympic-943j.csv?dl=1", encoding="utf-8")
 
-# Revisamos la estructura de los dataframes para
+# Revisamos la estructura de los dataframes para comprobar el tipo de datos de cada atributo
 str(atletas)
 str(noc)
 str(paises)
