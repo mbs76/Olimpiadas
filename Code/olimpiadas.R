@@ -23,6 +23,9 @@ head(noc)
 head(paises)
 head(ciudades)
 
-# Unificamos el nombre de los campos para poder unir los dataframes con la función merge
+# Unificamos el nombre de los campos para simplificar la unión de los dataframes con la función merge
 names(noc) <- c("NOC", "region", "notes")
-df <- merge(atletas, noc, by = "NOC")
+df <- merge(atletas, noc, by = "NOC", all.x=TRUE)
+
+# Calculamos la media de edad de los medallistas por país
+tapply(df$Age, df$region, mean, na.rm=TRUE)
