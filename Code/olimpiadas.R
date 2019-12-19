@@ -22,3 +22,7 @@ head(atletas)
 head(noc)
 head(paises)
 head(ciudades)
+
+# Unificamos el nombre de los campos para poder unir los dataframes con la función merge
+names(noc) <- c("NOC", "region", "notes")
+df <- merge(atletas, noc, by = "NOC")
