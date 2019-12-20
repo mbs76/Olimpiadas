@@ -30,6 +30,7 @@ ciudades <- ciudades[,c("City","Country","Continent","Year")]
 # PENDIENTE DE HACER
 #########
 
+
 # Unificamos el nombre de los campos para simplificar la unión de los dataframes con la función merge
 names(paises) <- c("country","NOC","continent","sub_region")
 df <- merge(atletas, paises, by = "NOC", all.x=TRUE)
