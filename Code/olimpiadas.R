@@ -29,7 +29,10 @@ ciudades <- ciudades[,c("City","Country","Continent","Year")]
 #Antes del siguiente paso hay que modificar los valores nulos del campo Year de la tabla ciudades
 # PENDIENTE DE HACER
 #########
+for(i in 3:nrow(ciudades))
+  ciudades[i,is.na(ciudades$Year)] = ciudades[i-1,4]
 
+ciudades
 
 # Unificamos el nombre de los campos para simplificar la unión de los dataframes con la función merge
 names(paises) <- c("country","NOC","continent","sub_region")
