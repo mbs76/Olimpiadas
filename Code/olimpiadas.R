@@ -7,32 +7,28 @@
 # Para la carga se va a utilizar enlaces suministrados por dropbox de los archivos
 
 atletas <- read.csv("https://www.dropbox.com/s/8ogvaf0ipu4raby/athlete_events.csv?dl=1", encoding="utf-8")
-noc <- read.csv("https://www.dropbox.com/s/hjngggjiwmsdyw8/noc_regions.csv?dl=1", encoding="utf-8")
 paises <- read.csv("https://www.dropbox.com/s/qol9t3g4z359img/countryContinent.csv?dl=1", encoding="utf-8")
 ciudades <- read.csv("https://www.dropbox.com/s/6fhwd3ydoeop30j/list-host-cities-olympic-943j.csv?dl=1", encoding="utf-8")
 
 # Revisamos la estructura de los dataframes para comprobar el tipo de datos de cada atributo
 str(atletas)
-str(noc)
 str(paises)
 str(ciudades)
 
 # Exploramos los dataframes creados visualizando las primeras filas
 head(atletas)
-head(noc)
 head(paises)
 head(ciudades)
 
-# Unificamos el nombre de los campos para simplificar la uni贸n de los dataframes con la funci贸n merge
-names(noc) <- c("NOC", "region", "notes")
-df <- merge(atletas, noc, by = "NOC", all.x=TRUE)
+## Unificamos el nombre de los campos para simplificar la uni贸n de los dataframes con la funci贸n merge
+#names(noc) <- c("NOC", "region", "notes")
+#df <- merge(atletas, noc, by = "NOC", all.x=TRUE)
 
-# Calculamos la media de edad de los medallistas por pa铆s
-tapply(df$Age, df$region, mean, na.rm=TRUE)
+## Calculamos la media de edad de los medallistas por pa铆s
+#tapply(df$Age, df$region, mean, na.rm=TRUE)
 
 #Eliminamos las columnas no utilizadas en los an醠isis para simplificar los datasets
 atletas <- atletas[,c("NOC","Year","Season","City","Sport","Event","Medal")]
-noc <- noc[,c("NOC")]
 paises <- paises[,c("country","code_3","continent","sub_region")]
 ciudades <- ciudades[,c("City","Country","Continent","Year")]
 
