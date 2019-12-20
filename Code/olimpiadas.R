@@ -20,16 +20,22 @@ head(atletas)
 head(paises)
 head(ciudades)
 
-## Unificamos el nombre de los campos para simplificar la uni贸n de los dataframes con la funci贸n merge
-#names(noc) <- c("NOC", "region", "notes")
-#df <- merge(atletas, noc, by = "NOC", all.x=TRUE)
-
-## Calculamos la media de edad de los medallistas por pa铆s
-#tapply(df$Age, df$region, mean, na.rm=TRUE)
-
 #Eliminamos las columnas no utilizadas en los an醠isis para simplificar los datasets
 atletas <- atletas[,c("NOC","Year","Season","City","Sport","Event","Medal")]
 paises <- paises[,c("country","code_3","continent","sub_region")]
 ciudades <- ciudades[,c("City","Country","Continent","Year")]
 
+#########
+#Antes del siguiente paso hay que modificar los valores nulos del campo Year de la tabla ciudades
+# PENDIENTE DE HACER
+#########
+
+# Unificamos el nombre de los campos para simplificar la uni贸n de los dataframes con la funci贸n merge
+names(paises) <- c("country","NOC","continent","sub_region")
+df <- merge(atletas, paises, by = "NOC", all.x=TRUE)
+names(ciudades) <- c("City","Country_host","Continent_host","Year")
+df <- merge(df, ciudades, by = c("City","Year"), all.x=TRUE)
+
+#Exploramos el dataframe unificado visualizando las primeras filas
+head(df)
 
