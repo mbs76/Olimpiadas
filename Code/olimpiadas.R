@@ -32,7 +32,7 @@ ciudades <- ciudades[,c("City","Country","Continent","Year")]
 #                         TRATAMIENTO DE DATOS PERDIDOS
 #####################################################################################
 
-# En el dataframe de ciudades encontramos campos no definidos NA en el atributo Year.
+# En el dataframe de ciudades encontramos vlaores no definidos NA en el atributo Year.
 # Esto ocurre cuando en un mismo año coindicen las ediciones de invierno y verano, por
 # lo que imputamos el año del registro inmediamente anterior que contiene el dato
 # exacto que corresponde.
