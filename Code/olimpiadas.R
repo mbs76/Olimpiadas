@@ -20,26 +20,42 @@ head(atletas)
 head(paises)
 head(ciudades)
 
-#Eliminamos las columnas no utilizadas en los an醠isis para simplificar los datasets
+#Eliminamos las columnas no utilizadas en los an谩lisis para simplificar los datasets
 atletas <- atletas[,c("NOC","Year","Season","City","Sport","Event","Medal")]
 paises <- paises[,c("country","code_3","continent","sub_region")]
 ciudades <- ciudades[,c("City","Country","Continent","Year")]
 
-#########
-#Antes del siguiente paso hay que modificar los valores nulos del campo Year de la tabla ciudades
-# PENDIENTE DE HACER
-#########
-for(i in 3:nrow(ciudades))
-  ciudades[i,is.na(ciudades$Year)] = ciudades[i-1,4]
+# En el dataframe ciudades hay que eliminar los 3 煤ltimos registros ya que son basura
+# PENDIENTE
 
-ciudades
+#####################################################################################
+#                         TRATAMIENTO DE DATOS PERDIDOS
+#####################################################################################
 
-# Unificamos el nombre de los campos para simplificar la uni贸n de los dataframes con la funci贸n merge
+# En el dataframe de ciudades encontramos campos no definidos NA en el atributo Year.
+# Esto ocurre cuando en un mismo a帽o coindicen las ediciones de invierno y verano, por
+# lo que imputamos el a帽o del registro inmediamente anterior que contiene el dato
+# exacto que corresponde.
+
+for(i in 3:nrow(ciudades)){
+  if (is.na(ciudades[i,"Year"])) {
+    ciudades[i,"Year"] <- ciudades[i-1,"Year"]
+  }
+}
+
+
+#####################################################################################
+#                         INTEGRACI脫N DE DATOS
+#####################################################################################
+
+# Unificamos el nombre de los atributos para simplificar la uni贸n de los dataframes 
+# con la funci贸n merge. Mantenemos todos los registros del primer dataframe.
+
 names(paises) <- c("country","NOC","continent","sub_region")
 df <- merge(atletas, paises, by = "NOC", all.x=TRUE)
 names(ciudades) <- c("City","Country_host","Continent_host","Year")
 df <- merge(df, ciudades, by = c("City","Year"), all.x=TRUE)
 
-#Exploramos el dataframe unificado visualizando las primeras filas
+# Exploramos el dataframe unificado visualizando las primeras filas
 head(df)
 
