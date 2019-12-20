@@ -29,3 +29,11 @@ df <- merge(atletas, noc, by = "NOC", all.x=TRUE)
 
 # Calculamos la media de edad de los medallistas por paÃ­s
 tapply(df$Age, df$region, mean, na.rm=TRUE)
+
+#Eliminamos las columnas no utilizadas en los análisis para simplificar los datasets
+atletas <- atletas[,c("NOC","Year","Season","City","Sport","Event","Medal")]
+noc <- noc[,c("NOC")]
+paises <- paises[,c("country","code_3","continent","sub_region")]
+ciudades <- ciudades[,c("City","Country","Continent","Year")]
+
+
