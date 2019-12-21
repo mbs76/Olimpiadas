@@ -26,7 +26,8 @@ paises <- paises[,c("country","code_3","continent","sub_region")]
 ciudades <- ciudades[,c("City","Country","Continent","Year")]
 
 # En el dataframe ciudades hay que eliminar los 3 últimos registros ya que son basura
-# PENDIENTE
+ciudades <- ciudades[1:(nrow(ciudades)-3),]
+
 
 #####################################################################################
 #                         TRATAMIENTO DE DATOS PERDIDOS
@@ -56,6 +57,4 @@ df <- merge(atletas, paises, by = "NOC", all.x=TRUE)
 names(ciudades) <- c("City","Country_host","Continent_host","Year")
 df <- merge(df, ciudades, by = c("City","Year"), all.x=TRUE)
 
-# Exploramos el dataframe unificado visualizando las primeras filas
-head(df)
 
