@@ -48,7 +48,7 @@ for(i in 3:nrow(ciudades)){
 
 
 #####################################################################################
-#                         INTEGRACIÓN DE DATOS
+#                             INTEGRACIÓN DE DATOS
 #####################################################################################
 
 # Unificamos el nombre de los atributos para simplificar la unión de los dataframes 
@@ -58,6 +58,13 @@ names(paises) <- c("country","NOC","continent","sub_region")
 df <- merge(atletas, paises, by = "NOC", all.x=TRUE)
 names(ciudades) <- c("City","Country_host","Continent_host","Year")
 df <- merge(df, ciudades, by = c("City","Year"), all.x=TRUE)
+
+
+
+#####################################################################################
+#                             ANÁLISIS DESCRIPTIVO
+#####################################################################################
+
 
 # Calculamos la moda del atributo "Medal" (tipo de medalla)
 mlv(df$Medal, method = "discrete", na.rm=TRUE)
