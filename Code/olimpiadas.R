@@ -70,6 +70,12 @@ df <- merge(df, ciudades, by = c("City","Year"), all.x=TRUE)
 # Ranking de países por número de medallas
 summary(df$NOC)
 
+# Número de medallas de cada tipo por país
+tapply(df$NOC, df$Medal, summary)
+
+# Listado de paises con sus medallas por tipo
+tapply(df$Medal, df$NOC, summary)
+
 # Calculamos la moda del atributo "Medal" (tipo de medalla) para todo el conjunto
 mlv(df$Medal, na.rm=TRUE)
 
@@ -78,7 +84,6 @@ tapply(df$Medal, df$NOC, mlv, na.rm=TRUE)
 
 # Calculamos la moda del par país-medalla
 apply(df[,c("NOC", "Medal")], 2, mlv,  method = "mfv", na.rm=TRUE)
-
 
 
 
