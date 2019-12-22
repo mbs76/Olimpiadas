@@ -66,7 +66,12 @@ df <- merge(df, ciudades, by = c("City","Year"), all.x=TRUE)
 #####################################################################################
 
 
-# Calculamos la moda del atributo "Medal" (tipo de medalla)
+# Calculamos la moda del atributo "Medal" (tipo de medalla) para todo el conjunto
 mlv(df$Medal, method = "discrete", na.rm=TRUE)
+
+# Calculamos la moda del par país-medalla
 apply(df[,c("NOC", "Medal")], 2, mlv,  method = "mfv", na.rm=TRUE)
+
+# Calculamos la moda del atributo "Medal" (tipo de medalla) para cada país
+tapply(df$Medal, df$NOC, mlv,  method = "mfv", na.rm=TRUE)
 
