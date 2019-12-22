@@ -38,7 +38,7 @@ ciudades <- ciudades[1:(nrow(ciudades)-3),]
 # En el dataframe de ciudades encontramos vlaores no definidos NA en el atributo Year.
 # Esto ocurre cuando en un mismo año coindicen las ediciones de invierno y verano, por
 # lo que imputamos el año del registro inmediamente anterior que contiene el dato
-# exacto que corresponde.
+# exacto que corresponde a esa edición.
 
 for(i in 3:nrow(ciudades)){
   if (is.na(ciudades[i,"Year"])) {
@@ -65,13 +65,20 @@ df <- merge(df, ciudades, by = c("City","Year"), all.x=TRUE)
 #                             ANÁLISIS DESCRIPTIVO
 #####################################################################################
 
+## --->>> Pendiente cambiar NOC por país del atleta cuando lo tengamos depurado
+
+# Ranking de países por número de medallas
+summary(df$NOC)
 
 # Calculamos la moda del atributo "Medal" (tipo de medalla) para todo el conjunto
-mlv(df$Medal, method = "discrete", na.rm=TRUE)
+mlv(df$Medal, na.rm=TRUE)
+
+# Calculamos la moda del atributo "Medal" (tipo de medalla) para cada país
+tapply(df$Medal, df$NOC, mlv, na.rm=TRUE)
 
 # Calculamos la moda del par país-medalla
 apply(df[,c("NOC", "Medal")], 2, mlv,  method = "mfv", na.rm=TRUE)
 
-# Calculamos la moda del atributo "Medal" (tipo de medalla) para cada país
-tapply(df$Medal, df$NOC, mlv,  method = "mfv", na.rm=TRUE)
+
+
 
