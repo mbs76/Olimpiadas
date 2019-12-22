@@ -59,6 +59,7 @@ df <- merge(atletas, paises, by = "NOC", all.x=TRUE)
 names(ciudades) <- c("City","Country_host","Continent_host","Year")
 df <- merge(df, ciudades, by = c("City","Year"), all.x=TRUE)
 
-# Calculamos la moda del atriburo tipo de medallas
-mlv(df$Medal, method = "mfv", na.rm=TRUE)
+# Calculamos la moda del atributo "Medal" (tipo de medalla)
+mlv(df$Medal, method = "discrete", na.rm=TRUE)
+apply(df[,c("NOC", "Medal")], 2, mlv,  method = "mfv", na.rm=TRUE)
 
