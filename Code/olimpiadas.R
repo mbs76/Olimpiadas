@@ -1,7 +1,28 @@
-install.packages("modeest") 
-library(modeest)
 
-# Importamos los diferentes dataset del proyecto
+## ----------------------------------------------------------------------------------
+## SCRIPT: olimpiadas.R
+## ASIGNATURA: Tipología y ciclo de vida de los datos
+## AUTORES: Manuel Betancor y María Navalón
+## PAQUETES NECESARIOS: dplyr, modeest
+## ----------------------------------------------------------------------------------
+
+# Inicialización de librerías
+
+if(!require("dplyr")){
+  install.packages("dplyr")
+  library("dplyr")
+}
+
+if(!require("modeest")){
+  install.packages("modeest")
+  library("modeest")
+}
+
+
+## ----------------------------------------------------------------------------------
+##                               CARGA DE LOS DATOS
+## ----------------------------------------------------------------------------------
+
 # Los ficheros csv a importar se han adquirido a través de los siguientes enlaces:
 #  https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
 #  https://www.kaggle.com/statchaitya/country-to-continent
@@ -11,6 +32,11 @@ library(modeest)
 atletas <- read.csv("https://www.dropbox.com/s/8ogvaf0ipu4raby/athlete_events.csv?dl=1", encoding="utf-8")
 paises <- read.csv("https://www.dropbox.com/s/qol9t3g4z359img/countryContinent.csv?dl=1", encoding="utf-8")
 ciudades <- read.csv("https://www.dropbox.com/s/6fhwd3ydoeop30j/list-host-cities-olympic-943j.csv?dl=1", encoding="utf-8")
+
+
+## ----------------------------------------------------------------------------------
+##                         ANÁLISIS PRELIMINAR DE LOS DATOS
+## ----------------------------------------------------------------------------------
 
 # Revisamos la estructura de los dataframes para comprobar el tipo de datos de cada atributo
 str(atletas)
@@ -22,6 +48,21 @@ head(atletas)
 head(paises)
 head(ciudades)
 
+# Verificamos si hay registros duplicados
+anyDuplicated(ciudades)
+anyDuplicated(paises)
+anyDuplicated(atletas)
+
+# Comprobamos que los códigos de país son todos distintos en el dataframe paises
+# para garantizar la correcta integración posterior de los datos ya que ese campo
+# se utilizará como identificador único del conjunto
+paises %>% distinct(NOC)
+
+
+## ----------------------------------------------------------------------------------
+##                           SELECCIÓN DE LOS DATOS
+## ----------------------------------------------------------------------------------
+
 #Eliminamos las columnas no utilizadas en los análisis para simplificar los datasets
 atletas <- atletas[,c("NOC","Year","Season","City","Sport","Event","Medal")]
 paises <- paises[,c("country","code_3","continent","sub_region")]
@@ -31,11 +72,11 @@ ciudades <- ciudades[,c("City","Country","Continent","Year")]
 ciudades <- ciudades[1:(nrow(ciudades)-3),]
 
 
-#####################################################################################
-#                         TRATAMIENTO DE DATOS PERDIDOS
-#####################################################################################
+## ----------------------------------------------------------------------------------
+##                         TRATAMIENTO DE DATOS PERDIDOS
+## ----------------------------------------------------------------------------------
 
-# En el dataframe de ciudades encontramos vlaores no definidos NA en el atributo Year.
+# En el dataframe de ciudades encontramos valores no definidos NA en el atributo Year.
 # Esto ocurre cuando en un mismo año coindicen las ediciones de invierno y verano, por
 # lo que imputamos el año del registro inmediamente anterior que contiene el dato
 # exacto que corresponde a esa edición.
@@ -47,47 +88,47 @@ for(i in 3:nrow(ciudades)){
 }
 
 
-#####################################################################################
-#                             INTEGRACIÓN DE DATOS
-#####################################################################################
+## ----------------------------------------------------------------------------------
+##                               INTEGRACIÓN DE DATOS
+## ----------------------------------------------------------------------------------
 
 # Unificamos el nombre de los atributos para simplificar la unión de los dataframes 
 # con la función merge. Mantenemos todos los registros del primer dataframe.
 # Hemos generado un diccionario que relaciona los códigos NOC con los códigos code_3
 
 diccionario <- read.csv("https://www.dropbox.com/s/gibjji4okfhl0ru/diccionario.csv?dl=1", encoding="utf-8")
+
 names(paises) <- c("country","NOC","continent","sub_region")
 names(diccionario) <- c("NOC","country","code_3")
-df <- merge(atletas, diccionario, by = "NOC", all.x=TRUE)
-df <- merge(df, paises, by = "country", all.x=TRUE)
 names(ciudades) <- c("City","Country_host","Continent_host","Year")
-df <- merge(df, ciudades, by = c("City","Year"), all.x=TRUE)
+
+df <- merge(atletas, diccionario, by = "NOC", all.x=TRUE) %>% 
+merge(paises, by = "country", all.x=TRUE) %>% 
+merge(ciudades, by = c("City","Year"), all.x=TRUE)
 
 
+## ----------------------------------------------------------------------------------
+##                         ANÁLISIS ESTADÍSTICO DESCRIPTIVO
+## ----------------------------------------------------------------------------------
 
-#####################################################################################
-#                             ANÁLISIS DESCRIPTIVO
-#####################################################################################
-
-## --->>> Pendiente cambiar NOC por país del atleta cuando lo tengamos depurado
 
 # Ranking de países por número de medallas
-summary(df$NOC)
+summary(df$country)
 
 # Número de medallas de cada tipo por país
-tapply(df$NOC, df$Medal, summary)
+tapply(df$country, df$Medal, summary)
 
 # Listado de paises con sus medallas por tipo
-tapply(df$Medal, df$NOC, summary)
+tapply(df$Medal, df$country, summary)
 
 # Calculamos la moda del atributo "Medal" (tipo de medalla) para todo el conjunto
 mlv(df$Medal, na.rm=TRUE)
 
 # Calculamos la moda del atributo "Medal" (tipo de medalla) para cada país
-tapply(df$Medal, df$NOC, mlv, na.rm=TRUE)
+tapply(df$Medal, df$country, mlv, na.rm=TRUE)
 
 # Calculamos la moda del par país-medalla
-apply(df[,c("NOC", "Medal")], 2, mlv,  method = "mfv", na.rm=TRUE)
+apply(df[,c("country", "Medal")], 2, mlv,  method = "mfv", na.rm=TRUE)
 
 
 
