@@ -53,9 +53,13 @@ for(i in 3:nrow(ciudades)){
 
 # Unificamos el nombre de los atributos para simplificar la unión de los dataframes 
 # con la función merge. Mantenemos todos los registros del primer dataframe.
+# Hemos generado un diccionario que relaciona los códigos NOC con los códigos code_3
 
+diccionario <- read.csv("https://www.dropbox.com/s/gibjji4okfhl0ru/diccionario.csv?dl=1", encoding="utf-8")
 names(paises) <- c("country","NOC","continent","sub_region")
-df <- merge(atletas, paises, by = "NOC", all.x=TRUE)
+names(diccionario) <- c("NOC","country","code_3")
+df <- merge(atletas, diccionario, by = "NOC", all.x=TRUE)
+df <- merge(df, paises, by = "country", all.x=TRUE)
 names(ciudades) <- c("City","Country_host","Continent_host","Year")
 df <- merge(df, ciudades, by = c("City","Year"), all.x=TRUE)
 
