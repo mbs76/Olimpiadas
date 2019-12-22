@@ -1,3 +1,5 @@
+install.packages("modeest") 
+library(modeest)
 
 # Importamos los diferentes dataset del proyecto
 # Los ficheros csv a importar se han adquirido a través de los siguientes enlaces:
@@ -57,4 +59,6 @@ df <- merge(atletas, paises, by = "NOC", all.x=TRUE)
 names(ciudades) <- c("City","Country_host","Continent_host","Year")
 df <- merge(df, ciudades, by = c("City","Year"), all.x=TRUE)
 
+# Calculamos la moda del atriburo tipo de medallas
+mlv(df$Medal, method = "mfv", na.rm=TRUE)
 
