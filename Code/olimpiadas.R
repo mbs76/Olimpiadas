@@ -31,7 +31,7 @@ if(!require("modeest")){
 
 atletas <- read.csv("https://www.dropbox.com/s/8ogvaf0ipu4raby/athlete_events.csv?dl=1", encoding="utf-8")
 paises <- read.csv("https://www.dropbox.com/s/qol9t3g4z359img/countryContinent.csv?dl=1", encoding="utf-8")
-ciudades <- read.csv("https://www.dropbox.com/s/6fhwd3ydoeop30j/list-host-cities-olympic-943j.csv?dl=1", encoding="utf-8")
+sedes <- read.csv("https://www.dropbox.com/s/6fhwd3ydoeop30j/list-host-cities-olympic-943j.csv?dl=1", encoding="utf-8")
 
 
 ## ----------------------------------------------------------------------------------
@@ -41,15 +41,15 @@ ciudades <- read.csv("https://www.dropbox.com/s/6fhwd3ydoeop30j/list-host-cities
 # Revisamos la estructura de los dataframes para comprobar el tipo de datos de cada atributo
 str(atletas)
 str(paises)
-str(ciudades)
+str(sedes)
 
 # Exploramos los dataframes creados visualizando las primeras filas
 head(atletas)
 head(paises)
-head(ciudades)
+head(sedes)
 
 # Verificamos si hay registros duplicados
-anyDuplicated(ciudades)
+anyDuplicated(sedes)
 anyDuplicated(paises)
 anyDuplicated(atletas)
 
@@ -66,24 +66,24 @@ paises %>% distinct(NOC)
 #Eliminamos las columnas no utilizadas en los análisis para simplificar los datasets
 atletas <- atletas[,c("NOC","Year","Season","City","Sport","Event","Medal")]
 paises <- paises[,c("country","code_3","continent","sub_region")]
-ciudades <- ciudades[,c("City","Country","Continent","Year")]
+sedes <- sedes[,c("City","Country","Continent","Year")]
 
-# En el dataframe ciudades hay que eliminar los 3 últimos registros ya que son basura
-ciudades <- ciudades[1:(nrow(ciudades)-3),]
+# En el dataframe sedes hay que eliminar los 3 últimos registros ya que son basura
+sedes <- sedes[1:(nrow(sedes)-3),]
 
 
 ## ----------------------------------------------------------------------------------
 ##                         TRATAMIENTO DE DATOS PERDIDOS
 ## ----------------------------------------------------------------------------------
 
-# En el dataframe de ciudades encontramos valores no definidos NA en el atributo Year.
+# En el dataframe de sedes encontramos valores no definidos NA en el atributo Year.
 # Esto ocurre cuando en un mismo año coindicen las ediciones de invierno y verano, por
 # lo que imputamos el año del registro inmediamente anterior que contiene el dato
 # exacto que corresponde a esa edición.
 
-for(i in 3:nrow(ciudades)){
-  if (is.na(ciudades[i,"Year"])) {
-    ciudades[i,"Year"] <- ciudades[i-1,"Year"]
+for(i in 3:nrow(sedes)){
+  if (is.na(sedes[i,"Year"])) {
+    sedes[i,"Year"] <- sedes[i-1,"Year"]
   }
 }
 
@@ -100,11 +100,11 @@ diccionario <- read.csv("https://www.dropbox.com/s/gibjji4okfhl0ru/diccionario.c
 
 names(paises) <- c("country","NOC","continent","sub_region")
 names(diccionario) <- c("NOC","country","code_3")
-names(ciudades) <- c("City","Country_host","Continent_host","Year")
+names(sedes) <- c("City","Country_host","Continent_host","Year")
 
 df <- merge(atletas, diccionario, by = "NOC", all.x=TRUE) %>% 
 merge(paises, by = "country", all.x=TRUE) %>% 
-merge(ciudades, by = c("City","Year"), all.x=TRUE)
+merge(sedes, by = c("City","Year"), all.x=TRUE)
 
 
 ## ----------------------------------------------------------------------------------
