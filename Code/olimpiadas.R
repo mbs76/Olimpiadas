@@ -87,9 +87,20 @@ for(i in 3:nrow(sedes)){
   }
 }
 
+## ----------------------------------------------------------------------------------
+##                              DETECCIÓN DE OUTLIERS
+## ----------------------------------------------------------------------------------
+
+# Representamos los los datos mediante gráficos de cajas (boxplots)
+# con el objetivo de detectar outliers
+
+by_NOC <- atletas %>% group_by(NOC) %>% summarise(count=n())
+boxplot(by_NOC$count)
+
+
 
 ## ----------------------------------------------------------------------------------
-##                               INTEGRACIÓN DE DATOS
+##                              INTEGRACIÓN DE LOS DATOS
 ## ----------------------------------------------------------------------------------
 
 # Unificamos el nombre de los atributos para simplificar la unión de los dataframes 
