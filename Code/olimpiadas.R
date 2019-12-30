@@ -63,18 +63,29 @@ paises %>% distinct(NOC)
 ##                           SELECCIÓN DE LOS DATOS
 ## ----------------------------------------------------------------------------------
 
+## SELECCIÓN DE COLUMNAS O ATRIBUTOS
+
 #Eliminamos las columnas no utilizadas en los análisis para simplificar los datasets
 atletas <- atletas[,c("NOC","Year","Season","City","Sport","Event","Medal")]
 paises <- paises[,c("country","code_3","continent","sub_region")]
 sedes <- sedes[,c("City","Country","Continent","Year")]
+
+## SELECCIÓN DE REGISTROS U OBSERVACIONES
 
 # En el dataframe sedes hay que eliminar los 3 últimos registros ya que son basura
 sedes <- sedes[1:(nrow(sedes)-3),]
 
 
 ## ----------------------------------------------------------------------------------
-##                         TRATAMIENTO DE DATOS PERDIDOS
+##                      DETECCIÓN Y TRATAMIENTO DE DATOS PERDIDOS
 ## ----------------------------------------------------------------------------------
+
+summary(atletas)
+
+summary(paises)
+
+summary(sedes)
+summary(as.factor(sedes$Year))
 
 # En el dataframe de sedes encontramos valores no definidos NA en el atributo Year.
 # Esto ocurre cuando en un mismo año coindicen las ediciones de invierno y verano, por
@@ -87,6 +98,7 @@ for(i in 3:nrow(sedes)){
   }
 }
 
+
 ## ----------------------------------------------------------------------------------
 ##                              DETECCIÓN DE OUTLIERS
 ## ----------------------------------------------------------------------------------
@@ -98,7 +110,8 @@ for(i in 3:nrow(sedes)){
 by_NOC <- atletas %>% group_by(NOC) %>% summarise(count=n())
 boxplot(by_NOC$count)
 
-# Realizamos la misma representación para el total de medallas de oro, plata y bronce
+# Realizamos la misma representación diferenciando por tipo de medalla
+# de oro, plata y bronce
 
 by_NOC_Medal <- atletas %>% group_by(NOC, Medal) %>% summarise(count=n())
 by_NOC_Medal_Gold <- by_NOC_Medal %>% filter(Medal == "Gold")
