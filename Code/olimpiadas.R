@@ -40,8 +40,11 @@ sedes <- read.csv("https://www.dropbox.com/s/6fhwd3ydoeop30j/list-host-cities-ol
 
 # Revisamos la estructura de los dataframes para comprobar el tipo de datos de cada atributo
 str(atletas)
+sapply(atletas, function(x) class(x))
 str(paises)
+sapply(paises, function(x) class(x))
 str(sedes)
+sapply(sedes, function(x) class(x))
 
 # Exploramos los dataframes creados visualizando las primeras filas
 head(atletas)
@@ -119,6 +122,7 @@ summary(as.factor(sedes$Year))
 
 by_NOC <- atletas %>% group_by(NOC) %>% summarise(count=n())
 boxplot(by_NOC$count)
+boxplot.stats(by_NOC$count)$out
 
 # Realizamos la misma representación diferenciando por tipo de medalla
 # de oro, plata y bronce
@@ -129,8 +133,13 @@ by_NOC_Medal_Silver <- by_NOC_Medal %>% filter(Medal == "Silver")
 by_NOC_Medal_Bronze <- by_NOC_Medal %>% filter(Medal == "Bronze")
 
 boxplot(by_NOC_Medal_Gold$count)
+boxplot.stats(by_NOC_Medal_Gold$count)$out
+
 boxplot(by_NOC_Medal_Silver$count)
+boxplot.stats(by_NOC_Medal_Silver$count)$out
+
 boxplot(by_NOC_Medal_Bronze$count)
+boxplot.stats(by_NOC_Medal_Bronze$count)$out
 
 
 ## ----------------------------------------------------------------------------------
