@@ -80,14 +80,21 @@ sedes <- sedes[1:(nrow(sedes)-3),]
 ##                      DETECCIÓN Y TRATAMIENTO DE DATOS PERDIDOS
 ## ----------------------------------------------------------------------------------
 
+## Dataframe atletas
 summary(atletas)
+summary(as.factor(atletas$Medal)) # detalle del campo con NA's
 
+# En el dataframe atletas encontramos 231.333 valores no definidos (NA's) en el atributo Medal
+######### ->> creo que no debemos tratarlos sino analizarlos como si fuese una categoría más
+
+## Dataframe paises
 summary(paises)
 
+## Dataframe sedes
 summary(sedes)
-summary(as.factor(sedes$Year))
+summary(as.factor(sedes$Year)) # detalle del campo con NA's
 
-# En el dataframe de sedes encontramos valores no definidos NA en el atributo Year.
+# En el dataframe de sedes encontramos 18 valores no definidos (NA's) en el atributo Year.
 # Esto ocurre cuando en un mismo año coindicen las ediciones de invierno y verano, por
 # lo que imputamos el año del registro inmediamente anterior que contiene el dato
 # exacto que corresponde a esa edición.
@@ -97,6 +104,9 @@ for(i in 3:nrow(sedes)){
     sedes[i,"Year"] <- sedes[i-1,"Year"]
   }
 }
+
+any(is.na(sedes$Year))
+summary(as.factor(sedes$Year)) 
 
 
 ## ----------------------------------------------------------------------------------
