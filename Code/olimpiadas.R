@@ -91,12 +91,23 @@ for(i in 3:nrow(sedes)){
 ##                              DETECCIÓN DE OUTLIERS
 ## ----------------------------------------------------------------------------------
 
-# Representamos los los datos mediante gráficos de cajas (boxplots)
-# con el objetivo de detectar outliers
+# Lo que nos interesa es el número de medallas por país por lo que agrupamos
+# por ese campo y representamos los datos mediante gráficos de cajas (boxplots)
+# con el objetivo de detectar outliers en este nuevo campo calculado
 
 by_NOC <- atletas %>% group_by(NOC) %>% summarise(count=n())
 boxplot(by_NOC$count)
 
+# Realizamos la misma representación para el total de medallas de oro, plata y bronce
+
+by_NOC_Medal <- atletas %>% group_by(NOC, Medal) %>% summarise(count=n())
+by_NOC_Medal_Gold <- by_NOC_Medal %>% filter(Medal == "Gold")
+by_NOC_Medal_Silver <- by_NOC_Medal %>% filter(Medal == "Silver")
+by_NOC_Medal_Bronze <- by_NOC_Medal %>% filter(Medal == "Bronze")
+
+boxplot(by_NOC_Medal_Gold$count)
+boxplot(by_NOC_Medal_Silver$count)
+boxplot(by_NOC_Medal_Bronze$count)
 
 
 ## ----------------------------------------------------------------------------------
