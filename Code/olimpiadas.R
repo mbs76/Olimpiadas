@@ -124,6 +124,11 @@ sedes$City <- as.character(sedes$City)
 
 # Imputamos manualmente los nombres correctos de las ciudades
 sedes[sedes$City == "Rome", "City"] = "Roma"
+sedes[sedes$City == "Athens", "City"] = "Athina"
+sedes[sedes$City == "Antwerp", "City"] = "Antwerpen"
+sedes[sedes$City == "St. Moritz", "City"] = "Sankt Moritz"
+sedes[sedes$City == "Moscow", "City"] = "Moskva"
+sedes[sedes$City == "Turin", "City"] = "Torino"
 
 # Volvemos a cambiar a factor
 sedes$City <- as.factor(sedes$City)
@@ -134,6 +139,11 @@ sedes$City <- as.factor(sedes$City)
 
 sedes <- add_row(sedes, City="Melbourne",Country="Australia",Continent="Oceania",Year=1956) %>%
   add_row(City="Stockholm",Country="Sweden",Continent="Europe",Year=1956)
+
+# Por último, para dejar el dataframe de sedes limpio y evitar la generación de datos nulos, eliminamos
+# los valores TBD que no contienen sedes reales
+
+sedes <- sedes[sedes$City != "TBD",]
 
 
 ## ----------------------------------------------------------------------------------
