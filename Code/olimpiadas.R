@@ -171,6 +171,11 @@ df <- df %>%
   mutate(Silver = ifelse(Medal == 'Silver', 1, 0)) %>%
   mutate(Bronze = ifelse(Medal == 'Bronze', 1, 0)) 
 
+df_pruebas <- df %>%
+  select(City,Year,Country_host,Continent_host) %>%
+  filter (is.na(Country_host)) %>%
+  count(City,Year)
+
 ## ----------------------------------------------------------------------------------
 ##                         ANÁLISIS ESTADÍSTICO DESCRIPTIVO
 ## ----------------------------------------------------------------------------------
