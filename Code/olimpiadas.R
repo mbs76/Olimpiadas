@@ -119,7 +119,14 @@ summary(as.factor(sedes$Year))
 # atletas, esto es debido al idioma utilizado, ya que en sedes siempre están en inglés y en atletas utilizan
 # para poner el nombre el propio del país.
 
+# Pasamos el atributo a caracteres para poder hacer la imputación manual de las 11 ciudades
+sedes$City <- as.character(sedes$City)
 
+# Imputamos manualmente los nombres correctos de las ciudades
+sedes[sedes$City == "Rome", "City"] = "Roma"
+
+# Volvemos a cambiar a factor
+sedes$City <- as.factor(sedes$City)
 
 # Además hemos descubierto que en el año 1956, por una cuarentena en el país, las pruebas 
 # de equitación de Melbourne se realizaron en Estocolmo, por lo que hay que añadir dos 
