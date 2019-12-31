@@ -56,10 +56,10 @@ anyDuplicated(sedes)
 anyDuplicated(paises)
 anyDuplicated(atletas)
 
-# Comprobamos que los códigos de país son todos distintos en el dataframe paises
-# para garantizar la correcta integración posterior de los datos ya que ese campo
-# se utilizará como identificador único del conjunto
-paises %>% distinct(NOC)
+# Comprobamos que los paises son todos distintos en el dataframe paises para garantizar
+# la correcta integración posterior de los datos ya que ese campo se utilizará como 
+# identificador único del conjunto
+paises %>% distinct(country)
 
 
 ## ----------------------------------------------------------------------------------
@@ -121,9 +121,9 @@ summary(as.factor(sedes$Year))
 
 
 
-# Además hemos descubierto que en el año 1956, por una cuarentena en el país, las pruebas de equitación de Melbourne
-# se realizaron en Estocolmo, por lo que hay que añadir dos líneas, ya que en este dataframe no viene desgregadas
-# estas dos ciudades.
+# Además hemos descubierto que en el año 1956, por una cuarentena en el país, las pruebas 
+# de equitación de Melbourne se realizaron en Estocolmo, por lo que hay que añadir dos 
+# líneas, ya que en este dataframe no viene desagregadas estas dos ciudades.
 
 sedes <- add_row(sedes, City="Melbourne",Country="Australia",Continent="Oceania",Year=1956) %>%
   add_row(City="Stockholm",Country="Sweden",Continent="Europe",Year=1956)
