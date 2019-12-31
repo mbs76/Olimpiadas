@@ -115,6 +115,19 @@ for(i in 3:nrow(sedes)){
 any(is.na(sedes$Year))
 summary(as.factor(sedes$Year)) 
 
+# También en sedes hemos descubierto que hay ciertos nombres de ciudades que no coinciden con los de 
+# atletas, esto es debido al idioma utilizado, ya que en sedes siempre están en inglés y en atletas utilizan
+# para poner el nombre el propio del país.
+
+
+
+# Además hemos descubierto que en el año 1956, por una cuarentena en el país, las pruebas de equitación de Melbourne
+# se realizaron en Estocolmo, por lo que hay que añadir dos líneas, ya que en este dataframe no viene desgregadas
+# estas dos ciudades.
+
+sedes <- add_row(sedes, City="Melbourne",Country="Australia",Continent="Oceania",Year=1956) %>%
+  add_row(City="Stockholm",Country="Sweden",Continent="Europe",Year=1956)
+
 
 ## ----------------------------------------------------------------------------------
 ##                              DETECCIÓN DE OUTLIERS
