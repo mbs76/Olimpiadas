@@ -184,7 +184,9 @@ df <- merge(atletas, diccionario, by = "NOC", all.x=TRUE) %>%
 merge(paises, by = "country", all.x=TRUE) %>% 
 merge(sedes, by = c("City","Year"), all.x=TRUE)
 
-# Añadimos tres columnas nuevas, una por cada tipo de medalla
+# Es necesario "dummificar" la variable cualitativa Medal que toma los valores
+# Gold, Silver, Bronze, así la convertimos en 3 variables dicotómicas (0, 1)
+# para lo que añadimos tres columnas nuevas en el dataframe
 
 df <- df %>%
   mutate(Gold = ifelse(Medal == 'Gold', 1, 0)) %>%
