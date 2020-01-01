@@ -225,8 +225,10 @@ names(sedes) <- c("City","Country_host","Continent_host","Year")
 
 # Mantenemos todos los registros del primer dataframe con all.x=TRUE
 df <- merge(atletas, diccionario, by = "NOC", all.x=TRUE) %>% 
-merge(paises, by = "country", all.x=TRUE) %>% 
+merge(paises, by.x = "code_3", by.y = "NOC", all.x=TRUE) %>% 
 merge(sedes, by = c("City","Year"), all.x=TRUE)
+
+summary(df)
 
 # Es necesario "dummificar" la variable cualitativa Medal que toma los valores
 # Gold, Silver, Bronze, así la convertimos en 3 variables dicotómicas (0, 1)
@@ -250,8 +252,6 @@ df$Continent_host <- as.character(df$Continent_host)
 df <- df %>%
   mutate(sedePais = ifelse(country == Country_host, 1, 0)) %>%
   mutate(sedeContinente = ifelse(continent == Continent_host, 1, 0))
-
-summary(df)
 
 df_pruebas <- df %>%
   select(City,Year,Country_host,Continent_host) %>%
