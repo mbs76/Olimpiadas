@@ -149,7 +149,7 @@ sedes <- sedes[1:(nrow(sedes)-3),]
 # de equitación de Melbourne se realizaron en Estocolmo, por lo que hay que añadir dos 
 # líneas, ya que en este dataframe no viene desagregadas estas dos ciudades.
 
-sedes <- sedes[sedes$City != "Melbourne Stockholm",]
+sedes <- sedes[as.character(sedes$City) != "Melbourne Stockholm",]
 sedes <- add_row(sedes, City="Melbourne",Country="Australia",Continent="Oceania",Year=1956) %>%
   add_row(City="Stockholm",Country="Sweden",Continent="Europe",Year=1956)
 
