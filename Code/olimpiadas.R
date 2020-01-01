@@ -63,23 +63,6 @@ paises %>% distinct(country)
 
 
 ## ----------------------------------------------------------------------------------
-##                           SELECCIÓN DE LOS DATOS
-## ----------------------------------------------------------------------------------
-
-## SELECCIÓN DE COLUMNAS O ATRIBUTOS
-
-#Eliminamos las columnas no utilizadas en los análisis para simplificar los datasets
-atletas <- atletas[,c("NOC","Year","Season","City","Sport","Event","Medal")]
-paises <- paises[,c("country","code_3","continent","sub_region")]
-sedes <- sedes[,c("City","Country","Continent","Year")]
-
-## SELECCIÓN DE REGISTROS U OBSERVACIONES
-
-# En el dataframe sedes hay que eliminar los 3 últimos registros ya que son basura
-sedes <- sedes[1:(nrow(sedes)-3),]
-
-
-## ----------------------------------------------------------------------------------
 ##                      DETECCIÓN Y TRATAMIENTO DE DATOS PERDIDOS
 ## ----------------------------------------------------------------------------------
 
@@ -115,36 +98,6 @@ for(i in 3:nrow(sedes)){
 any(is.na(sedes$Year))
 summary(as.factor(sedes$Year)) 
 
-# También en sedes hemos descubierto que hay ciertos nombres de ciudades que no coinciden con los de 
-# atletas, esto es debido al idioma utilizado, ya que en sedes siempre están en inglés y en atletas utilizan
-# para poner el nombre el propio del país.
-
-# Pasamos el atributo a caracteres para poder hacer la imputación manual de las 11 ciudades
-sedes$City <- as.character(sedes$City)
-
-# Imputamos manualmente los nombres correctos de las ciudades
-sedes[sedes$City == "Rome", "City"] = "Roma"
-sedes[sedes$City == "Athens", "City"] = "Athina"
-sedes[sedes$City == "Antwerp", "City"] = "Antwerpen"
-sedes[sedes$City == "St. Moritz", "City"] = "Sankt Moritz"
-sedes[sedes$City == "Moscow", "City"] = "Moskva"
-sedes[sedes$City == "Turin", "City"] = "Torino"
-
-# Volvemos a cambiar a factor
-sedes$City <- as.factor(sedes$City)
-
-# Además hemos descubierto que en el año 1956, por una cuarentena en el país, las pruebas 
-# de equitación de Melbourne se realizaron en Estocolmo, por lo que hay que añadir dos 
-# líneas, ya que en este dataframe no viene desagregadas estas dos ciudades.
-
-sedes <- add_row(sedes, City="Melbourne",Country="Australia",Continent="Oceania",Year=1956) %>%
-  add_row(City="Stockholm",Country="Sweden",Continent="Europe",Year=1956)
-
-# Por último, para dejar el dataframe de sedes limpio y evitar la generación de datos nulos, eliminamos
-# los valores TBD que no contienen sedes reales
-
-sedes <- sedes[sedes$City != "TBD",]
-
 
 ## ----------------------------------------------------------------------------------
 ##                              DETECCIÓN DE OUTLIERS
@@ -177,19 +130,92 @@ boxplot.stats(by_NOC_Medal_Bronze$count)$out
 
 
 ## ----------------------------------------------------------------------------------
+##                           SELECCIÓN DE LOS DATOS
+## ----------------------------------------------------------------------------------
+
+## SELECCIÓN DE COLUMNAS O ATRIBUTOS
+
+#Eliminamos las columnas no utilizadas en los análisis para simplificar los datasets
+atletas <- atletas[,c("NOC","Year","Season","City","Sport","Event","Medal")]
+paises <- paises[,c("country","code_3","continent","sub_region")]
+sedes <- sedes[,c("City","Country","Continent","Year")]
+
+## SELECCIÓN DE REGISTROS U OBSERVACIONES
+
+# En el dataframe sedes hay que eliminar los 3 últimos registros ya que son basura
+sedes <- sedes[1:(nrow(sedes)-3),]
+
+
+# Además hemos descubierto que en el año 1956, por una cuarentena en el país, las pruebas 
+# de equitación de Melbourne se realizaron en Estocolmo, por lo que hay que añadir dos 
+# líneas, ya que en este dataframe no viene desagregadas estas dos ciudades.
+
+sedes <- sedes[sedes$Year != 1956,]
+sedes <- add_row(sedes, City="Melbourne",Country="Australia",Continent="Oceania",Year=1956) %>%
+  add_row(City="Stockholm",Country="Sweden",Continent="Europe",Year=1956)
+
+# Las dos ediciones de 1940 que aparecen con doble sede se cancelaron por la guerra
+# sino-japonesa y la segunda guerra mundial por lo que eliminamos esos registros
+sedes <- sedes[sedes$Year != 1940,]
+
+# Por último, para dejar el dataframe de sedes limpio y evitar la generación de datos nulos, eliminamos
+# los valores TBD que no contienen sedes reales
+
+sedes <- sedes[sedes$City != "TBD",]
+
+
+## ----------------------------------------------------------------------------------
 ##                              INTEGRACIÓN DE LOS DATOS
 ## ----------------------------------------------------------------------------------
 
-# Unificamos el nombre de los atributos para simplificar la unión de los dataframes 
-# con la función merge. Mantenemos todos los registros del primer dataframe.
-# Hemos generado un diccionario que relaciona los códigos NOC con los códigos code_3
+# Preparamos los datos para la unión homogeneizando los niveles de las variables
+# categóricas que se van a utilizar posteriormente
 
+# Pasamos el atributo a caracteres para poder hacer la imputación
+sedes$Country <- as.character(sedes$Country)
+
+sedes[sedes$Country == "United States", "Country"] = "USA"
+sedes[sedes$Country == "United Kingdom", "Country"] = "UK"
+
+# Volvemos a cambiar a factor
+sedes$Country <- as.factor(sedes$Country)
+
+# Pasamos el atributo a caracteres para poder hacer la imputación
+sedes$Continent <- as.character(sedes$Continent)
+
+sedes[sedes$Continent == "North America", "Continent"] = "Americas"
+sedes[sedes$Continent == "South America", "Continent"] = "Americas"
+
+# Volvemos a cambiar a factor
+sedes$Continent <- as.factor(sedes$Continent)
+
+# Hay ciertos nombres de ciudades que no coinciden con los de atletas, esto es debido 
+# al idioma utilizado, ya que en sedes siempre están en inglés y en atletas utilizan
+# para poner el nombre el propio del país.
+
+# Pasamos el atributo a caracteres para poder hacer la imputación manual de las 11 ciudades
+sedes$City <- as.character(sedes$City)
+
+# Imputamos manualmente los nombres correctos de las ciudades
+sedes[sedes$City == "Rome", "City"] = "Roma"
+sedes[sedes$City == "Athens", "City"] = "Athina"
+sedes[sedes$City == "Antwerp", "City"] = "Antwerpen"
+sedes[sedes$City == "St. Moritz", "City"] = "Sankt Moritz"
+sedes[sedes$City == "Moscow", "City"] = "Moskva"
+sedes[sedes$City == "Turin", "City"] = "Torino"
+
+# Volvemos a cambiar a factor
+sedes$City <- as.factor(sedes$City)
+
+# Hemos generado un diccionario que relaciona los códigos NOC con los códigos code_3
 diccionario <- read.csv("https://www.dropbox.com/s/gibjji4okfhl0ru/diccionario.csv?dl=1", encoding="utf-8")
 
+# Unificamos el nombre de los atributos para simplificar la unión de los dataframes 
 names(paises) <- c("country","NOC","continent","sub_region")
 names(diccionario) <- c("NOC","country","code_3")
 names(sedes) <- c("City","Country_host","Continent_host","Year")
 
+# Mantenemos todos los registros del primer dataframe con all.x=TRUE
 df <- merge(atletas, diccionario, by = "NOC", all.x=TRUE) %>% 
 merge(paises, by = "country", all.x=TRUE) %>% 
 merge(sedes, by = c("City","Year"), all.x=TRUE)
@@ -202,6 +228,16 @@ df <- df %>%
   mutate(Gold = ifelse(Medal == 'Gold', 1, 0)) %>%
   mutate(Silver = ifelse(Medal == 'Silver', 1, 0)) %>%
   mutate(Bronze = ifelse(Medal == 'Bronze', 1, 0)) 
+
+# Creamos dos nuevos atributo dicotómicos, "sedePais" y "sedeContinente" donde
+# el 1 significa que en esa edición de los juegos el país o el continente del 
+# equipo fue sede de dichos juegos
+
+df <- df %>%
+  mutate(sedePais = ifelse(country == Country_host, 1, 0)) %>%
+  mutate(sedeContinente = ifelse(continent == Continent_host, 1, 0))
+
+summary(df)
 
 df_pruebas <- df %>%
   select(City,Year,Country_host,Continent_host) %>%
