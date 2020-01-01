@@ -237,11 +237,14 @@ df <- df %>%
 # equipo fue sede de dichos juegos
 
 ############ este codigo aún no funciona por los NA que hay que resolver antes
+############ en los 4 campos involucrados
+df$country <- as.character(df$country)
+df$Country_host <- as.character(df$Country_host)
+df$continent <- as.character(df$continent)
+df$Continent_host <- as.character(df$Continent_host)
 df <- df %>%
   mutate(sedePais = ifelse(country == Country_host, 1, 0)) %>%
   mutate(sedeContinente = ifelse(continent == Continent_host, 1, 0))
-#####################
-
 
 df_pruebas <- df %>%
   select(City,Year,Country_host,Continent_host) %>%
