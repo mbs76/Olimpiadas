@@ -177,6 +177,8 @@ sedes$Country <- as.character(sedes$Country)
 sedes[sedes$Country == "United States", "Country"] = "USA"
 sedes[sedes$Country == "United Kingdom", "Country"] = "UK"
 sedes[sedes$Country == "Nazi Germany", "Country"] = "Germany"
+sedes[sedes$Country == "West Germany", "Country"] = "Germany"
+sedes[sedes$Country == "Soviet Union", "Country"] = "Russia"
 
 # Volvemos a cambiar a factor
 sedes$Country <- as.factor(sedes$Country)
@@ -234,9 +236,12 @@ df <- df %>%
 # el 1 significa que en esa edición de los juegos el país o el continente del 
 # equipo fue sede de dichos juegos
 
+############ este codigo aún no funciona por los NA que hay que resolver antes
 df <- df %>%
   mutate(sedePais = ifelse(country == Country_host, 1, 0)) %>%
   mutate(sedeContinente = ifelse(continent == Continent_host, 1, 0))
+
+summary(df)
 
 df_pruebas <- df %>%
   select(City,Year,Country_host,Continent_host) %>%
