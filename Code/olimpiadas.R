@@ -240,8 +240,8 @@ df <- df %>%
 df <- df %>%
   mutate(sedePais = ifelse(country == Country_host, 1, 0)) %>%
   mutate(sedeContinente = ifelse(continent == Continent_host, 1, 0))
+#####################
 
-summary(df)
 
 df_pruebas <- df %>%
   select(City,Year,Country_host,Continent_host) %>%
