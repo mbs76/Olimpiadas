@@ -157,7 +157,7 @@ sedes <- add_row(sedes, City="Melbourne",Country="Australia",Continent="Oceania"
 # sino-japonesa y la segunda guerra mundial por lo que eliminamos esos registros
 sedes <- sedes[sedes$Year != 1940,]
 
-# Por último, para dejar el dataframe de sedes limpio y evitar la generación de datos nulos, eliminamos
+# Para dejar el dataframe de sedes limpio y evitar la generación de datos nulos, eliminamos
 # los valores TBD que no contienen sedes reales
 
 sedes <- sedes[sedes$City != "TBD",]
@@ -228,7 +228,10 @@ df <- merge(atletas, diccionario, by = "NOC", all.x=TRUE) %>%
 merge(paises, by.x = "code_3", by.y = "NOC", all.x=TRUE) %>% 
 merge(sedes, by = c("City","Year"), all.x=TRUE)
 
+# Comprobamos la no existencia de NA
+
 summary(df)
+
 
 # Es necesario "dummificar" la variable cualitativa Medal que toma los valores
 # Gold, Silver, Bronze, así la convertimos en 3 variables dicotómicas (0, 1)
@@ -243,15 +246,19 @@ df <- df %>%
 # el 1 significa que en esa edición de los juegos el país o el continente del 
 # equipo fue sede de dichos juegos
 
+df <- df %>%
+  mutate(sedePais = ifelse(country.x==Country_host,1,0)) %>%
+  mutate(sedeContinente = ifelse(continent==Continent_host,1,0))
+
 ############ este codigo aún no funciona por los NA que hay que resolver antes
 ############ en los 4 campos involucrados
-df$country <- as.character(df$country)
-df$Country_host <- as.character(df$Country_host)
-df$continent <- as.character(df$continent)
-df$Continent_host <- as.character(df$Continent_host)
-df <- df %>%
-  mutate(sedePais = ifelse(country == Country_host, 1, 0)) %>%
-  mutate(sedeContinente = ifelse(continent == Continent_host, 1, 0))
+#df$country <- as.character(df$country)
+#df$Country_host <- as.character(df$Country_host)
+#df$continent <- as.character(df$continent)
+#df$Continent_host <- as.character(df$Continent_host)
+#df <- df %>%
+#  mutate(sedePais = ifelse(country == Country_host, 1, 0)) %>%
+#  mutate(sedeContinente = ifelse(continent == Continent_host, 1, 0))
 
 df_pruebas <- df %>%
   select(City,Year,Country_host,Continent_host) %>%
