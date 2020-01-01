@@ -145,7 +145,6 @@ sedes <- sedes[,c("City","Country","Continent","Year")]
 # En el dataframe sedes hay que eliminar los 3 últimos registros ya que son basura
 sedes <- sedes[1:(nrow(sedes)-3),]
 
-
 # Además hemos descubierto que en el año 1956, por una cuarentena en el país, las pruebas 
 # de equitación de Melbourne se realizaron en Estocolmo, por lo que hay que añadir dos 
 # líneas, ya que en este dataframe no viene desagregadas estas dos ciudades.
@@ -162,6 +161,12 @@ sedes <- sedes[sedes$Year != 1940,]
 # los valores TBD que no contienen sedes reales
 
 sedes <- sedes[sedes$City != "TBD",]
+
+# Los Juegos Olímpicos de 1906 que se celebraron en Atenas no son reconocidos por el 
+# Comité Olímpico Internacional (COI) en la actualidad por lo que no aparecen en el
+# dataset sedes y los tenemos que eliminar del dataset atletas
+
+atletas <- atletas[atletas$Year != 1906,]
 
 
 ## ----------------------------------------------------------------------------------
