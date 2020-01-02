@@ -18,6 +18,11 @@ if(!require("MASS")){
   library("MASS")
 }
 
+if(!require("gmodels")){
+  install.packages("gmodels")
+  library("gmodels")
+}
+
 if(!require("modeest")){
   install.packages("modeest")
   library("modeest")
@@ -283,14 +288,19 @@ df_pais <- df %>% group_by(country, City, Year, sedePais, sedeContinente) %>%
 # Ranking de países por participación de atletas
 summary(df$country)
 
-# Total de medallas de cada tipo
-nrow(df[df$Gold==1,])
-nrow(df[df$Silver==1,])
-nrow(df[df$Bronze==1,])
+# Total de medallas de cada tipo y sus porcentajes
+CrossTable(df$Medal)
 
-# Total de medallas de cada tipo por país
+# Resultados acumulados absolutos de todos los juegos por país
+table(df$Medal, df$country)
+# Resultados acumulados en porcentaje de todos los juegos por país
+CrossTable(df$Medal, df$country)
+
+# Medallas acumuladas de oro en todos los juegos por país
 tapply(df$Gold, df$country, sum)
+# Medallas acumuladas de plata en todos los juegos por país
 tapply(df$Silver, df$country, sum)
+# Medallas acumuladas de bronce en todos los juegos por país
 tapply(df$Bronze, df$country, sum)
 
 # Calculamos la moda del atributo "Medal" (tipo de medalla) para todo el conjunto
