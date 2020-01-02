@@ -82,10 +82,11 @@ summary(as.factor(atletas$Medal)) # detalle del campo con NA's
 
 # En el dataframe atletas encontramos 231.333 valores no definidos (NA's) en el atributo Medal
 # esto es debido a que en el dataframe se recogen todos los participantes, hayan o no obtenido medallas
-# por lo que hay que eliminar los registros, al no considerarse datos perdidos, sino registros nulos
-# para el cálculo estadístico que persigue esta práctica
+# por lo que cremamos una nueva categoría para imputarla a todos los NA's.
 
-atletas <- atletas[!is.na(atletas$Medal),]
+atletas$Medal <- as.character(atletas$Medal)
+atletas[is.na(atletas$Medal),"Medal"] = "Sin medalla"
+atletas$Medal <- as.character(atletas$Medal)
 
 ## Dataframe paises
 summary(paises)
@@ -239,8 +240,7 @@ df <- merge(atletas, diccionario, by = "NOC", all.x=TRUE) %>%
 merge(paises, by = "code_3", by.y = "NOC", all.x=TRUE) %>% 
 merge(sedes, by = c("City","Year"), all.x=TRUE)
 
-# Comprobamos la no existencia de NA
-
+# Comprobamos la no existencia de NA tras la unión
 summary(df)
 
 
@@ -269,10 +269,6 @@ df <- df %>%
 df_pais <- df %>% group_by(country, City, Year, sedePais, sedeContinente) %>%
   summarise(T_Gold=sum(Gold), T_Silver=sum(Silver), T_Bronze=sum(Bronze))
   
-df_pruebas <- df %>%
-  select(City,Year,Country_host,Continent_host) %>%
-  filter (is.na(Country_host)) %>%
-  count(City,Year)
 
 ## ----------------------------------------------------------------------------------
 ##                         ANÁLISIS ESTADÍSTICO DESCRIPTIVO
