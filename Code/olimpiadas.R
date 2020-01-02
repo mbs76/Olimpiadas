@@ -149,7 +149,7 @@ sedes <- sedes[1:(nrow(sedes)-3),]
 # de equitación de Melbourne se realizaron en Estocolmo, por lo que hay que añadir dos 
 # líneas, ya que en este dataframe no viene desagregadas estas dos ciudades.
 
-sedes <- sedes[sedes$City != "Melbourne Stockholm",]
+sedes <- sedes[sedes$City!="Melbourne\n Stockholm",]
 sedes <- add_row(sedes, City="Melbourne",Country="Australia",Continent="Oceania",Year=1956) %>%
   add_row(City="Stockholm",Country="Sweden",Continent="Europe",Year=1956)
 
@@ -246,19 +246,13 @@ df <- df %>%
 # el 1 significa que en esa edición de los juegos el país o el continente del 
 # equipo fue sede de dichos juegos
 
+df$country <- as.character(df$country)
+df$Country_host <- as.character(df$Country_host)
+df$continent <- as.character(df$continent)
+df$Continent_host <- as.character(df$Continent_host)
 df <- df %>%
-  mutate(sedePais = ifelse(country.x==Country_host,1,0)) %>%
-  mutate(sedeContinente = ifelse(continent==Continent_host,1,0))
-
-############ este codigo aún no funciona por los NA que hay que resolver antes
-############ en los 4 campos involucrados
-#df$country <- as.character(df$country)
-#df$Country_host <- as.character(df$Country_host)
-#df$continent <- as.character(df$continent)
-#df$Continent_host <- as.character(df$Continent_host)
-#df <- df %>%
-#  mutate(sedePais = ifelse(country == Country_host, 1, 0)) %>%
-#  mutate(sedeContinente = ifelse(continent == Continent_host, 1, 0))
+  mutate(sedePais = ifelse(country == Country_host, 1, 0)) %>%
+  mutate(sedeContinente = ifelse(continent == Continent_host, 1, 0))
 
 df_pruebas <- df %>%
   select(City,Year,Country_host,Continent_host) %>%
