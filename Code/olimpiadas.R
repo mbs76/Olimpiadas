@@ -13,9 +13,19 @@ if(!require("dplyr")){
   library("dplyr")
 }
 
+if(!require("MASS")){
+  install.packages("MASS")
+  library("MASS")
+}
+
 if(!require("modeest")){
   install.packages("modeest")
   library("modeest")
+}
+
+if(!require("ggplot2")){
+  install.packages("ggplot2")
+  library("ggplot2")
 }
 
 
@@ -292,9 +302,33 @@ apply(df[,c("country", "Medal")], 2, mlv,  method = "mfv", na.rm=TRUE)
 ##                         ANÁLISIS ESTADÍSTICO INFERENCIAL
 ## ----------------------------------------------------------------------------------
 
+## ANÁLISIS DE CORRELACIÓN
+
+# Comprobamos como se distribuyen las variables para ver que prueba es la más adecuada
+shapiro.test(df_pais$sedePais)
 shapiro.test(df_pais$T_Gold)
 shapiro.test(df_pais$T_Silver)
 shapiro.test(df_pais$T_Bronze)
 
-ks.test(df_pais$T_Gold, pnorm, mean(df_pais$T_Gold), sd(df_pais$T_Gold))
+# Lo podemos ver también gráficamente comparándolo con una distribución normal
+plotn <- function(x,main="Histograma de frecuencias \ny distribución normal",
+                  xlab="X",ylab="Densidad") {
+  min <- min(x)
+  max <- max(x)
+  media <- mean(x)
+  dt <- sd(x)
+  hist(x,freq=F,main=main,xlab=xlab,ylab=ylab)
+  curve(dnorm(x,media,dt), min, max,add = T,col="blue")
+}
+
+plotn(df_pais$sedePais, main="Distribución normal")
+plotn(df_pais$T_Gold, main="Distribución normal")
+plotn(df_pais$T_Silver, main="Distribución normal")
+plotn(df_pais$T_Bronze, main="Distribución normal")
+
+# Usamos el coeficiente de correlación Spearman ya que no se distribuyen normalmente
+cor(x=df_pais$sedePais, y=df_pais$T_Gold, method = "spearman")
+cor(x=df_pais$sedePais, y=df_pais$T_Silver, method = "spearman")
+cor(x=df_pais$sedePais, y=df_pais$T_Bronze, method = "spearman")
+
 
