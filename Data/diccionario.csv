@@ -1,6 +1,6 @@
 NOC,country,code_3
 AFG,Afghanistan,AFG
-AHO,Curacao,CRI
+AHO,Curacao,CUW
 ALB,Albania,ALB
 ALG,Algeria,DZA
 AND,Andorra,AND
@@ -35,13 +35,13 @@ BUL,Bulgaria,BGR
 BUR,Burkina Faso,BFA
 CAF,Central African Republic,CAF
 CAM,Cambodia,KHM
-CAN,Canada,CPV
+CAN,Canada,CAN
 CAY,Cayman Islands,CYM
 CGO,Republic of Congo,QAT
 CHA,Chad,TCD
 CHI,Chile,CHL
 CHN,China,CHN
-CIV,Ivory Coast,ITA
+CIV,Ivory Coast,CIV
 CMR,Cameroon,CMR
 COD,Democratic Republic of the Congo,CZE
 COK,Cook Islands,COK
@@ -49,9 +49,9 @@ COL,Colombia,COL
 COM,Comoros,COM
 CPV,Cape Verde,CPV
 CRC,Costa Rica,CRI
-CRO,Croatia,CRI
+CRO,Croatia,HRV
 CRT,Greece,GRC
-CUB,Cuba,CRI
+CUB,Cuba,CUB
 CYP,Cyprus,CYP
 CZE,Czech Republic,CZE
 DEN,Denmark,DNK
@@ -65,7 +65,7 @@ ESA,El Salvador,SLV
 ESP,Spain,ESP
 EST,Estonia,EST
 ETH,Ethiopia,ETH
-EUN,Russia,ROU
+EUN,Unified Team,EUN
 FIJ,Fiji,FJI
 FIN,Finland,FIN
 FRA,France,FRA
@@ -73,7 +73,7 @@ FRG,Germany,DEU
 FSM,Micronesia,MEX
 GAB,Gabon,GAB
 GAM,Gambia,GMB
-GBR,UK,UGA
+GBR,UK,GBR
 GBS,Guinea-Bissau,GNB
 GDR,Germany,DEU
 GEO,Georgia,GEO
@@ -92,15 +92,15 @@ HON,Honduras,HND
 HUN,Hungary,HUN
 INA,Indonesia,IDN
 IND,India,IND
-IOA,Individual Olympic Athletes,IND
-IRI,Iran,IDN
+IOA,Individual Olympic Athletes,IOA
+IRI,Iran,IRN
 IRL,Ireland,IRL
 IRQ,Iraq,IRQ
 ISL,Iceland,ISL
 ISR,Israel,ISR
-ISV,Virgin Islands, US,VIR
+ISV,Virgin Islands,VIR
 ITA,Italy,ITA
-IVB,Virgin Islands, British,VIR
+IVB,Virgin Islands,VIR
 JAM,Jamaica,JAM
 JOR,Jordan,JOR
 JPN,Japan,JPN
@@ -108,8 +108,8 @@ KAZ,Kazakhstan,KAZ
 KEN,Kenya,KEN
 KGZ,Kyrgyzstan,KGZ
 KIR,Kiribati,KIR
-KOR,South Korea,SGS
-KOS,Kosovo,KOR
+KOR,South Korea,KOR
+KOS,Kosovo,XKX
 KSA,Saudi Arabia,SAU
 KUW,Kuwait,KWT
 LAO,Laos,LAO
@@ -127,12 +127,12 @@ MAL,Malaysia,MYS
 MAR,Morocco,MAR
 MAS,Malaysia,MYS
 MAW,Malawi,MWI
-MDA,Moldova,FSM
+MDA,Moldova,MDA
 MDV,Maldives,MDV
 MEX,Mexico,MEX
 MGL,Mongolia,MNG
 MHL,Marshall Islands,MHL
-MKD,Macedonia,MAC
+MKD,Macedonia,MKD
 MLI,Mali,MLI
 MLT,Malta,MLT
 MNE,Montenegro,MNE
@@ -163,20 +163,21 @@ PLW,Palau,PLW
 PNG,Papua New Guinea,PNG
 POL,Poland,POL
 POR,Portugal,PRT
-PRK,North Korea,NFK
+PRK,North Korea,PRK
 PUR,Puerto Rico,PRI
 QAT,Qatar,QAT
 RHO,Zimbabwe,ZWE
 ROT,NA,MMR
 ROU,Romania,ROU
 RSA,South Africa,ZAF
-RUS,Russia,ROU
+RUS,Russia,RUS
 RWA,Rwanda,RWA
 SAA,Germany,DEU
 SAM,Samoa,WSM
 SCG,Serbia,SRB
 SEN,Senegal,SEN
 SEY,Seychelles,SYC
+SGP,Singapore,SGP
 SIN,Singapore,SGP
 SKN,Saint Kitts,SHN
 SLE,Sierra Leone,SLE
@@ -194,8 +195,8 @@ SUR,Suriname,SUR
 SVK,Slovakia,SVK
 SWE,Sweden,SWE
 SWZ,Swaziland,SWZ
-SYR,Syria,CHE
-TAN,Tanzania,TJK
+SYR,Syria,SYR
+TAN,Tanzania,TZA
 TCH,Czech Republic,CZE
 TGA,Tonga,TON
 THA,Thailand,THA
@@ -203,26 +204,26 @@ TJK,Tajikistan,TJK
 TKM,Turkmenistan,TKM
 TLS,Timor-Leste,TLS
 TOG,Togo,TGO
-TPE,Taiwan,SYR
-TTO,Trinidad,TON
+TPE,Taiwan,TWN
+TTO,Trinidad,TTO
 TUN,Tunisia,TUN
 TUR,Turkey,TUR
 TUV,NA,MMR
 UAE,United Arab Emirates,ARE
-UAR,Syria,CHE
+UAR,Syria,SYR
 UGA,Uganda,UGA
 UKR,Ukraine,UKR
 UNK,NA,MMR
-URS,Russia,ROU
+URS,Russia,RUS
 URU,Uruguay,URY
-USA,USA,URY
+USA,USA,USA
 UZB,Uzbekistan,UZB
 VAN,Vanuatu,VUT
-VEN,Venezuela,VUT
+VEN,Venezuela,VEN
 VIE,Vietnam,VNM
 VIN,Saint Vincent,SPM
 VNM,Vietnam,VNM
-WIF,Trinidad,TON
+WIF,Trinidad,TTO
 YAR,Yemen,YEM
 YEM,Yemen,YEM
 YMD,Yemen,YEM
