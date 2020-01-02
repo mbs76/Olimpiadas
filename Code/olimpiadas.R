@@ -255,6 +255,10 @@ df <- df %>%
   mutate(sedePais = ifelse(country == Country_host, 1, 0)) %>%
   mutate(sedeContinente = ifelse(continent == Continent_host, 1, 0))
 
+# Creamos un dataframe con los datos agregados por país para nuestro análisis
+df_pais <- df %>% group_by(country, City, Year, sedePais, sedeContinente) %>%
+  summarise(T_Gold=sum(Gold), T_Silver=sum(Silver), T_Bronze=sum(Bronze))
+  
 df_pruebas <- df %>%
   select(City,Year,Country_host,Continent_host) %>%
   filter (is.na(Country_host)) %>%
@@ -284,4 +288,13 @@ tapply(df$Medal, df$country, mlv, na.rm=TRUE)
 apply(df[,c("country", "Medal")], 2, mlv,  method = "mfv", na.rm=TRUE)
 
 
+## ----------------------------------------------------------------------------------
+##                         ANÁLISIS ESTADÍSTICO INFERENCIAL
+## ----------------------------------------------------------------------------------
+
+shapiro.test(df$Gold)
+shapiro.test(df$Silver)
+shapiro.test(df$Bronze)
+
+ks.test(df$Gold, pnorm, mean(df$Gold), sd(df$Gold))
 
