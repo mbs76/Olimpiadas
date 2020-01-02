@@ -292,9 +292,9 @@ apply(df[,c("country", "Medal")], 2, mlv,  method = "mfv", na.rm=TRUE)
 ##                         ANÁLISIS ESTADÍSTICO INFERENCIAL
 ## ----------------------------------------------------------------------------------
 
-shapiro.test(df$Gold)
-shapiro.test(df$Silver)
-shapiro.test(df$Bronze)
+shapiro.test(df_pais$T_Gold)
+shapiro.test(df_pais$T_Silver)
+shapiro.test(df_pais$T_Bronze)
 
-ks.test(df$Gold, pnorm, mean(df$Gold), sd(df$Gold))
+ks.test(df_pais$T_Gold, pnorm, mean(df_pais$T_Gold), sd(df_pais$T_Gold))
 
