@@ -326,9 +326,18 @@ plotn(df_pais$T_Gold, main="Distribución normal")
 plotn(df_pais$T_Silver, main="Distribución normal")
 plotn(df_pais$T_Bronze, main="Distribución normal")
 
-# Usamos el coeficiente de correlación Spearman ya que no se distribuyen normalmente
+# Usamos el coeficiente de correlación de Spearman 
 cor(x=df_pais$sedePais, y=df_pais$T_Gold, method = "spearman")
 cor(x=df_pais$sedePais, y=df_pais$T_Silver, method = "spearman")
 cor(x=df_pais$sedePais, y=df_pais$T_Bronze, method = "spearman")
+# Significancia de la correlación de Spearman 
+cor.test(x=df_pais$sedePais, y=df_pais$T_Gold, conf.level  = 0.95, method = "spearman")
+cor.test(x=df_pais$sedePais, y=df_pais$T_Silver, conf.level  = 0.95, method = "spearman")
+cor.test(x=df_pais$sedePais, y=df_pais$T_Bronze, conf.level  = 0.95, method = "spearman")
+
+# Usamos el coeficiente de correlación de Kendall
+cor(x=df_pais$sedePais, y=df_pais$T_Gold, method = "kendall")
+cor(x=df_pais$sedePais, y=df_pais$T_Silver, method = "kendall")
+cor(x=df_pais$sedePais, y=df_pais$T_Bronze, method = "kendall")
 
 
