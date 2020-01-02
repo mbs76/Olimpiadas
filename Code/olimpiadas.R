@@ -291,7 +291,10 @@ df$Continent_host <- as.factor(df$Continent_host)
 # Creamos un dataframe con los datos agregados por país para nuestro análisis
 df_pais <- df %>% group_by(country, City, Year, sedePais, sedeContinente) %>%
   summarise(T_Gold=sum(Gold), T_Silver=sum(Silver), T_Bronze=sum(Bronze), T_Medal=(sum(Gold)+sum(Silver)+sum(Bronze)))
-  
+
+# Creamos un dataframe con los datos agregados por continente para nuestro análisis
+df_continente <- df %>% group_by(continent, City, Year, sedeContinente) %>%
+  summarise(T_Gold=sum(Gold), T_Silver=sum(Silver), T_Bronze=sum(Bronze), T_Medal=(sum(Gold)+sum(Silver)+sum(Bronze)))
 
 ## ----------------------------------------------------------------------------------
 ##                         ANÁLISIS ESTADÍSTICO DESCRIPTIVO
