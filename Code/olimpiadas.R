@@ -290,7 +290,7 @@ df$Continent_host <- as.factor(df$Continent_host)
 
 # Creamos un dataframe con los datos agregados por país para nuestro análisis
 df_pais <- df %>% group_by(country, City, Year, sedePais, sedeContinente) %>%
-  summarise(T_Gold=sum(Gold), T_Silver=sum(Silver), T_Bronze=sum(Bronze))
+  summarise(T_Gold=sum(Gold), T_Silver=sum(Silver), T_Bronze=sum(Bronze), T_Medal=(sum(Gold)+sum(Silver)+sum(Bronze)))
   
 
 ## ----------------------------------------------------------------------------------
@@ -336,6 +336,7 @@ shapiro.test(df_pais$sedePais)
 shapiro.test(df_pais$T_Gold)
 shapiro.test(df_pais$T_Silver)
 shapiro.test(df_pais$T_Bronze)
+shapiro.test(df_pais$T_Medal)
 
 # Lo podemos ver también gráficamente comparándolo con una distribución normal
 plotn <- function(x,main="Histograma de frecuencias \ny distribución normal",
@@ -352,20 +353,25 @@ plotn(df_pais$sedePais, main="Distribución normal")
 plotn(df_pais$T_Gold, main="Distribución normal")
 plotn(df_pais$T_Silver, main="Distribución normal")
 plotn(df_pais$T_Bronze, main="Distribución normal")
+plotn(df_pais$T_Medal, main="Distribución normal")
 
 # Usamos el coeficiente de correlación de Spearman 
 cor(x=df_pais$sedePais, y=df_pais$T_Gold, method = "spearman")
 cor(x=df_pais$sedePais, y=df_pais$T_Silver, method = "spearman")
 cor(x=df_pais$sedePais, y=df_pais$T_Bronze, method = "spearman")
+cor(x=df_pais$sedePais, y=df_pais$T_Medal, method = "spearman")
+
 # Significancia de la correlación de Spearman 
 cor.test(x=df_pais$sedePais, y=df_pais$T_Gold, conf.level  = 0.95, method = "spearman")
 cor.test(x=df_pais$sedePais, y=df_pais$T_Silver, conf.level  = 0.95, method = "spearman")
 cor.test(x=df_pais$sedePais, y=df_pais$T_Bronze, conf.level  = 0.95, method = "spearman")
+cor.test(x=df_pais$sedePais, y=df_pais$T_Medal, conf.level  = 0.95, method = "spearman")
 
 # Usamos el coeficiente de correlación de Kendall
 cor(x=df_pais$sedePais, y=df_pais$T_Gold, method = "kendall")
 cor(x=df_pais$sedePais, y=df_pais$T_Silver, method = "kendall")
 cor(x=df_pais$sedePais, y=df_pais$T_Bronze, method = "kendall")
+cor(x=df_pais$sedePais, y=df_pais$T_Medal, method = "kendall")
 
 
 ## ----------------------------------------------------------------------------------
