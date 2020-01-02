@@ -293,9 +293,6 @@ tapply(df$Gold, df$country, sum)
 tapply(df$Silver, df$country, sum)
 tapply(df$Bronze, df$country, sum)
 
-by(df$country, df$Gold, length) 
-aggregate(country ~ Gold, df, length)
-
 # Calculamos la moda del atributo "Medal" (tipo de medalla) para todo el conjunto
 mlv(df$Medal, na.rm=TRUE)
 
