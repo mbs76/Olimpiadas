@@ -240,10 +240,22 @@ diccionario <- diccionario[,c("NOC","code_3")]
 names(diccionario) <- c("NOC","code_3")
 names(sedes) <- c("City","Country_host","Continent_host","Year")
 
+# En la tabla países falta por añadir Kosovo para evitar datos nulos en la unión
+paises <- paises %>%
+  add_row(country="Kosovo",NOC="XKX",continent="Europe",sub_region="Southern Europe")
+  
 # Mantenemos todos los registros del primer dataframe con all.x=TRUE
 df <- merge(atletas, diccionario, by = "NOC", all.x=TRUE) %>% 
 merge(paises, by = "code_3", by.y = "NOC", all.x=TRUE) %>% 
 merge(sedes, by = c("City","Year"), all.x=TRUE)
+
+# En la unión vemos que hay registros NA generados, analízándolos vemos que coresponden a los siguientes códigos NOC/code_3
+# EUN EUN Unified Team
+# IOA IOA Individual Olympic Athletes
+# Estos registros hay que eliminarlos, ya que no nos va a servir para el análisis por países o continentes
+
+df <- df[df$NOC!="EUN",]
+df <- df[df$NOC!="IOA",]
 
 # Comprobamos la no existencia de NA tras la unión
 summary(df)
