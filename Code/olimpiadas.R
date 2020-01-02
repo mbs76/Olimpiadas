@@ -280,12 +280,14 @@ df_pais <- df %>% group_by(country, City, Year, sedePais, sedeContinente) %>%
 ##                         ANÁLISIS ESTADÍSTICO DESCRIPTIVO
 ## ----------------------------------------------------------------------------------
 
+#############
+##### este apartado hay que corregirlo todo al final
 
 # Ranking de países por participación de atletas
 summary(df$country)
 
-# Número de medallas de cada tipo por país∫
-tapply(df$country, df$Medal, summary)
+# Número de medallas de cada tipo por país
+tapply(df$country, df$Gold, summary)
 
 # Listado de paises con sus medallas por tipo
 tapply(df$Medal, df$country, summary)
