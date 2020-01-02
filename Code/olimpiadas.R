@@ -261,9 +261,15 @@ df$country <- as.character(df$country)
 df$Country_host <- as.character(df$Country_host)
 df$continent <- as.character(df$continent)
 df$Continent_host <- as.character(df$Continent_host)
+
 df <- df %>%
   mutate(sedePais = ifelse(country == Country_host, 1, 0)) %>%
   mutate(sedeContinente = ifelse(continent == Continent_host, 1, 0))
+
+df$country <- as.factor(df$country)
+df$Country_host <- as.factor(df$Country_host)
+df$continent <- as.factor(df$continent)
+df$Continent_host <- as.factor(df$Continent_host)
 
 # Creamos un dataframe con los datos agregados por país para nuestro análisis
 df_pais <- df %>% group_by(country, City, Year, sedePais, sedeContinente) %>%
@@ -275,10 +281,10 @@ df_pais <- df %>% group_by(country, City, Year, sedePais, sedeContinente) %>%
 ## ----------------------------------------------------------------------------------
 
 
-# Ranking de países por número de medallas
+# Ranking de países por participación de atletas
 summary(df$country)
 
-# Número de medallas de cada tipo por país
+# Número de medallas de cada tipo por país∫
 tapply(df$country, df$Medal, summary)
 
 # Listado de paises con sus medallas por tipo
