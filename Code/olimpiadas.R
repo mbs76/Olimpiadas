@@ -220,12 +220,13 @@ diccionario <- read.csv("https://www.dropbox.com/s/gibjji4okfhl0ru/diccionario.c
 
 # Unificamos el nombre de los atributos para simplificar la unión de los dataframes 
 names(paises) <- c("country","NOC","continent","sub_region")
-names(diccionario) <- c("NOC","country","code_3")
+diccionario <- diccionario[,c("NOC","code_3")]
+names(diccionario) <- c("NOC","code_3")
 names(sedes) <- c("City","Country_host","Continent_host","Year")
 
 # Mantenemos todos los registros del primer dataframe con all.x=TRUE
 df <- merge(atletas, diccionario, by = "NOC", all.x=TRUE) %>% 
-merge(paises, by.x = "code_3", by.y = "NOC", all.x=TRUE) %>% 
+merge(paises, by = "code_3", by.y = "NOC", all.x=TRUE) %>% 
 merge(sedes, by = c("City","Year"), all.x=TRUE)
 
 # Comprobamos la no existencia de NA
