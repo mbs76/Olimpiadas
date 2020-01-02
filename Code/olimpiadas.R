@@ -356,3 +356,7 @@ cor(x=df_pais$sedePais, y=df_pais$T_Silver, method = "kendall")
 cor(x=df_pais$sedePais, y=df_pais$T_Bronze, method = "kendall")
 
 
+## ----------------------------------------------------------------------------------
+##                                VISUALIZACION
+## ----------------------------------------------------------------------------------
+
