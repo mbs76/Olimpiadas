@@ -395,5 +395,8 @@ cor(x=df_pais$sedePais, y=df_pais$T_Medal, method = "kendall")
 ##                                VISUALIZACION
 ## ----------------------------------------------------------------------------------
 
-df_seleccion <- df_pais[df_pais$country=="Spain",]
-plot(df_seleccion$T_Medal, df_seleccion$Year)
+# Comparamos gráficamente los resultados de EEUU y Rusia con otro país seleccionado
+seleccion <- "Spain" # cambiar el país para comparar
+df_seleccion <- df_pais[df_pais$country %in% list(seleccion, "United States of America", "Russian Federation"),] 
+ggplot(df_seleccion, aes(Year, T_Medal, colour = country)) + 
+  geom_point()
