@@ -158,6 +158,20 @@ sedes <- sedes[,c("City","Country","Continent","Year")]
 
 ## SELECCIÓN DE REGISTROS U OBSERVACIONES
 
+# En la tabla paises hay que asignar de continente a la Antartida y la Isla Bouvet
+paises$continent <- as.character(paises$continent)
+paises$sub_region <- as.character(paises$sub_region)
+paises[paises$NOC=="ATA","continent"] = "Antarctica"
+paises[paises$NOC=="ATA","sub_region"] = "Antarctica"
+paises[paises$NOC=="BVT","continent"] = "Antarctica"
+paises[paises$NOC=="BVT","sub_region"] = "Antarctica"
+
+# Añadimos contienente a islas oceánicas sin clasificar
+paises[paises$continent=="","continent"] = "Oceania"
+paises[paises$sub_region=="","sub_region"] = "Others"
+paises$continent <- as.factor(paises$continent)
+paises$sub_region <- as.factor(paises$sub_region)
+
 # En el dataframe sedes hay que eliminar los 3 últimos registros ya que son basura
 sedes <- sedes[1:(nrow(sedes)-3),]
 
