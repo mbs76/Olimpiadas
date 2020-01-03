@@ -183,20 +183,25 @@ sedes <- sedes[sedes$City!="Melbourne\n Stockholm",]
 sedes <- add_row(sedes, City="Melbourne",Country="Australia",Continent="Oceania",Year=1956) %>%
   add_row(City="Stockholm",Country="Sweden",Continent="Europe",Year=1956)
 
+# Los Juegos Olímpicos de 1906 que se celebraron en Atenas no son reconocidos por el 
+# Comité Olímpico Internacional (COI) en la actualidad por lo que no aparecen en el
+# dataset sedes y los tenemos que eliminar del dataset atletas
+atletas <- atletas[atletas$Year != 1906,]
+
+# Por motivo de la Primera Guerra Mundial, se anuló la celebración de los juegos en Berlin en 1916
+sedes <- sedes[sedes$Year != 1916,]
+
 # Las dos ediciones de 1940 que aparecen con doble sede se cancelaron por la guerra
 # sino-japonesa y la segunda guerra mundial por lo que eliminamos esos registros
 sedes <- sedes[sedes$Year != 1940,]
+
+# Las ediciones de 1944 también se cancelaron por la segunda guerra mundial
+sedes <- sedes[sedes$Year != 1944,]
 
 # Para dejar el dataframe de sedes limpio y evitar la generación de datos nulos, eliminamos
 # los valores TBD que no contienen sedes reales
 
 sedes <- sedes[sedes$City != "TBD",]
-
-# Los Juegos Olímpicos de 1906 que se celebraron en Atenas no son reconocidos por el 
-# Comité Olímpico Internacional (COI) en la actualidad por lo que no aparecen en el
-# dataset sedes y los tenemos que eliminar del dataset atletas
-
-atletas <- atletas[atletas$Year != 1906,]
 
 
 ## ----------------------------------------------------------------------------------
@@ -354,6 +359,11 @@ shapiro.test(df_pais$T_Gold)
 shapiro.test(df_pais$T_Silver)
 shapiro.test(df_pais$T_Bronze)
 shapiro.test(df_pais$T_Medal)
+shapiro.test(df_continente$sedeContinente)
+shapiro.test(df_continente$T_Gold)
+shapiro.test(df_continente$T_Silver)
+shapiro.test(df_continente$T_Bronze)
+shapiro.test(df_continente$T_Medal)
 
 # Lo podemos ver también gráficamente comparándolo con una distribución normal
 plotn <- function(x,main="Histograma de frecuencias \ny distribución normal",
@@ -371,25 +381,41 @@ plotn(df_pais$T_Gold, main="Distribución normal")
 plotn(df_pais$T_Silver, main="Distribución normal")
 plotn(df_pais$T_Bronze, main="Distribución normal")
 plotn(df_pais$T_Medal, main="Distribución normal")
+plotn(df_continente$sedeContinente, main="Distribución normal")
+plotn(df_continente$T_Gold, main="Distribución normal")
+plotn(df_continente$T_Silver, main="Distribución normal")
+plotn(df_continente$T_Bronze, main="Distribución normal")
+plotn(df_continente$T_Medal, main="Distribución normal")
 
 # Usamos el coeficiente de correlación de Spearman 
 cor(x=df_pais$sedePais, y=df_pais$T_Gold, method = "spearman")
 cor(x=df_pais$sedePais, y=df_pais$T_Silver, method = "spearman")
 cor(x=df_pais$sedePais, y=df_pais$T_Bronze, method = "spearman")
 cor(x=df_pais$sedePais, y=df_pais$T_Medal, method = "spearman")
+cor(x=df_continente$sedeContinente, y=df_continente$T_Gold, method = "spearman")
+cor(x=df_continente$sedeContinente, y=df_continente$T_Silver, method = "spearman")
+cor(x=df_continente$sedeContinente, y=df_continente$T_Bronze, method = "spearman")
+cor(x=df_continente$sedeContinente, y=df_continente$T_Medal, method = "spearman")
 
 # Significancia de la correlación de Spearman 
 cor.test(x=df_pais$sedePais, y=df_pais$T_Gold, conf.level  = 0.95, method = "spearman")
 cor.test(x=df_pais$sedePais, y=df_pais$T_Silver, conf.level  = 0.95, method = "spearman")
 cor.test(x=df_pais$sedePais, y=df_pais$T_Bronze, conf.level  = 0.95, method = "spearman")
 cor.test(x=df_pais$sedePais, y=df_pais$T_Medal, conf.level  = 0.95, method = "spearman")
+cor.test(x=df_continente$sedeContinente, y=df_continente$T_Gold, conf.level  = 0.95, method = "spearman")
+cor.test(x=df_continente$sedeContinente, y=df_continente$T_Silver, conf.level  = 0.95, method = "spearman")
+cor.test(x=df_continente$sedeContinente, y=df_continente$T_Bronze, conf.level  = 0.95, method = "spearman")
+cor.test(x=df_continente$sedeContinente, y=df_continente$T_Medal, conf.level  = 0.95, method = "spearman")
 
 # Usamos el coeficiente de correlación de Kendall
 cor(x=df_pais$sedePais, y=df_pais$T_Gold, method = "kendall")
 cor(x=df_pais$sedePais, y=df_pais$T_Silver, method = "kendall")
 cor(x=df_pais$sedePais, y=df_pais$T_Bronze, method = "kendall")
 cor(x=df_pais$sedePais, y=df_pais$T_Medal, method = "kendall")
-
+cor(x=df_continente$sedeContinente, y=df_continente$T_Gold, method = "kendall")
+cor(x=df_continente$sedeContinente, y=df_continente$T_Silver, method = "kendall")
+cor(x=df_continente$sedeContinente, y=df_continente$T_Bronze, method = "kendall")
+cor(x=df_continente$sedeContinente, y=df_continente$T_Medal, method = "kendall")
 
 ## ----------------------------------------------------------------------------------
 ##                                VISUALIZACION
