@@ -395,3 +395,5 @@ cor(x=df_pais$sedePais, y=df_pais$T_Medal, method = "kendall")
 ##                                VISUALIZACION
 ## ----------------------------------------------------------------------------------
 
+df_seleccion <- df_pais[df_pais$country=="Spain",]
+plot(df_seleccion$T_Medal, df_seleccion$Year)
