@@ -309,11 +309,12 @@ df$Continent_host <- as.factor(df$Continent_host)
 
 # Creamos un dataframe con los datos agregados por país para nuestro análisis
 df_pais <- df %>% group_by(country, City, Year, sedePais) %>%
-  summarise(T_Gold=sum(Gold), T_Silver=sum(Silver), T_Bronze=sum(Bronze), T_Medal=(sum(Gold)+sum(Silver)+sum(Bronze)))
+  summarise(Participacion=n(), T_Gold=sum(Gold), T_Silver=sum(Silver), T_Bronze=sum(Bronze), T_Medal=(sum(Gold)+sum(Silver)+sum(Bronze)), P_Medal=(sum(Gold)+sum(Silver)+sum(Bronze))/n())
 
 # Creamos un dataframe con los datos agregados por continente para nuestro análisis
 df_continente <- df %>% group_by(continent, City, Year, sedeContinente) %>%
-  summarise(T_Gold=sum(Gold), T_Silver=sum(Silver), T_Bronze=sum(Bronze), T_Medal=(sum(Gold)+sum(Silver)+sum(Bronze)))
+  summarise(Participacion=n(), T_Gold=sum(Gold), T_Silver=sum(Silver), T_Bronze=sum(Bronze), T_Medal=(sum(Gold)+sum(Silver)+sum(Bronze)), P_Medal=(sum(Gold)+sum(Silver)+sum(Bronze))/n())
+
 
 ## ----------------------------------------------------------------------------------
 ##                         ANÁLISIS ESTADÍSTICO DESCRIPTIVO
@@ -359,11 +360,13 @@ shapiro.test(df_pais$T_Gold)
 shapiro.test(df_pais$T_Silver)
 shapiro.test(df_pais$T_Bronze)
 shapiro.test(df_pais$T_Medal)
+shapiro.test(df_pais$P_Medal)
 shapiro.test(df_continente$sedeContinente)
 shapiro.test(df_continente$T_Gold)
 shapiro.test(df_continente$T_Silver)
 shapiro.test(df_continente$T_Bronze)
 shapiro.test(df_continente$T_Medal)
+shapiro.test(df_continente$P_Medal)
 
 # Lo podemos ver también gráficamente comparándolo con una distribución normal
 plotn <- function(x,main="Histograma de frecuencias \ny distribución normal",
@@ -392,10 +395,12 @@ cor(x=df_pais$sedePais, y=df_pais$T_Gold, method = "spearman")
 cor(x=df_pais$sedePais, y=df_pais$T_Silver, method = "spearman")
 cor(x=df_pais$sedePais, y=df_pais$T_Bronze, method = "spearman")
 cor(x=df_pais$sedePais, y=df_pais$T_Medal, method = "spearman")
+cor(x=df_pais$sedePais, y=df_pais$P_Medal, method = "spearman")
 cor(x=df_continente$sedeContinente, y=df_continente$T_Gold, method = "spearman")
 cor(x=df_continente$sedeContinente, y=df_continente$T_Silver, method = "spearman")
 cor(x=df_continente$sedeContinente, y=df_continente$T_Bronze, method = "spearman")
 cor(x=df_continente$sedeContinente, y=df_continente$T_Medal, method = "spearman")
+cor(x=df_continente$sedeContinente, y=df_continente$P_Medal, method = "spearman")
 
 # Significancia de la correlación de Spearman 
 cor.test(x=df_pais$sedePais, y=df_pais$T_Gold, conf.level  = 0.95, method = "spearman")
