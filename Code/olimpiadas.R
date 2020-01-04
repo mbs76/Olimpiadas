@@ -422,6 +422,16 @@ cor(x=df_continente$sedeContinente, y=df_continente$T_Silver, method = "kendall"
 cor(x=df_continente$sedeContinente, y=df_continente$T_Bronze, method = "kendall")
 cor(x=df_continente$sedeContinente, y=df_continente$T_Medal, method = "kendall")
 
+# Significancia de la correlación de Kendall
+cor.test(x=df_pais$sedePais, y=df_pais$T_Gold, conf.level  = 0.95, method = "kendall")
+cor.test(x=df_pais$sedePais, y=df_pais$T_Silver, conf.level  = 0.95, method = "kendall")
+cor.test(x=df_pais$sedePais, y=df_pais$T_Bronze, conf.level  = 0.95, method = "kendall")
+cor.test(x=df_pais$sedePais, y=df_pais$T_Medal, conf.level  = 0.95, method = "kendall")
+cor.test(x=df_continente$sedeContinente, y=df_continente$T_Gold, conf.level  = 0.95, method = "kendall")
+cor.test(x=df_continente$sedeContinente, y=df_continente$T_Silver, conf.level  = 0.95, method = "kendall")
+cor.test(x=df_continente$sedeContinente, y=df_continente$T_Bronze, conf.level  = 0.95, method = "kendall")
+cor.test(x=df_continente$sedeContinente, y=df_continente$T_Medal, conf.level  = 0.95, method = "kendall")
+
 ## ----------------------------------------------------------------------------------
 ##                                VISUALIZACION
 ## ----------------------------------------------------------------------------------
