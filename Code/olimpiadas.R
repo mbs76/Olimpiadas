@@ -446,6 +446,13 @@ ggplot(df_seleccion, aes(Year, T_Medal, colour = country)) +
   theme_light() + 
   theme(legend.position="bottom")
 
+seleccion <- list("Australia") 
+df_seleccion <- df[df$country %in% seleccion & (df$Year==1952 | df$Year==1956),] 
+ggplot(df, aes(Medal)) + 
+  geom_bar() +
+  facet_grid(~.df_seleccion$Year) +
+  theme_light()
+
 ## ----------------------------------------------------------------------------------
 ##                       EXPORTACIÓN DE LOS DATOS A CSV
 ## ----------------------------------------------------------------------------------
