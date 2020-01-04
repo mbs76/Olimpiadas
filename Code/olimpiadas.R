@@ -446,11 +446,23 @@ ggplot(df_seleccion, aes(Year, T_Medal, colour = country)) +
   theme_light() + 
   theme(legend.position="bottom")
 
+# Comparamos resultados individuales por paises es diferentes ediciones
 seleccion <- list("Australia") 
-df_seleccion <- df[df$country %in% seleccion & (df$Year==1952 | df$Year==1956),] 
-ggplot(df, aes(Medal)) + 
+df_seleccion <- df[df$country %in% seleccion & (df$Year==1952 | df$Year==1956) & df$Medal!="Sin medalla",] 
+ggplot(df_seleccion, aes(Medal)) + 
   geom_bar() +
-  facet_grid(~.df_seleccion$Year) +
+  facet_grid(.~df_seleccion$Year) +
+  xlab("Tipo de medalla") + 
+  ylab("Numero de medallas") +
+  theme_light()
+
+seleccion <- list("Spain") 
+df_seleccion <- df[df$country %in% seleccion & (df$Year==1992 | df$Year==1996) & df$Medal!="Sin medalla",] 
+ggplot(df_seleccion, aes(Medal)) + 
+  geom_bar() +
+  facet_grid(.~df_seleccion$Year) +
+  xlab("Tipo de medalla") + 
+  ylab("Numero de medallas") +
   theme_light()
 
 ## ----------------------------------------------------------------------------------
