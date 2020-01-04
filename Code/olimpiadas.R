@@ -425,7 +425,6 @@ cor(x=df_continente$sedeContinente, y=df_continente$T_Medal, method = "kendall")
 seleccion <- "Spain" # cambiar el país para comparar
 df_seleccion <- df_pais[df_pais$country %in% list(seleccion, "United States of America", "Russian Federation"),] 
 ggplot(df_seleccion, aes(Year, T_Medal, colour = country)) + 
-  <<<<<<< HEAD
 geom_point() +
   xlab("Juegos Olimpicos") + 
   ylab("Medallas obtenidas") +
