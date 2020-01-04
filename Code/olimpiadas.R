@@ -426,3 +426,13 @@ seleccion <- "Spain" # cambiar el país para comparar
 df_seleccion <- df_pais[df_pais$country %in% list(seleccion, "United States of America", "Russian Federation"),] 
 ggplot(df_seleccion, aes(Year, T_Medal, colour = country)) + 
   geom_point()
+
+## ----------------------------------------------------------------------------------
+##                       EXPORTACIÓN DE LOS DATOS A CSV
+## ----------------------------------------------------------------------------------
+
+write.csv(df,file="df.csv", row.names = F)
+write.csv(df_pais,file="df_pais.csv", row.names = F)
+write.csv(df_continente,file="df_continente.csv", row.names = F)
+write.csv(df_seleccion,file="df_seleccion.csv", row.names = F)
+
