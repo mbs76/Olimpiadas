@@ -15,6 +15,10 @@ La actividad ha sido realizada por:
 * Manuel Betancor Sánchez - Aula 2
 * María Dolores Navalón Hernández - Aula 1
 
+## Documentación de la práctica
+
+* **Práctica 2_ Limpieza y validación de los datos.pdf**: Documento principal de la práctica
+
 ## Ficheros del código fuente
 
 * **olimpiadas.R**: Código en R de la práctica
@@ -33,6 +37,3 @@ La actividad ha sido realizada por:
 * **df_contienente.csv**: Agrupación por continentes del fichero df.csv para el cálculo estadístico por continente
 * **df_seleccion.csv**: Ejemplo de selección entre países utilizado para la graficas finales
 
-## Otros ficheros
-
-* **Práctica 2_ Limpieza y validación de los datos.pdf**: Documento principal de la práctica
