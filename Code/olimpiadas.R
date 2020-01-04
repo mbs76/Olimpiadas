@@ -124,7 +124,7 @@ summary(as.factor(sedes$Year))
 # con el objetivo de detectar outliers en este nuevo campo calculado
 
 by_NOC <- atletas %>% group_by(NOC) %>% summarise(count=n())
-boxplot(by_NOC$count)
+boxplot(by_NOC$count, main="Outliers de medallas por países")
 boxplot.stats(by_NOC$count)$out
 
 # Realizamos la misma representación diferenciando por tipo de medalla
@@ -135,13 +135,13 @@ by_NOC_Medal_Gold <- by_NOC_Medal %>% filter(Medal == "Gold")
 by_NOC_Medal_Silver <- by_NOC_Medal %>% filter(Medal == "Silver")
 by_NOC_Medal_Bronze <- by_NOC_Medal %>% filter(Medal == "Bronze")
 
-boxplot(by_NOC_Medal_Gold$count)
+boxplot(by_NOC_Medal_Gold$count, main="Outliers - oro por países")
 boxplot.stats(by_NOC_Medal_Gold$count)$out
 
-boxplot(by_NOC_Medal_Silver$count)
+boxplot(by_NOC_Medal_Silver$count, main="Outliers - plata por países")
 boxplot.stats(by_NOC_Medal_Silver$count)$out
 
-boxplot(by_NOC_Medal_Bronze$count)
+boxplot(by_NOC_Medal_Bronze$count, main="Outliers - bronce por países")
 boxplot.stats(by_NOC_Medal_Bronze$count)$out
 
 
