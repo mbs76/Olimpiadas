@@ -1,0 +1,3755 @@
+"country","City","Year","sedePais","sedeContinente","T_Gold","T_Silver","T_Bronze","T_Medal"
+"Afghanistan","Athina",2004,0,0,0,0,0,0
+"Afghanistan","Atlanta",1996,0,0,0,0,0,0
+"Afghanistan","Beijing",2008,0,1,0,0,1,1
+"Afghanistan","Berlin",1936,0,0,0,0,0,0
+"Afghanistan","London",1948,0,0,0,0,0,0
+"Afghanistan","London",2012,0,0,0,0,1,1
+"Afghanistan","Melbourne",1956,0,0,0,0,0,0
+"Afghanistan","Mexico City",1968,0,0,0,0,0,0
+"Afghanistan","Moskva",1980,0,0,0,0,0,0
+"Afghanistan","Munich",1972,0,0,0,0,0,0
+"Afghanistan","Rio de Janeiro",2016,0,0,0,0,0,0
+"Afghanistan","Roma",1960,0,0,0,0,0,0
+"Afghanistan","Seoul",1988,0,1,0,0,0,0
+"Afghanistan","Tokyo",1964,0,1,0,0,0,0
+"Albania","Athina",2004,0,1,0,0,0,0
+"Albania","Atlanta",1996,0,0,0,0,0,0
+"Albania","Barcelona",1992,0,1,0,0,0,0
+"Albania","Beijing",2008,0,0,0,0,0,0
+"Albania","London",2012,0,1,0,0,0,0
+"Albania","Munich",1972,0,1,0,0,0,0
+"Albania","Rio de Janeiro",2016,0,0,0,0,0,0
+"Albania","Sochi",2014,0,1,0,0,0,0
+"Albania","Sydney",2000,0,0,0,0,0,0
+"Albania","Torino",2006,0,1,0,0,0,0
+"Albania","Vancouver",2010,0,0,0,0,0,0
+"Algeria","Albertville",1992,0,0,0,0,0,0
+"Algeria","Athina",2004,0,0,0,0,0,0
+"Algeria","Atlanta",1996,0,0,2,0,1,3
+"Algeria","Barcelona",1992,0,0,1,0,1,2
+"Algeria","Beijing",2008,0,0,0,1,1,2
+"Algeria","London",2012,0,0,1,0,0,1
+"Algeria","Los Angeles",1984,0,0,0,0,2,2
+"Algeria","Mexico City",1968,0,0,0,0,0,0
+"Algeria","Moskva",1980,0,0,0,0,0,0
+"Algeria","Munich",1972,0,0,0,0,0,0
+"Algeria","Rio de Janeiro",2016,0,0,0,2,0,2
+"Algeria","Seoul",1988,0,0,0,0,0,0
+"Algeria","Sydney",2000,0,0,1,1,3,5
+"Algeria","Tokyo",1964,0,0,0,0,0,0
+"Algeria","Torino",2006,0,0,0,0,0,0
+"Algeria","Vancouver",2010,0,0,0,0,0,0
+"American Samoa","Athina",2004,0,0,0,0,0,0
+"American Samoa","Atlanta",1996,0,0,0,0,0,0
+"American Samoa","Barcelona",1992,0,0,0,0,0,0
+"American Samoa","Beijing",2008,0,0,0,0,0,0
+"American Samoa","Lillehammer",1994,0,0,0,0,0,0
+"American Samoa","London",2012,0,0,0,0,0,0
+"American Samoa","Rio de Janeiro",2016,0,0,0,0,0,0
+"American Samoa","Seoul",1988,0,0,0,0,0,0
+"American Samoa","Sydney",2000,0,1,0,0,0,0
+"Andorra","Albertville",1992,0,1,0,0,0,0
+"Andorra","Athina",2004,0,1,0,0,0,0
+"Andorra","Atlanta",1996,0,0,0,0,0,0
+"Andorra","Barcelona",1992,0,1,0,0,0,0
+"Andorra","Beijing",2008,0,0,0,0,0,0
+"Andorra","Calgary",1988,0,0,0,0,0,0
+"Andorra","Innsbruck",1976,0,1,0,0,0,0
+"Andorra","Lake Placid",1980,0,0,0,0,0,0
+"Andorra","Lillehammer",1994,0,1,0,0,0,0
+"Andorra","London",2012,0,1,0,0,0,0
+"Andorra","Los Angeles",1984,0,0,0,0,0,0
+"Andorra","Montreal",1976,0,0,0,0,0,0
+"Andorra","Moskva",1980,0,1,0,0,0,0
+"Andorra","Nagano",1998,0,0,0,0,0,0
+"Andorra","Rio de Janeiro",2016,0,0,0,0,0,0
+"Andorra","Salt Lake City",2002,0,0,0,0,0,0
+"Andorra","Sarajevo",1984,0,1,0,0,0,0
+"Andorra","Seoul",1988,0,0,0,0,0,0
+"Andorra","Sochi",2014,0,1,0,0,0,0
+"Andorra","Sydney",2000,0,0,0,0,0,0
+"Andorra","Torino",2006,0,1,0,0,0,0
+"Andorra","Vancouver",2010,0,0,0,0,0,0
+"Angola","Athina",2004,0,0,0,0,0,0
+"Angola","Atlanta",1996,0,0,0,0,0,0
+"Angola","Barcelona",1992,0,0,0,0,0,0
+"Angola","Beijing",2008,0,0,0,0,0,0
+"Angola","London",2012,0,0,0,0,0,0
+"Angola","Moskva",1980,0,0,0,0,0,0
+"Angola","Rio de Janeiro",2016,0,0,0,0,0,0
+"Angola","Seoul",1988,0,0,0,0,0,0
+"Angola","Sydney",2000,0,0,0,0,0,0
+"Antarctica","Athina",2004,0,0,0,0,0,0
+"Antarctica","Atlanta",1996,0,0,0,0,0,0
+"Antarctica","Barcelona",1992,0,0,0,0,0,0
+"Antarctica","Beijing",2008,0,0,0,0,0,0
+"Antarctica","London",2012,0,0,0,0,0,0
+"Antarctica","Los Angeles",1984,0,0,0,0,0,0
+"Antarctica","Montreal",1976,0,0,0,0,0,0
+"Antarctica","Rio de Janeiro",2016,0,0,0,0,0,0
+"Antarctica","Seoul",1988,0,0,0,0,0,0
+"Antarctica","Sydney",2000,0,0,0,0,0,0
+"Argentina","Albertville",1992,0,0,0,0,0,0
+"Argentina","Amsterdam",1928,0,0,3,18,5,26
+"Argentina","Antwerpen",1920,0,0,0,0,0,0
+"Argentina","Athina",2004,0,0,28,0,21,49
+"Argentina","Atlanta",1996,0,1,0,19,1,20
+"Argentina","Barcelona",1992,0,0,0,0,2,2
+"Argentina","Beijing",2008,0,0,20,0,31,51
+"Argentina","Berlin",1936,0,0,5,2,4,11
+"Argentina","Calgary",1988,0,1,0,0,0,0
+"Argentina","Grenoble",1968,0,0,0,0,0,0
+"Argentina","Helsinki",1952,0,0,2,2,2,6
+"Argentina","Innsbruck",1964,0,0,0,0,0,0
+"Argentina","Innsbruck",1976,0,0,0,0,0,0
+"Argentina","Lake Placid",1980,0,1,0,0,0,0
+"Argentina","Lillehammer",1994,0,0,0,0,0,0
+"Argentina","London",1908,0,0,0,0,0,0
+"Argentina","London",1948,0,0,3,7,1,11
+"Argentina","London",2012,0,0,1,15,3,19
+"Argentina","Los Angeles",1932,0,1,3,1,0,4
+"Argentina","Los Angeles",1984,0,1,0,0,0,0
+"Argentina","Melbourne",1956,0,0,0,1,1,2
+"Argentina","Mexico City",1968,0,1,0,0,2,2
+"Argentina","Montreal",1976,0,1,0,0,0,0
+"Argentina","Munich",1972,0,0,0,1,0,1
+"Argentina","Nagano",1998,0,0,0,0,0,0
+"Argentina","Oslo",1952,0,0,0,0,0,0
+"Argentina","Paris",1900,0,0,0,0,0,0
+"Argentina","Paris",1924,0,0,5,3,2,10
+"Argentina","Rio de Janeiro",2016,0,1,21,1,0,22
+"Argentina","Roma",1960,0,0,0,3,1,4
+"Argentina","Salt Lake City",2002,0,1,0,0,0,0
+"Argentina","Sankt Moritz",1928,0,0,0,0,0,0
+"Argentina","Sankt Moritz",1948,0,0,0,0,0,0
+"Argentina","Sapporo",1972,0,0,0,0,0,0
+"Argentina","Sarajevo",1984,0,0,0,0,0,0
+"Argentina","Seoul",1988,0,0,0,1,12,13
+"Argentina","Sochi",2014,0,0,0,0,0,0
+"Argentina","Squaw Valley",1960,0,1,0,0,0,0
+"Argentina","Stockholm",1956,0,0,0,0,0,0
+"Argentina","Sydney",2000,0,0,0,17,3,20
+"Argentina","Tokyo",1964,0,0,0,1,0,1
+"Argentina","Torino",2006,0,0,0,0,0,0
+"Argentina","Vancouver",2010,0,1,0,0,0,0
+"Armenia","Athina",2004,0,0,0,0,0,0
+"Armenia","Atlanta",1996,0,0,1,1,0,2
+"Armenia","Beijing",2008,0,1,0,0,6,6
+"Armenia","Lillehammer",1994,0,0,0,0,0,0
+"Armenia","London",2012,0,0,0,1,2,3
+"Armenia","Nagano",1998,0,1,0,0,0,0
+"Armenia","Rio de Janeiro",2016,0,0,1,3,0,4
+"Armenia","Salt Lake City",2002,0,0,0,0,0,0
+"Armenia","Sochi",2014,0,0,0,0,0,0
+"Armenia","Sydney",2000,0,0,0,0,1,1
+"Armenia","Torino",2006,0,0,0,0,0,0
+"Armenia","Vancouver",2010,0,0,0,0,0,0
+"Aruba","Athina",2004,0,0,0,0,0,0
+"Aruba","Atlanta",1996,0,1,0,0,0,0
+"Aruba","Barcelona",1992,0,0,0,0,0,0
+"Aruba","Beijing",2008,0,0,0,0,0,0
+"Aruba","London",2012,0,0,0,0,0,0
+"Aruba","Rio de Janeiro",2016,0,1,0,0,0,0
+"Aruba","Seoul",1988,0,0,0,0,0,0
+"Aruba","Sydney",2000,0,0,0,0,0,0
+"Australia","Albertville",1992,0,0,0,0,0,0
+"Australia","Amsterdam",1928,0,0,1,2,1,4
+"Australia","Antwerpen",1920,0,0,0,6,1,7
+"Australia","Athina",1896,0,0,2,0,1,3
+"Australia","Athina",2004,0,0,49,77,31,157
+"Australia","Atlanta",1996,0,0,32,16,84,132
+"Australia","Barcelona",1992,0,0,14,27,16,57
+"Australia","Beijing",2008,0,0,31,42,76,149
+"Australia","Berlin",1936,0,0,0,0,1,1
+"Australia","Calgary",1988,0,0,0,0,0,0
+"Australia","Chamonix",1924,0,0,1,0,0,1
+"Australia","Cortina d'Ampezzo",1956,0,0,0,0,0,0
+"Australia","Garmisch-Partenkirchen",1936,0,0,0,0,0,0
+"Australia","Grenoble",1968,0,0,0,0,0,0
+"Australia","Helsinki",1952,0,0,7,2,11,20
+"Australia","Innsbruck",1964,0,0,0,0,0,0
+"Australia","Innsbruck",1976,0,0,0,0,0,0
+"Australia","Lake Placid",1980,0,0,0,0,0,0
+"Australia","Lillehammer",1994,0,0,0,0,4,4
+"Australia","London",1908,0,0,15,2,2,19
+"Australia","London",1948,0,0,2,9,5,16
+"Australia","London",2012,0,0,18,37,59,114
+"Australia","Los Angeles",1932,0,0,3,1,1,5
+"Australia","Los Angeles",1984,0,0,7,14,31,52
+"Australia","Melbourne",1956,1,1,28,13,26,67
+"Australia","Mexico City",1968,0,0,5,35,11,51
+"Australia","Montreal",1976,0,0,0,15,8,23
+"Australia","Moskva",1980,0,0,6,2,5,13
+"Australia","Munich",1972,0,0,11,7,2,20
+"Australia","Nagano",1998,0,0,0,0,1,1
+"Australia","Oslo",1952,0,0,0,0,0,0
+"Australia","Paris",1900,0,0,3,0,3,6
+"Australia","Paris",1924,0,0,3,5,2,10
+"Australia","Rio de Janeiro",2016,0,0,23,34,25,82
+"Australia","Roma",1960,0,0,11,24,11,46
+"Australia","Salt Lake City",2002,0,0,2,0,0,2
+"Australia","Sapporo",1972,0,0,0,0,0,0
+"Australia","Sarajevo",1984,0,0,0,0,0,0
+"Australia","Seoul",1988,0,0,18,6,11,35
+"Australia","Sochi",2014,0,0,0,2,1,3
+"Australia","Squaw Valley",1960,0,0,0,0,0,0
+"Australia","St. Louis",1904,0,0,0,3,1,4
+"Australia","Stockholm",1912,0,0,5,2,3,10
+"Australia","Stockholm",1956,0,0,0,0,0,0
+"Australia","Sydney",2000,1,1,60,69,54,183
+"Australia","Tokyo",1964,0,0,8,6,30,44
+"Australia","Torino",2006,0,0,1,0,1,2
+"Australia","Vancouver",2010,0,0,2,1,0,3
+"Austria","Albertville",1992,0,1,9,10,10,29
+"Austria","Amsterdam",1928,0,1,3,0,2,5
+"Austria","Athina",1896,0,1,2,1,2,5
+"Austria","Athina",2004,0,1,3,4,1,8
+"Austria","Atlanta",1996,0,0,0,1,2,3
+"Austria","Barcelona",1992,0,1,0,6,0,6
+"Austria","Beijing",2008,0,0,0,1,2,3
+"Austria","Berlin",1936,0,1,6,42,7,55
+"Austria","Calgary",1988,0,0,3,5,4,12
+"Austria","Chamonix",1924,0,1,3,1,0,4
+"Austria","Cortina d'Ampezzo",1956,0,1,5,3,4,12
+"Austria","Garmisch-Partenkirchen",1936,0,1,1,2,2,5
+"Austria","Grenoble",1968,0,1,3,8,4,15
+"Austria","Helsinki",1952,0,1,0,1,2,3
+"Austria","Innsbruck",1964,1,1,5,9,3,17
+"Austria","Innsbruck",1976,1,1,2,2,3,7
+"Austria","Lake Placid",1932,0,0,1,1,0,2
+"Austria","Lake Placid",1980,0,0,3,2,3,8
+"Austria","Lillehammer",1994,0,1,2,3,7,12
+"Austria","London",1908,0,1,0,0,1,1
+"Austria","London",1948,0,1,2,2,4,8
+"Austria","London",2012,0,1,0,0,0,0
+"Austria","Los Angeles",1932,0,0,1,1,3,5
+"Austria","Los Angeles",1984,0,0,1,1,1,3
+"Austria","Melbourne",1956,0,0,0,0,4,4
+"Austria","Mexico City",1968,0,0,0,2,3,5
+"Austria","Montreal",1976,0,0,0,0,1,1
+"Austria","Moskva",1980,0,1,1,3,1,5
+"Austria","Munich",1972,0,1,0,1,2,3
+"Austria","Nagano",1998,0,0,3,5,12,20
+"Austria","Oslo",1952,0,1,2,4,2,8
+"Austria","Paris",1900,0,1,0,3,3,6
+"Austria","Paris",1924,0,1,0,3,1,4
+"Austria","Rio de Janeiro",2016,0,0,0,0,2,2
+"Austria","Roma",1960,0,1,1,2,0,3
+"Austria","Salt Lake City",2002,0,0,3,4,13,20
+"Austria","Sankt Moritz",1928,0,1,0,4,2,6
+"Austria","Sankt Moritz",1948,0,1,1,3,4,8
+"Austria","Sapporo",1972,0,0,1,2,2,5
+"Austria","Sarajevo",1984,0,1,0,0,1,1
+"Austria","Seoul",1988,0,0,1,0,0,1
+"Austria","Sochi",2014,0,1,4,12,11,27
+"Austria","Squaw Valley",1960,0,0,1,2,3,6
+"Austria","St. Louis",1904,0,0,2,1,1,4
+"Austria","Stockholm",1912,0,1,0,9,5,14
+"Austria","Stockholm",1956,0,1,0,0,0,0
+"Austria","Sydney",2000,0,0,3,1,0,4
+"Austria","Tokyo",1964,0,0,0,0,0,0
+"Austria","Torino",2006,0,1,16,7,7,30
+"Austria","Vancouver",2010,0,0,11,9,6,26
+"Azerbaijan","Athina",2004,0,0,1,0,4,5
+"Azerbaijan","Atlanta",1996,0,0,0,1,0,1
+"Azerbaijan","Beijing",2008,0,1,1,2,4,7
+"Azerbaijan","London",2012,0,0,2,2,6,10
+"Azerbaijan","Nagano",1998,0,1,0,0,0,0
+"Azerbaijan","Rio de Janeiro",2016,0,0,1,7,10,18
+"Azerbaijan","Salt Lake City",2002,0,0,0,0,0,0
+"Azerbaijan","Sochi",2014,0,0,0,0,0,0
+"Azerbaijan","Sydney",2000,0,0,2,0,1,3
+"Azerbaijan","Torino",2006,0,0,0,0,0,0
+"Azerbaijan","Vancouver",2010,0,0,0,0,0,0
+"Bahamas","Athina",2004,0,0,1,0,1,2
+"Bahamas","Atlanta",1996,0,1,0,5,0,5
+"Bahamas","Barcelona",1992,0,0,0,0,1,1
+"Bahamas","Beijing",2008,0,0,0,6,1,7
+"Bahamas","Helsinki",1952,0,0,0,0,0,0
+"Bahamas","London",2012,0,0,4,0,0,4
+"Bahamas","Los Angeles",1984,0,1,0,0,0,0
+"Bahamas","Melbourne",1956,0,0,0,0,2,2
+"Bahamas","Mexico City",1968,0,1,0,0,0,0
+"Bahamas","Montreal",1976,0,1,0,0,0,0
+"Bahamas","Munich",1972,0,0,0,0,0,0
+"Bahamas","Rio de Janeiro",2016,0,1,1,0,5,6
+"Bahamas","Roma",1960,0,0,0,0,0,0
+"Bahamas","Seoul",1988,0,0,0,0,0,0
+"Bahamas","Sydney",2000,0,0,6,0,5,11
+"Bahamas","Tokyo",1964,0,0,2,0,0,2
+"Bahrain","Athina",2004,0,0,0,0,0,0
+"Bahrain","Atlanta",1996,0,0,0,0,0,0
+"Bahrain","Barcelona",1992,0,0,0,0,0,0
+"Bahrain","Beijing",2008,0,1,0,0,0,0
+"Bahrain","London",2012,0,0,0,0,1,1
+"Bahrain","Los Angeles",1984,0,0,0,0,0,0
+"Bahrain","Rio de Janeiro",2016,0,0,1,1,0,2
+"Bahrain","Seoul",1988,0,1,0,0,0,0
+"Bahrain","Sydney",2000,0,0,0,0,0,0
+"Bangladesh","Athina",2004,0,0,0,0,0,0
+"Bangladesh","Atlanta",1996,0,0,0,0,0,0
+"Bangladesh","Barcelona",1992,0,0,0,0,0,0
+"Bangladesh","Beijing",2008,0,1,0,0,0,0
+"Bangladesh","London",2012,0,0,0,0,0,0
+"Bangladesh","Los Angeles",1984,0,0,0,0,0,0
+"Bangladesh","Rio de Janeiro",2016,0,0,0,0,0,0
+"Bangladesh","Seoul",1988,0,1,0,0,0,0
+"Bangladesh","Sydney",2000,0,0,0,0,0,0
+"Barbados","Athina",2004,0,0,0,0,0,0
+"Barbados","Atlanta",1996,0,1,0,0,0,0
+"Barbados","Barcelona",1992,0,0,0,0,0,0
+"Barbados","Beijing",2008,0,0,0,0,0,0
+"Barbados","London",2012,0,0,0,0,0,0
+"Barbados","Los Angeles",1984,0,1,0,0,0,0
+"Barbados","Mexico City",1968,0,1,0,0,0,0
+"Barbados","Montreal",1976,0,1,0,0,0,0
+"Barbados","Munich",1972,0,0,0,0,0,0
+"Barbados","Rio de Janeiro",2016,0,1,0,0,0,0
+"Barbados","Seoul",1988,0,0,0,0,0,0
+"Barbados","Sydney",2000,0,0,0,0,1,1
+"Belarus","Athina",2004,0,1,2,5,8,15
+"Belarus","Atlanta",1996,0,0,1,6,16,23
+"Belarus","Beijing",2008,0,0,8,5,16,29
+"Belarus","Lillehammer",1994,0,1,0,2,0,2
+"Belarus","London",2012,0,1,3,12,8,23
+"Belarus","Nagano",1998,0,0,0,0,2,2
+"Belarus","Rio de Janeiro",2016,0,0,1,4,7,12
+"Belarus","Salt Lake City",2002,0,0,0,0,1,1
+"Belarus","Sochi",2014,0,1,5,0,1,6
+"Belarus","Sydney",2000,0,0,3,8,11,22
+"Belarus","Torino",2006,0,1,0,1,0,1
+"Belarus","Vancouver",2010,0,0,1,1,1,3
+"Belgium","Albertville",1992,0,1,0,0,0,0
+"Belgium","Amsterdam",1928,0,1,0,1,4,5
+"Belgium","Antwerpen",1920,1,1,57,65,66,188
+"Belgium","Athina",2004,0,1,1,0,2,3
+"Belgium","Atlanta",1996,0,0,2,2,2,6
+"Belgium","Barcelona",1992,0,1,0,1,2,3
+"Belgium","Beijing",2008,0,0,1,4,0,5
+"Belgium","Berlin",1936,0,1,0,0,14,14
+"Belgium","Calgary",1988,0,0,0,0,0,0
+"Belgium","Chamonix",1924,0,1,0,0,5,5
+"Belgium","Cortina d'Ampezzo",1956,0,1,0,0,0,0
+"Belgium","Garmisch-Partenkirchen",1936,0,1,0,0,0,0
+"Belgium","Helsinki",1952,0,1,5,3,0,8
+"Belgium","Innsbruck",1964,0,1,0,0,0,0
+"Belgium","Innsbruck",1976,0,1,0,0,0,0
+"Belgium","Lake Placid",1932,0,0,0,0,0,0
+"Belgium","Lake Placid",1980,0,0,0,0,0,0
+"Belgium","Lillehammer",1994,0,1,0,0,0,0
+"Belgium","London",1908,0,1,1,24,8,33
+"Belgium","London",1948,0,1,5,2,8,15
+"Belgium","London",2012,0,1,0,1,2,3
+"Belgium","Los Angeles",1932,0,0,0,0,1,1
+"Belgium","Los Angeles",1984,0,0,1,2,2,5
+"Belgium","Melbourne",1956,0,0,0,2,0,2
+"Belgium","Mexico City",1968,0,0,0,1,2,3
+"Belgium","Montreal",1976,0,0,0,3,6,9
+"Belgium","Moskva",1980,0,1,1,0,0,1
+"Belgium","Munich",1972,0,1,0,2,0,2
+"Belgium","Nagano",1998,0,0,0,0,1,1
+"Belgium","Oslo",1952,0,1,0,0,0,0
+"Belgium","Paris",1900,0,1,6,24,13,43
+"Belgium","Paris",1924,0,1,3,30,6,39
+"Belgium","Rio de Janeiro",2016,0,0,2,17,2,21
+"Belgium","Roma",1960,0,1,0,2,2,4
+"Belgium","Salt Lake City",2002,0,0,0,0,0,0
+"Belgium","Sankt Moritz",1928,0,1,0,0,1,1
+"Belgium","Sankt Moritz",1948,0,1,2,4,0,6
+"Belgium","Sapporo",1972,0,0,0,0,0,0
+"Belgium","Sarajevo",1984,0,1,0,0,0,0
+"Belgium","Seoul",1988,0,0,0,0,2,2
+"Belgium","Sochi",2014,0,1,0,0,0,0
+"Belgium","Stockholm",1912,0,1,7,1,11,19
+"Belgium","Stockholm",1956,0,1,0,0,0,0
+"Belgium","Sydney",2000,0,0,0,3,4,7
+"Belgium","Tokyo",1964,0,0,2,0,1,3
+"Belgium","Torino",2006,0,1,0,0,0,0
+"Belgium","Vancouver",2010,0,0,0,0,0,0
+"Belize","Athina",2004,0,0,0,0,0,0
+"Belize","Atlanta",1996,0,1,0,0,0,0
+"Belize","Barcelona",1992,0,0,0,0,0,0
+"Belize","Beijing",2008,0,0,0,0,0,0
+"Belize","London",2012,0,0,0,0,0,0
+"Belize","Los Angeles",1984,0,1,0,0,0,0
+"Belize","Mexico City",1968,0,1,0,0,0,0
+"Belize","Montreal",1976,0,1,0,0,0,0
+"Belize","Munich",1972,0,0,0,0,0,0
+"Belize","Rio de Janeiro",2016,0,1,0,0,0,0
+"Belize","Seoul",1988,0,0,0,0,0,0
+"Belize","Sydney",2000,0,0,0,0,0,0
+"Benin","Athina",2004,0,0,0,0,0,0
+"Benin","Atlanta",1996,0,0,0,0,0,0
+"Benin","Barcelona",1992,0,0,0,0,0,0
+"Benin","Beijing",2008,0,0,0,0,0,0
+"Benin","London",2012,0,0,0,0,0,0
+"Benin","Los Angeles",1984,0,0,0,0,0,0
+"Benin","Moskva",1980,0,0,0,0,0,0
+"Benin","Munich",1972,0,0,0,0,0,0
+"Benin","Rio de Janeiro",2016,0,0,0,0,0,0
+"Benin","Seoul",1988,0,0,0,0,0,0
+"Benin","Sydney",2000,0,0,0,0,0,0
+"Bermuda","Albertville",1992,0,0,0,0,0,0
+"Bermuda","Athina",2004,0,0,0,0,0,0
+"Bermuda","Atlanta",1996,0,1,0,0,0,0
+"Bermuda","Barcelona",1992,0,0,0,0,0,0
+"Bermuda","Beijing",2008,0,0,0,0,0,0
+"Bermuda","Berlin",1936,0,0,0,0,0,0
+"Bermuda","Helsinki",1952,0,0,0,0,0,0
+"Bermuda","Lillehammer",1994,0,0,0,0,0,0
+"Bermuda","London",1948,0,0,0,0,0,0
+"Bermuda","London",2012,0,0,0,0,0,0
+"Bermuda","Los Angeles",1984,0,1,0,0,0,0
+"Bermuda","Melbourne",1956,0,0,0,0,0,0
+"Bermuda","Mexico City",1968,0,1,0,0,0,0
+"Bermuda","Montreal",1976,0,1,0,0,1,1
+"Bermuda","Munich",1972,0,0,0,0,0,0
+"Bermuda","Nagano",1998,0,0,0,0,0,0
+"Bermuda","Rio de Janeiro",2016,0,1,0,0,0,0
+"Bermuda","Roma",1960,0,0,0,0,0,0
+"Bermuda","Salt Lake City",2002,0,1,0,0,0,0
+"Bermuda","Seoul",1988,0,0,0,0,0,0
+"Bermuda","Sochi",2014,0,0,0,0,0,0
+"Bermuda","Sydney",2000,0,0,0,0,0,0
+"Bermuda","Tokyo",1964,0,0,0,0,0,0
+"Bermuda","Torino",2006,0,0,0,0,0,0
+"Bermuda","Vancouver",2010,0,1,0,0,0,0
+"Bhutan","Albertville",1992,0,0,0,0,0,0
+"Bhutan","Athina",2004,0,0,0,0,0,0
+"Bhutan","Atlanta",1996,0,0,0,0,0,0
+"Bhutan","Barcelona",1992,0,0,0,0,0,0
+"Bhutan","Beijing",2008,0,1,0,0,0,0
+"Bhutan","Berlin",1936,0,0,0,0,0,0
+"Bhutan","Calgary",1988,0,0,0,0,0,0
+"Bhutan","Cortina d'Ampezzo",1956,0,0,0,0,0,0
+"Bhutan","Lake Placid",1980,0,0,0,0,0,0
+"Bhutan","London",2012,0,0,0,0,0,0
+"Bhutan","Los Angeles",1984,0,0,0,0,0,0
+"Bhutan","Mexico City",1968,0,0,0,0,0,0
+"Bhutan","Montreal",1976,0,0,0,0,0,0
+"Bhutan","Munich",1972,0,0,0,0,0,0
+"Bhutan","Rio de Janeiro",2016,0,0,0,0,0,0
+"Bhutan","Sarajevo",1984,0,0,0,0,0,0
+"Bhutan","Seoul",1988,0,1,0,0,0,0
+"Bhutan","Sydney",2000,0,0,0,0,0,0
+"Bhutan","Tokyo",1964,0,1,0,0,0,0
+"Bosnia and Herzegovina","Athina",2004,0,1,0,0,0,0
+"Bosnia and Herzegovina","Atlanta",1996,0,0,0,0,0,0
+"Bosnia and Herzegovina","Barcelona",1992,0,1,0,0,0,0
+"Bosnia and Herzegovina","Beijing",2008,0,0,0,0,0,0
+"Bosnia and Herzegovina","Lillehammer",1994,0,1,0,0,0,0
+"Bosnia and Herzegovina","London",2012,0,1,0,0,0,0
+"Bosnia and Herzegovina","Nagano",1998,0,0,0,0,0,0
+"Bosnia and Herzegovina","Rio de Janeiro",2016,0,0,0,0,0,0
+"Bosnia and Herzegovina","Salt Lake City",2002,0,0,0,0,0,0
+"Bosnia and Herzegovina","Sochi",2014,0,1,0,0,0,0
+"Bosnia and Herzegovina","Sydney",2000,0,0,0,0,0,0
+"Bosnia and Herzegovina","Torino",2006,0,1,0,0,0,0
+"Bosnia and Herzegovina","Vancouver",2010,0,0,0,0,0,0
+"Botswana","Athina",2004,0,0,0,0,0,0
+"Botswana","Atlanta",1996,0,0,0,0,0,0
+"Botswana","Barcelona",1992,0,0,0,0,0,0
+"Botswana","Beijing",2008,0,0,0,0,0,0
+"Botswana","London",2012,0,0,0,1,0,1
+"Botswana","Los Angeles",1984,0,0,0,0,0,0
+"Botswana","Moskva",1980,0,0,0,0,0,0
+"Botswana","Rio de Janeiro",2016,0,0,0,0,0,0
+"Botswana","Seoul",1988,0,0,0,0,0,0
+"Botswana","Sydney",2000,0,0,0,0,0,0
+"Brazil","Albertville",1992,0,0,0,0,0,0
+"Brazil","Antwerpen",1920,0,0,1,1,5,7
+"Brazil","Athina",2004,0,0,18,19,3,40
+"Brazil","Atlanta",1996,0,1,5,15,43,63
+"Brazil","Barcelona",1992,0,0,13,1,0,14
+"Brazil","Beijing",2008,0,0,14,34,30,78
+"Brazil","Berlin",1936,0,0,0,0,0,0
+"Brazil","Helsinki",1952,0,0,1,0,2,3
+"Brazil","Lillehammer",1994,0,0,0,0,0,0
+"Brazil","London",1948,0,0,0,0,10,10
+"Brazil","London",2012,0,0,14,34,11,59
+"Brazil","Los Angeles",1932,0,1,0,0,0,0
+"Brazil","Los Angeles",1984,0,1,1,33,2,36
+"Brazil","Melbourne",1956,0,0,1,0,0,1
+"Brazil","Mexico City",1968,0,1,0,1,3,4
+"Brazil","Montreal",1976,0,1,0,0,3,3
+"Brazil","Moskva",1980,0,0,4,0,5,9
+"Brazil","Munich",1972,0,0,0,0,2,2
+"Brazil","Nagano",1998,0,0,0,0,0,0
+"Brazil","Paris",1900,0,0,0,0,0,0
+"Brazil","Paris",1924,0,0,0,0,0,0
+"Brazil","Rio de Janeiro",2016,1,1,36,8,6,50
+"Brazil","Roma",1960,0,0,0,0,13,13
+"Brazil","Salt Lake City",2002,0,1,0,0,0,0
+"Brazil","Seoul",1988,0,0,1,17,5,23
+"Brazil","Sochi",2014,0,0,0,0,0,0
+"Brazil","Stockholm",1956,0,0,0,0,0,0
+"Brazil","Sydney",2000,0,0,0,12,36,48
+"Brazil","Tokyo",1964,0,0,0,0,12,12
+"Brazil","Torino",2006,0,0,0,0,0,0
+"Brazil","Vancouver",2010,0,1,0,0,0,0
+"British Indian Ocean Territory","Athina",2004,0,0,0,0,0,0
+"British Indian Ocean Territory","Atlanta",1996,0,0,0,0,0,0
+"British Indian Ocean Territory","London",2012,0,0,0,0,0,0
+"British Indian Ocean Territory","Rio de Janeiro",2016,0,0,0,0,0,0
+"British Indian Ocean Territory","Sydney",2000,0,1,0,0,0,0
+"Bulgaria","Albertville",1992,0,1,0,0,0,0
+"Bulgaria","Amsterdam",1928,0,1,0,0,0,0
+"Bulgaria","Athina",2004,0,1,2,1,14,17
+"Bulgaria","Atlanta",1996,0,0,3,12,6,21
+"Bulgaria","Barcelona",1992,0,1,3,7,7,17
+"Bulgaria","Beijing",2008,0,0,1,1,3,5
+"Bulgaria","Berlin",1936,0,1,0,0,0,0
+"Bulgaria","Calgary",1988,0,0,0,0,0,0
+"Bulgaria","Cortina d'Ampezzo",1956,0,1,0,0,0,0
+"Bulgaria","Garmisch-Partenkirchen",1936,0,1,0,0,0,0
+"Bulgaria","Grenoble",1968,0,1,0,0,0,0
+"Bulgaria","Helsinki",1952,0,1,0,0,1,1
+"Bulgaria","Innsbruck",1964,0,1,0,0,0,0
+"Bulgaria","Innsbruck",1976,0,1,0,0,0,0
+"Bulgaria","Lake Placid",1980,0,0,0,0,1,1
+"Bulgaria","Lillehammer",1994,0,1,0,0,0,0
+"Bulgaria","London",2012,0,1,0,1,1,2
+"Bulgaria","Los Angeles",1932,0,0,0,0,0,0
+"Bulgaria","Melbourne",1956,0,0,1,3,14,18
+"Bulgaria","Mexico City",1968,0,0,2,21,3,26
+"Bulgaria","Montreal",1976,0,0,8,13,18,39
+"Bulgaria","Moskva",1980,0,1,8,44,38,90
+"Bulgaria","Munich",1972,0,1,6,10,6,22
+"Bulgaria","Nagano",1998,0,0,1,0,0,1
+"Bulgaria","Oslo",1952,0,1,0,0,0,0
+"Bulgaria","Paris",1924,0,1,0,0,0,0
+"Bulgaria","Rio de Janeiro",2016,0,0,0,1,6,7
+"Bulgaria","Roma",1960,0,1,1,3,3,7
+"Bulgaria","Salt Lake City",2002,0,0,0,1,2,3
+"Bulgaria","Sankt Moritz",1948,0,1,0,0,0,0
+"Bulgaria","Sapporo",1972,0,0,0,0,0,0
+"Bulgaria","Sarajevo",1984,0,1,0,0,0,0
+"Bulgaria","Seoul",1988,0,0,10,14,17,41
+"Bulgaria","Sochi",2014,0,1,0,0,0,0
+"Bulgaria","Squaw Valley",1960,0,0,0,0,0,0
+"Bulgaria","Stockholm",1956,0,1,0,0,0,0
+"Bulgaria","Sydney",2000,0,0,5,6,2,13
+"Bulgaria","Tokyo",1964,0,0,3,5,2,10
+"Bulgaria","Torino",2006,0,1,0,1,0,1
+"Bulgaria","Vancouver",2010,0,0,0,0,0,0
+"Burkina Faso","Athina",2004,0,0,0,0,0,0
+"Burkina Faso","Atlanta",1996,0,0,0,0,0,0
+"Burkina Faso","Barcelona",1992,0,0,0,0,0,0
+"Burkina Faso","Beijing",2008,0,0,0,0,0,0
+"Burkina Faso","London",2012,0,0,0,0,0,0
+"Burkina Faso","Munich",1972,0,0,0,0,0,0
+"Burkina Faso","Rio de Janeiro",2016,0,0,0,0,0,0
+"Burkina Faso","Seoul",1988,0,0,0,0,0,0
+"Burkina Faso","Sydney",2000,0,0,0,0,0,0
+"Burundi","Athina",2004,0,0,0,0,0,0
+"Burundi","Atlanta",1996,0,0,1,0,0,1
+"Burundi","Beijing",2008,0,0,0,0,0,0
+"Burundi","London",2012,0,0,0,0,0,0
+"Burundi","Rio de Janeiro",2016,0,0,0,1,0,1
+"Burundi","Sydney",2000,0,0,0,0,0,0
+"Côte d'Ivoire","Athina",2004,0,0,0,0,0,0
+"Côte d'Ivoire","Atlanta",1996,0,0,0,0,0,0
+"Côte d'Ivoire","Barcelona",1992,0,0,0,0,0,0
+"Côte d'Ivoire","Beijing",2008,0,0,0,0,0,0
+"Côte d'Ivoire","London",2012,0,0,0,0,0,0
+"Côte d'Ivoire","Los Angeles",1984,0,0,0,1,0,1
+"Côte d'Ivoire","Mexico City",1968,0,0,0,0,0,0
+"Côte d'Ivoire","Montreal",1976,0,0,0,0,0,0
+"Côte d'Ivoire","Munich",1972,0,0,0,0,0,0
+"Côte d'Ivoire","Rio de Janeiro",2016,0,0,1,0,1,2
+"Côte d'Ivoire","Seoul",1988,0,0,0,0,0,0
+"Côte d'Ivoire","Sydney",2000,0,0,0,0,0,0
+"Côte d'Ivoire","Tokyo",1964,0,0,0,0,0,0
+"Cabo Verde","Athina",2004,0,0,0,0,0,0
+"Cabo Verde","Atlanta",1996,0,0,0,0,0,0
+"Cabo Verde","Beijing",2008,0,0,0,0,0,0
+"Cabo Verde","London",2012,0,0,0,0,0,0
+"Cabo Verde","Rio de Janeiro",2016,0,0,0,0,0,0
+"Cabo Verde","St. Louis",1904,0,0,0,0,0,0
+"Cabo Verde","Sydney",2000,0,0,0,0,0,0
+"Cambodia","Athina",2004,0,0,0,0,0,0
+"Cambodia","Atlanta",1996,0,0,0,0,0,0
+"Cambodia","Beijing",2008,0,1,0,0,0,0
+"Cambodia","London",2012,0,0,0,0,0,0
+"Cambodia","Munich",1972,0,0,0,0,0,0
+"Cambodia","Rio de Janeiro",2016,0,0,0,0,0,0
+"Cambodia","Stockholm",1956,0,0,0,0,0,0
+"Cambodia","Sydney",2000,0,0,0,0,0,0
+"Cambodia","Tokyo",1964,0,1,0,0,0,0
+"Cameroon","Athina",2004,0,0,1,0,0,1
+"Cameroon","Atlanta",1996,0,0,0,0,0,0
+"Cameroon","Barcelona",1992,0,0,0,0,0,0
+"Cameroon","Beijing",2008,0,0,1,0,0,1
+"Cameroon","London",2012,0,0,0,0,0,0
+"Cameroon","Los Angeles",1984,0,0,0,0,1,1
+"Cameroon","Mexico City",1968,0,0,0,1,0,1
+"Cameroon","Montreal",1976,0,0,0,0,0,0
+"Cameroon","Moskva",1980,0,0,0,0,0,0
+"Cameroon","Munich",1972,0,0,0,0,0,0
+"Cameroon","Rio de Janeiro",2016,0,0,0,0,0,0
+"Cameroon","Salt Lake City",2002,0,0,0,0,0,0
+"Cameroon","Seoul",1988,0,0,0,0,0,0
+"Cameroon","Sydney",2000,0,0,18,0,0,18
+"Cameroon","Tokyo",1964,0,0,0,0,0,0
+"Canada","Albertville",1992,0,0,5,28,3,36
+"Canada","Amsterdam",1928,0,0,7,5,21,33
+"Canada","Antwerpen",1920,0,0,10,3,3,16
+"Canada","Athina",2004,0,0,3,10,4,17
+"Canada","Atlanta",1996,0,1,8,30,12,50
+"Canada","Barcelona",1992,0,0,27,5,12,44
+"Canada","Beijing",2008,0,0,11,13,11,35
+"Canada","Berlin",1936,0,0,1,12,9,22
+"Canada","Calgary",1988,1,1,0,2,4,6
+"Canada","Chamonix",1924,0,0,9,0,0,9
+"Canada","Cortina d'Ampezzo",1956,0,0,0,2,18,20
+"Canada","Garmisch-Partenkirchen",1936,0,0,0,13,0,13
+"Canada","Grenoble",1968,0,0,1,1,18,20
+"Canada","Helsinki",1952,0,0,1,3,0,4
+"Canada","Innsbruck",1964,0,0,4,2,1,7
+"Canada","Innsbruck",1976,0,0,1,1,1,3
+"Canada","Lake Placid",1932,0,1,14,1,5,20
+"Canada","Lake Placid",1980,0,1,0,1,1,2
+"Canada","Lillehammer",1994,0,0,3,29,5,37
+"Canada","London",1908,0,0,14,8,30,52
+"Canada","London",1948,0,0,0,2,5,7
+"Canada","London",2012,0,0,1,21,33,55
+"Canada","Los Angeles",1932,0,1,2,13,24,39
+"Canada","Los Angeles",1984,0,1,19,36,32,87
+"Canada","Melbourne",1956,0,0,5,9,2,16
+"Canada","Mexico City",1968,0,1,3,3,4,10
+"Canada","Montreal",1976,1,1,0,9,14,23
+"Canada","Munich",1972,0,0,0,2,9,11
+"Canada","Nagano",1998,0,0,14,28,7,49
+"Canada","Oslo",1952,0,0,16,0,1,17
+"Canada","Paris",1900,0,0,1,0,1,2
+"Canada","Paris",1924,0,0,0,19,1,20
+"Canada","Rio de Janeiro",2016,0,1,4,4,61,69
+"Canada","Roma",1960,0,0,0,9,0,9
+"Canada","Salt Lake City",2002,0,1,52,7,15,74
+"Canada","Sankt Moritz",1928,0,0,12,0,0,12
+"Canada","Sankt Moritz",1948,0,0,13,0,2,15
+"Canada","Sapporo",1972,0,0,0,1,0,1
+"Canada","Sarajevo",1984,0,0,2,1,1,4
+"Canada","Seoul",1988,0,0,4,5,14,23
+"Canada","Sochi",2014,0,0,59,22,5,86
+"Canada","Squaw Valley",1960,0,1,3,17,1,21
+"Canada","St. Louis",1904,0,1,27,9,12,48
+"Canada","Stockholm",1912,0,0,3,2,3,8
+"Canada","Stockholm",1956,0,0,0,0,3,3
+"Canada","Sydney",2000,0,0,4,4,23,31
+"Canada","Tokyo",1964,0,0,2,2,1,5
+"Canada","Torino",2006,0,0,30,28,11,69
+"Canada","Vancouver",2010,1,1,67,15,8,90
+"Cayman Islands","Athina",2004,0,0,0,0,0,0
+"Cayman Islands","Atlanta",1996,0,1,0,0,0,0
+"Cayman Islands","Barcelona",1992,0,0,0,0,0,0
+"Cayman Islands","Beijing",2008,0,0,0,0,0,0
+"Cayman Islands","London",2012,0,0,0,0,0,0
+"Cayman Islands","Los Angeles",1984,0,1,0,0,0,0
+"Cayman Islands","Montreal",1976,0,1,0,0,0,0
+"Cayman Islands","Rio de Janeiro",2016,0,1,0,0,0,0
+"Cayman Islands","Seoul",1988,0,0,0,0,0,0
+"Cayman Islands","Sochi",2014,0,0,0,0,0,0
+"Cayman Islands","Sydney",2000,0,0,0,0,0,0
+"Cayman Islands","Vancouver",2010,0,1,0,0,0,0
+"Central African Republic","Athina",2004,0,0,0,0,0,0
+"Central African Republic","Atlanta",1996,0,0,0,0,0,0
+"Central African Republic","Barcelona",1992,0,0,0,0,0,0
+"Central African Republic","Beijing",2008,0,0,0,0,0,0
+"Central African Republic","London",2012,0,0,0,0,0,0
+"Central African Republic","Los Angeles",1984,0,0,0,0,0,0
+"Central African Republic","Mexico City",1968,0,0,0,0,0,0
+"Central African Republic","Rio de Janeiro",2016,0,0,0,0,0,0
+"Central African Republic","Seoul",1988,0,0,0,0,0,0
+"Central African Republic","Sydney",2000,0,0,0,0,0,0
+"Chad","Athina",2004,0,0,0,0,0,0
+"Chad","Atlanta",1996,0,0,0,0,0,0
+"Chad","Barcelona",1992,0,0,0,0,0,0
+"Chad","Beijing",2008,0,0,0,0,0,0
+"Chad","London",2012,0,0,0,0,0,0
+"Chad","Los Angeles",1984,0,0,0,0,0,0
+"Chad","Mexico City",1968,0,0,0,0,0,0
+"Chad","Munich",1972,0,0,0,0,0,0
+"Chad","Rio de Janeiro",2016,0,0,0,0,0,0
+"Chad","Seoul",1988,0,0,0,0,0,0
+"Chad","Sydney",2000,0,0,0,0,0,0
+"Chad","Tokyo",1964,0,0,0,0,0,0
+"Chile","Albertville",1992,0,0,0,0,0,0
+"Chile","Amsterdam",1928,0,0,0,1,0,1
+"Chile","Antwerpen",1920,0,0,0,0,0,0
+"Chile","Athina",2004,0,0,3,0,1,4
+"Chile","Atlanta",1996,0,1,0,0,0,0
+"Chile","Barcelona",1992,0,0,0,0,0,0
+"Chile","Beijing",2008,0,0,0,1,0,1
+"Chile","Berlin",1936,0,0,0,0,0,0
+"Chile","Calgary",1988,0,1,0,0,0,0
+"Chile","Cortina d'Ampezzo",1956,0,0,0,0,0,0
+"Chile","Grenoble",1968,0,0,0,0,0,0
+"Chile","Helsinki",1952,0,0,0,4,0,4
+"Chile","Innsbruck",1964,0,0,0,0,0,0
+"Chile","Innsbruck",1976,0,0,0,0,0,0
+"Chile","Lillehammer",1994,0,0,0,0,0,0
+"Chile","London",1948,0,0,0,0,0,0
+"Chile","London",2012,0,0,0,0,0,0
+"Chile","Los Angeles",1984,0,1,0,0,0,0
+"Chile","Melbourne",1956,0,0,0,2,2,4
+"Chile","Mexico City",1968,0,1,0,0,0,0
+"Chile","Montreal",1976,0,1,0,0,0,0
+"Chile","Munich",1972,0,0,0,0,0,0
+"Chile","Nagano",1998,0,0,0,0,0,0
+"Chile","Oslo",1952,0,0,0,0,0,0
+"Chile","Paris",1924,0,0,0,0,0,0
+"Chile","Rio de Janeiro",2016,0,1,0,0,0,0
+"Chile","Roma",1960,0,0,0,0,0,0
+"Chile","Salt Lake City",2002,0,1,0,0,0,0
+"Chile","Sankt Moritz",1948,0,0,0,0,0,0
+"Chile","Sarajevo",1984,0,0,0,0,0,0
+"Chile","Seoul",1988,0,0,0,1,0,1
+"Chile","Sochi",2014,0,0,0,0,0,0
+"Chile","Squaw Valley",1960,0,1,0,0,0,0
+"Chile","Stockholm",1912,0,0,0,0,0,0
+"Chile","Sydney",2000,0,0,0,0,17,17
+"Chile","Tokyo",1964,0,0,0,0,0,0
+"Chile","Torino",2006,0,0,0,0,0,0
+"Chile","Vancouver",2010,0,1,0,0,0,0
+"China","Albertville",1992,0,0,0,3,0,3
+"China","Athina",2004,0,0,52,29,15,96
+"China","Atlanta",1996,0,0,20,70,17,107
+"China","Barcelona",1992,0,0,18,45,19,82
+"China","Beijing",2008,1,1,74,53,57,184
+"China","Berlin",1936,0,0,0,0,0,0
+"China","Calgary",1988,0,0,0,0,0,0
+"China","Helsinki",1952,0,0,0,0,0,0
+"China","Lake Placid",1980,0,0,0,0,0,0
+"China","Lillehammer",1994,0,0,0,1,2,3
+"China","London",1948,0,0,0,0,0,0
+"China","London",2012,0,0,56,40,30,126
+"China","Los Angeles",1932,0,0,0,0,0,0
+"China","Los Angeles",1984,0,0,24,13,37,74
+"China","Melbourne",1956,0,0,0,0,0,0
+"China","Mexico City",1968,0,0,0,0,0,0
+"China","Montreal",1976,0,0,0,0,0,0
+"China","Munich",1972,0,0,0,0,0,0
+"China","Nagano",1998,0,1,0,9,5,14
+"China","Rio de Janeiro",2016,0,0,46,30,37,113
+"China","Roma",1960,0,0,0,0,0,0
+"China","Salt Lake City",2002,0,0,2,5,9,16
+"China","Sarajevo",1984,0,0,0,0,0,0
+"China","Seoul",1988,0,1,6,16,30,52
+"China","Sochi",2014,0,0,3,4,5,12
+"China","Sydney",2000,0,0,39,23,17,79
+"China","Tokyo",1964,0,1,0,0,0,0
+"China","Torino",2006,0,0,2,5,6,13
+"China","Vancouver",2010,0,0,9,3,7,19
+"Colombia","Athina",2004,0,0,0,0,2,2
+"Colombia","Atlanta",1996,0,1,0,0,0,0
+"Colombia","Barcelona",1992,0,0,0,0,1,1
+"Colombia","Beijing",2008,0,0,0,1,1,2
+"Colombia","Berlin",1936,0,0,0,0,0,0
+"Colombia","London",1948,0,0,0,0,0,0
+"Colombia","London",2012,0,0,1,3,4,8
+"Colombia","Los Angeles",1932,0,1,0,0,0,0
+"Colombia","Los Angeles",1984,0,1,0,1,0,1
+"Colombia","Melbourne",1956,0,0,0,0,0,0
+"Colombia","Mexico City",1968,0,1,0,0,0,0
+"Colombia","Montreal",1976,0,1,0,0,0,0
+"Colombia","Moskva",1980,0,0,0,0,0,0
+"Colombia","Munich",1972,0,0,0,1,2,3
+"Colombia","Paris",1900,0,0,0,1,0,1
+"Colombia","Rio de Janeiro",2016,0,1,3,2,3,8
+"Colombia","Roma",1960,0,0,0,0,0,0
+"Colombia","Seoul",1988,0,0,0,0,1,1
+"Colombia","Sydney",2000,0,0,1,0,0,1
+"Colombia","Tokyo",1964,0,0,0,0,0,0
+"Colombia","Vancouver",2010,0,1,0,0,0,0
+"Comoros","Athina",2004,0,0,0,0,0,0
+"Comoros","Atlanta",1996,0,0,0,0,0,0
+"Comoros","Beijing",2008,0,0,0,0,0,0
+"Comoros","London",2012,0,0,0,0,0,0
+"Comoros","Rio de Janeiro",2016,0,0,0,0,0,0
+"Comoros","Sydney",2000,0,0,0,0,0,0
+"Cook Islands","Athina",2004,0,0,0,0,0,0
+"Cook Islands","Atlanta",1996,0,0,0,0,0,0
+"Cook Islands","Barcelona",1992,0,0,0,0,0,0
+"Cook Islands","Beijing",2008,0,0,0,0,0,0
+"Cook Islands","London",2012,0,0,0,0,0,0
+"Cook Islands","Rio de Janeiro",2016,0,0,0,0,0,0
+"Cook Islands","Seoul",1988,0,0,0,0,0,0
+"Cook Islands","Sydney",2000,0,1,0,0,0,0
+"Costa Rica","Albertville",1992,0,0,0,0,0,0
+"Costa Rica","Athina",2004,0,0,0,0,0,0
+"Costa Rica","Atlanta",1996,0,1,1,0,0,1
+"Costa Rica","Barcelona",1992,0,0,0,0,0,0
+"Costa Rica","Beijing",2008,0,0,0,0,0,0
+"Costa Rica","Berlin",1936,0,0,0,0,0,0
+"Costa Rica","Calgary",1988,0,1,0,0,0,0
+"Costa Rica","Lake Placid",1980,0,1,0,0,0,0
+"Costa Rica","London",2012,0,0,0,0,0,0
+"Costa Rica","Los Angeles",1984,0,1,0,0,0,0
+"Costa Rica","Mexico City",1968,0,1,0,0,0,0
+"Costa Rica","Montreal",1976,0,1,0,0,0,0
+"Costa Rica","Moskva",1980,0,0,0,0,0,0
+"Costa Rica","Munich",1972,0,0,0,0,0,0
+"Costa Rica","Rio de Janeiro",2016,0,1,0,0,0,0
+"Costa Rica","Salt Lake City",2002,0,1,0,0,0,0
+"Costa Rica","Sarajevo",1984,0,0,0,0,0,0
+"Costa Rica","Seoul",1988,0,0,0,1,0,1
+"Costa Rica","Sydney",2000,0,0,0,0,2,2
+"Costa Rica","Tokyo",1964,0,0,0,0,0,0
+"Costa Rica","Torino",2006,0,0,0,0,0,0
+"Croatia","Albertville",1992,0,1,0,0,0,0
+"Croatia","Athina",2004,0,1,15,3,3,21
+"Croatia","Atlanta",1996,0,0,16,12,0,28
+"Croatia","Barcelona",1992,0,1,0,12,3,15
+"Croatia","Beijing",2008,0,0,0,2,3,5
+"Croatia","Lillehammer",1994,0,1,0,0,0,0
+"Croatia","London",2012,0,1,15,4,16,35
+"Croatia","Nagano",1998,0,0,0,0,0,0
+"Croatia","Rio de Janeiro",2016,0,0,7,15,2,24
+"Croatia","Salt Lake City",2002,0,0,3,1,0,4
+"Croatia","Sochi",2014,0,1,0,1,0,1
+"Croatia","Sydney",2000,0,0,1,0,9,10
+"Croatia","Torino",2006,0,1,1,2,0,3
+"Croatia","Vancouver",2010,0,0,0,2,1,3
+"Cuba","Amsterdam",1928,0,0,0,0,0,0
+"Cuba","Athina",2004,0,0,32,8,22,62
+"Cuba","Atlanta",1996,0,1,37,8,10,55
+"Cuba","Barcelona",1992,0,0,42,13,14,69
+"Cuba","Beijing",2008,0,0,2,34,11,47
+"Cuba","Helsinki",1952,0,0,0,0,0,0
+"Cuba","London",1948,0,0,0,2,0,2
+"Cuba","London",2012,0,0,5,3,6,14
+"Cuba","Los Angeles",1932,0,1,0,0,0,0
+"Cuba","Melbourne",1956,0,0,0,0,0,0
+"Cuba","Mexico City",1968,0,1,0,10,0,10
+"Cuba","Montreal",1976,0,1,6,4,14,24
+"Cuba","Moskva",1980,0,0,8,7,5,20
+"Cuba","Munich",1972,0,0,3,1,18,22
+"Cuba","Paris",1900,0,0,1,1,0,2
+"Cuba","Paris",1924,0,0,0,0,0,0
+"Cuba","Rio de Janeiro",2016,0,1,5,2,4,11
+"Cuba","Roma",1960,0,0,0,0,0,0
+"Cuba","St. Louis",1904,0,1,5,0,0,5
+"Cuba","Sydney",2000,0,0,18,35,12,65
+"Cuba","Tokyo",1964,0,0,0,1,0,1
+"Curaçao","Albertville",1992,0,0,0,0,0,0
+"Curaçao","Athina",2004,0,0,0,0,0,0
+"Curaçao","Atlanta",1996,0,1,0,0,0,0
+"Curaçao","Barcelona",1992,0,0,0,0,0,0
+"Curaçao","Beijing",2008,0,0,0,0,0,0
+"Curaçao","Calgary",1988,0,1,0,0,0,0
+"Curaçao","Helsinki",1952,0,0,0,0,0,0
+"Curaçao","Los Angeles",1984,0,1,0,0,0,0
+"Curaçao","Mexico City",1968,0,1,0,0,0,0
+"Curaçao","Montreal",1976,0,1,0,0,0,0
+"Curaçao","Munich",1972,0,0,0,0,0,0
+"Curaçao","Roma",1960,0,0,0,0,0,0
+"Curaçao","Seoul",1988,0,0,0,1,0,1
+"Curaçao","Sydney",2000,0,0,0,0,0,0
+"Curaçao","Tokyo",1964,0,0,0,0,0,0
+"Cyprus","Albertville",1992,0,0,0,0,0,0
+"Cyprus","Athina",2004,0,0,0,0,0,0
+"Cyprus","Atlanta",1996,0,0,0,0,0,0
+"Cyprus","Barcelona",1992,0,0,0,0,0,0
+"Cyprus","Beijing",2008,0,1,0,0,0,0
+"Cyprus","Calgary",1988,0,0,0,0,0,0
+"Cyprus","Lake Placid",1980,0,0,0,0,0,0
+"Cyprus","Lillehammer",1994,0,0,0,0,0,0
+"Cyprus","London",2012,0,0,0,1,0,1
+"Cyprus","Los Angeles",1984,0,0,0,0,0,0
+"Cyprus","Moskva",1980,0,0,0,0,0,0
+"Cyprus","Nagano",1998,0,1,0,0,0,0
+"Cyprus","Rio de Janeiro",2016,0,0,0,0,0,0
+"Cyprus","Salt Lake City",2002,0,0,0,0,0,0
+"Cyprus","Sarajevo",1984,0,0,0,0,0,0
+"Cyprus","Seoul",1988,0,1,0,0,0,0
+"Cyprus","Sochi",2014,0,0,0,0,0,0
+"Cyprus","Sydney",2000,0,0,0,0,0,0
+"Cyprus","Torino",2006,0,0,0,0,0,0
+"Cyprus","Vancouver",2010,0,0,0,0,0,0
+"Czech Republic","Albertville",1992,0,1,0,0,27,27
+"Czech Republic","Amsterdam",1928,0,1,2,12,2,16
+"Czech Republic","Antwerpen",1920,0,1,0,0,10,10
+"Czech Republic","Athina",2004,0,1,1,6,6,13
+"Czech Republic","Atlanta",1996,0,0,4,5,4,13
+"Czech Republic","Barcelona",1992,0,1,4,3,1,8
+"Czech Republic","Beijing",2008,0,0,3,4,0,7
+"Czech Republic","Berlin",1936,0,1,5,12,1,18
+"Czech Republic","Calgary",1988,0,0,0,1,5,6
+"Czech Republic","Chamonix",1924,0,1,0,0,0,0
+"Czech Republic","Cortina d'Ampezzo",1956,0,1,0,0,0,0
+"Czech Republic","Garmisch-Partenkirchen",1936,0,1,0,0,0,0
+"Czech Republic","Grenoble",1968,0,1,1,19,1,21
+"Czech Republic","Helsinki",1952,0,1,11,4,10,25
+"Czech Republic","Innsbruck",1964,0,1,0,0,17,17
+"Czech Republic","Innsbruck",1976,0,1,0,19,0,19
+"Czech Republic","Lake Placid",1932,0,0,0,0,0,0
+"Czech Republic","Lake Placid",1980,0,0,0,0,1,1
+"Czech Republic","Lillehammer",1994,0,1,0,0,0,0
+"Czech Republic","London",1908,0,1,0,0,6,6
+"Czech Republic","London",1948,0,1,14,3,3,20
+"Czech Republic","London",2012,0,1,4,4,6,14
+"Czech Republic","Los Angeles",1932,0,0,1,3,2,6
+"Czech Republic","Los Angeles",1984,0,0,0,0,0,0
+"Czech Republic","Melbourne",1956,0,0,1,5,1,7
+"Czech Republic","Mexico City",1968,0,0,7,7,15,29
+"Czech Republic","Montreal",1976,0,0,2,4,9,15
+"Czech Republic","Moskva",1980,0,1,17,18,16,51
+"Czech Republic","Munich",1972,0,1,2,21,6,29
+"Czech Republic","Nagano",1998,0,0,21,1,1,23
+"Czech Republic","Oslo",1952,0,1,0,0,0,0
+"Czech Republic","Paris",1900,0,1,0,1,2,3
+"Czech Republic","Paris",1924,0,1,1,4,5,10
+"Czech Republic","Rio de Janeiro",2016,0,0,1,2,12,15
+"Czech Republic","Roma",1960,0,1,4,7,11,22
+"Czech Republic","Salt Lake City",2002,0,0,1,2,0,3
+"Czech Republic","Sankt Moritz",1928,0,1,0,0,1,1
+"Czech Republic","Sankt Moritz",1948,0,1,0,17,0,17
+"Czech Republic","Sapporo",1972,0,0,1,0,19,20
+"Czech Republic","Sarajevo",1984,0,1,0,24,4,28
+"Czech Republic","Seoul",1988,0,0,3,4,3,10
+"Czech Republic","Sochi",2014,0,1,2,7,2,11
+"Czech Republic","Squaw Valley",1960,0,0,0,1,0,1
+"Czech Republic","Stockholm",1912,0,1,0,0,0,0
+"Czech Republic","Sydney",2000,0,0,2,3,4,9
+"Czech Republic","Tokyo",1964,0,0,5,37,12,54
+"Czech Republic","Torino",2006,0,1,1,2,24,27
+"Czech Republic","Vancouver",2010,0,0,2,0,7,9
+"Denmark","Albertville",1992,0,1,0,0,0,0
+"Denmark","Amsterdam",1928,0,1,6,5,4,15
+"Denmark","Antwerpen",1920,0,1,26,44,1,71
+"Denmark","Athina",1896,0,1,1,2,3,6
+"Denmark","Athina",2004,0,1,19,1,9,29
+"Denmark","Atlanta",1996,0,0,21,1,1,23
+"Denmark","Barcelona",1992,0,1,3,2,9,14
+"Denmark","Beijing",2008,0,0,6,7,6,19
+"Denmark","Berlin",1936,0,1,0,3,3,6
+"Denmark","Calgary",1988,0,0,0,0,0,0
+"Denmark","Grenoble",1968,0,1,0,0,0,0
+"Denmark","Helsinki",1952,0,1,3,1,5,9
+"Denmark","Innsbruck",1964,0,1,0,0,0,0
+"Denmark","Lillehammer",1994,0,1,0,0,0,0
+"Denmark","London",1908,0,1,0,14,3,17
+"Denmark","London",1948,0,1,7,17,27,51
+"Denmark","London",2012,0,1,3,5,8,16
+"Denmark","Los Angeles",1932,0,0,0,7,4,11
+"Denmark","Los Angeles",1984,0,0,0,3,10,13
+"Denmark","Melbourne",1956,0,0,1,3,1,5
+"Denmark","Mexico City",1968,0,0,5,6,6,17
+"Denmark","Montreal",1976,0,0,3,0,5,8
+"Denmark","Moskva",1980,0,1,4,2,2,8
+"Denmark","Munich",1972,0,1,1,0,0,1
+"Denmark","Nagano",1998,0,0,0,5,0,5
+"Denmark","Oslo",1952,0,1,0,0,0,0
+"Denmark","Paris",1900,0,1,4,3,2,9
+"Denmark","Paris",1924,0,1,2,9,3,14
+"Denmark","Rio de Janeiro",2016,0,0,15,10,16,41
+"Denmark","Roma",1960,0,1,2,17,4,23
+"Denmark","Salt Lake City",2002,0,0,0,0,0,0
+"Denmark","Sankt Moritz",1948,0,1,0,0,0,0
+"Denmark","Seoul",1988,0,0,3,1,3,7
+"Denmark","Sochi",2014,0,1,0,0,0,0
+"Denmark","Squaw Valley",1960,0,0,0,0,0,0
+"Denmark","Stockholm",1912,0,1,5,49,33,87
+"Denmark","Stockholm",1956,0,1,0,1,0,1
+"Denmark","Sydney",2000,0,0,18,3,4,25
+"Denmark","Tokyo",1964,0,0,7,1,4,12
+"Denmark","Torino",2006,0,1,0,0,0,0
+"Denmark","Vancouver",2010,0,0,0,0,0,0
+"Djibouti","Atlanta",1996,0,0,0,0,0,0
+"Djibouti","Barcelona",1992,0,0,0,0,0,0
+"Djibouti","Beijing",2008,0,0,0,0,0,0
+"Djibouti","London",2012,0,0,0,0,0,0
+"Djibouti","Los Angeles",1984,0,0,0,0,0,0
+"Djibouti","Rio de Janeiro",2016,0,0,0,0,0,0
+"Djibouti","Seoul",1988,0,0,0,0,1,1
+"Djibouti","Sydney",2000,0,0,0,0,0,0
+"Dominica","Athina",2004,0,0,0,0,0,0
+"Dominica","Atlanta",1996,0,1,0,0,0,0
+"Dominica","Beijing",2008,0,0,0,0,0,0
+"Dominica","London",2012,0,0,0,0,0,0
+"Dominica","Rio de Janeiro",2016,0,1,0,0,0,0
+"Dominica","Sochi",2014,0,0,0,0,0,0
+"Dominica","Sydney",2000,0,0,0,0,0,0
+"Dominican Republic","Athina",2004,0,0,1,0,0,1
+"Dominican Republic","Atlanta",1996,0,1,0,0,0,0
+"Dominican Republic","Barcelona",1992,0,0,0,0,0,0
+"Dominican Republic","Beijing",2008,0,0,1,1,0,2
+"Dominican Republic","London",2012,0,0,1,1,0,2
+"Dominican Republic","Los Angeles",1984,0,1,0,0,1,1
+"Dominican Republic","Mexico City",1968,0,1,0,0,0,0
+"Dominican Republic","Montreal",1976,0,1,0,0,0,0
+"Dominican Republic","Moskva",1980,0,0,0,0,0,0
+"Dominican Republic","Munich",1972,0,0,0,0,0,0
+"Dominican Republic","Rio de Janeiro",2016,0,1,0,0,1,1
+"Dominican Republic","Seoul",1988,0,0,0,0,0,0
+"Dominican Republic","Sydney",2000,0,0,0,0,0,0
+"Dominican Republic","Tokyo",1964,0,0,0,0,0,0
+"Ecuador","Athina",2004,0,0,0,0,0,0
+"Ecuador","Atlanta",1996,0,1,1,0,0,1
+"Ecuador","Barcelona",1992,0,0,0,0,0,0
+"Ecuador","Beijing",2008,0,0,0,1,0,1
+"Ecuador","London",2012,0,0,0,0,0,0
+"Ecuador","Los Angeles",1984,0,1,0,0,0,0
+"Ecuador","Mexico City",1968,0,1,0,0,0,0
+"Ecuador","Montreal",1976,0,1,0,0,0,0
+"Ecuador","Moskva",1980,0,0,0,0,0,0
+"Ecuador","Munich",1972,0,0,0,0,0,0
+"Ecuador","Paris",1924,0,0,0,0,0,0
+"Ecuador","Rio de Janeiro",2016,0,1,0,0,0,0
+"Ecuador","Seoul",1988,0,0,0,0,0,0
+"Ecuador","Sydney",2000,0,0,0,0,0,0
+"Egypt","Amsterdam",1928,0,0,2,1,1,4
+"Egypt","Antwerpen",1920,0,0,0,0,0,0
+"Egypt","Athina",2004,0,0,1,1,3,5
+"Egypt","Atlanta",1996,0,0,0,0,0,0
+"Egypt","Barcelona",1992,0,0,0,0,0,0
+"Egypt","Beijing",2008,0,0,0,0,1,1
+"Egypt","Berlin",1936,0,0,2,1,2,5
+"Egypt","Helsinki",1952,0,0,0,0,1,1
+"Egypt","London",1948,0,0,2,2,1,5
+"Egypt","London",2012,0,0,0,2,0,2
+"Egypt","Los Angeles",1984,0,0,0,1,0,1
+"Egypt","Mexico City",1968,0,0,0,0,0,0
+"Egypt","Montreal",1976,0,0,0,0,0,0
+"Egypt","Munich",1972,0,0,0,0,0,0
+"Egypt","Paris",1924,0,0,0,0,0,0
+"Egypt","Rio de Janeiro",2016,0,0,0,0,3,3
+"Egypt","Sarajevo",1984,0,0,0,0,0,0
+"Egypt","Seoul",1988,0,0,0,0,0,0
+"Egypt","Stockholm",1956,0,0,0,0,0,0
+"Egypt","Sydney",2000,0,0,0,0,0,0
+"Egypt","Tokyo",1964,0,0,0,0,0,0
+"El Salvador","Athina",2004,0,0,0,0,0,0
+"El Salvador","Atlanta",1996,0,1,0,0,0,0
+"El Salvador","Barcelona",1992,0,0,0,0,0,0
+"El Salvador","Beijing",2008,0,0,0,0,0,0
+"El Salvador","London",2012,0,0,0,0,0,0
+"El Salvador","Los Angeles",1932,0,1,0,0,0,0
+"El Salvador","Los Angeles",1984,0,1,0,0,0,0
+"El Salvador","Mexico City",1968,0,1,0,0,0,0
+"El Salvador","Munich",1972,0,0,0,0,0,0
+"El Salvador","Rio de Janeiro",2016,0,1,0,0,0,0
+"El Salvador","Seoul",1988,0,0,0,0,0,0
+"El Salvador","Sydney",2000,0,0,0,0,0,0
+"Equatorial Guinea","Athina",2004,0,0,0,0,0,0
+"Equatorial Guinea","Atlanta",1996,0,0,0,0,0,0
+"Equatorial Guinea","Barcelona",1992,0,0,0,0,0,0
+"Equatorial Guinea","Beijing",2008,0,0,0,0,0,0
+"Equatorial Guinea","London",2012,0,0,0,0,0,0
+"Equatorial Guinea","Los Angeles",1984,0,0,0,0,0,0
+"Equatorial Guinea","Rio de Janeiro",2016,0,0,0,0,0,0
+"Equatorial Guinea","Seoul",1988,0,0,0,0,0,0
+"Equatorial Guinea","Sydney",2000,0,0,0,0,0,0
+"Eritrea","Athina",2004,0,0,0,0,1,1
+"Eritrea","Beijing",2008,0,0,0,0,0,0
+"Eritrea","London",2012,0,0,0,0,0,0
+"Eritrea","Rio de Janeiro",2016,0,0,0,0,0,0
+"Eritrea","Sydney",2000,0,0,0,0,0,0
+"Estonia","Albertville",1992,0,1,0,0,0,0
+"Estonia","Amsterdam",1928,0,1,2,1,6,9
+"Estonia","Antwerpen",1920,0,1,1,2,0,3
+"Estonia","Athina",2004,0,1,0,1,2,3
+"Estonia","Atlanta",1996,0,0,0,0,0,0
+"Estonia","Barcelona",1992,0,1,1,0,2,3
+"Estonia","Beijing",2008,0,0,1,2,0,3
+"Estonia","Berlin",1936,0,1,2,2,3,7
+"Estonia","Garmisch-Partenkirchen",1936,0,1,0,0,0,0
+"Estonia","Lillehammer",1994,0,1,0,0,0,0
+"Estonia","London",2012,0,1,0,1,1,2
+"Estonia","Los Angeles",1932,0,0,0,0,0,0
+"Estonia","Nagano",1998,0,0,0,0,0,0
+"Estonia","Paris",1924,0,1,1,1,4,6
+"Estonia","Rio de Janeiro",2016,0,0,0,0,4,4
+"Estonia","Salt Lake City",2002,0,0,1,1,1,3
+"Estonia","Sankt Moritz",1928,0,1,0,0,0,0
+"Estonia","Sochi",2014,0,1,0,0,0,0
+"Estonia","Sydney",2000,0,0,1,0,2,3
+"Estonia","Torino",2006,0,1,3,0,0,3
+"Estonia","Vancouver",2010,0,0,0,1,0,1
+"Ethiopia","Athina",2004,0,0,2,3,2,7
+"Ethiopia","Atlanta",1996,0,0,2,0,1,3
+"Ethiopia","Barcelona",1992,0,0,1,0,2,3
+"Ethiopia","Beijing",2008,0,0,4,1,2,7
+"Ethiopia","London",2012,0,0,3,1,3,7
+"Ethiopia","Melbourne",1956,0,0,0,0,0,0
+"Ethiopia","Mexico City",1968,0,0,1,1,0,2
+"Ethiopia","Moskva",1980,0,0,2,0,2,4
+"Ethiopia","Munich",1972,0,0,0,0,2,2
+"Ethiopia","Rio de Janeiro",2016,0,0,1,2,5,8
+"Ethiopia","Roma",1960,0,0,1,0,0,1
+"Ethiopia","Sydney",2000,0,0,4,1,3,8
+"Ethiopia","Tokyo",1964,0,0,1,0,0,1
+"Ethiopia","Torino",2006,0,0,0,0,0,0
+"Ethiopia","Vancouver",2010,0,0,0,0,0,0
+"Fiji","Athina",2004,0,0,0,0,0,0
+"Fiji","Atlanta",1996,0,0,0,0,0,0
+"Fiji","Barcelona",1992,0,0,0,0,0,0
+"Fiji","Beijing",2008,0,0,0,0,0,0
+"Fiji","Calgary",1988,0,0,0,0,0,0
+"Fiji","Lillehammer",1994,0,0,0,0,0,0
+"Fiji","London",2012,0,0,0,0,0,0
+"Fiji","Los Angeles",1984,0,0,0,0,0,0
+"Fiji","Melbourne",1956,0,1,0,0,0,0
+"Fiji","Mexico City",1968,0,0,0,0,0,0
+"Fiji","Montreal",1976,0,0,0,0,0,0
+"Fiji","Munich",1972,0,0,0,0,0,0
+"Fiji","Rio de Janeiro",2016,0,0,13,0,0,13
+"Fiji","Roma",1960,0,0,0,0,0,0
+"Fiji","Salt Lake City",2002,0,0,0,0,0,0
+"Fiji","Seoul",1988,0,0,0,0,0,0
+"Fiji","Sydney",2000,0,1,0,0,0,0
+"Finland","Albertville",1992,0,1,6,1,6,13
+"Finland","Amsterdam",1928,0,1,8,8,9,25
+"Finland","Antwerpen",1920,0,1,21,14,17,52
+"Finland","Athina",2004,0,1,0,2,0,2
+"Finland","Atlanta",1996,0,0,1,2,1,4
+"Finland","Barcelona",1992,0,1,1,4,2,7
+"Finland","Beijing",2008,0,0,1,2,2,5
+"Finland","Berlin",1936,0,1,8,6,13,27
+"Finland","Calgary",1988,0,0,7,22,5,34
+"Finland","Chamonix",1924,0,1,4,8,3,15
+"Finland","Cortina d'Ampezzo",1956,0,1,5,6,1,12
+"Finland","Garmisch-Partenkirchen",1936,0,1,4,2,3,9
+"Finland","Grenoble",1968,0,1,1,2,5,8
+"Finland","Helsinki",1952,1,1,8,3,29,40
+"Finland","Innsbruck",1964,0,1,3,7,5,15
+"Finland","Innsbruck",1976,0,1,5,10,1,16
+"Finland","Lake Placid",1932,0,0,1,1,1,3
+"Finland","Lake Placid",1980,0,0,1,5,6,12
+"Finland","Lillehammer",1994,0,1,0,1,29,30
+"Finland","London",1908,0,1,1,1,28,30
+"Finland","London",1948,0,1,17,8,8,33
+"Finland","London",2012,0,1,0,1,4,5
+"Finland","Los Angeles",1932,0,0,5,8,16,29
+"Finland","Los Angeles",1984,0,0,4,2,6,12
+"Finland","Melbourne",1956,0,0,3,1,22,26
+"Finland","Mexico City",1968,0,0,1,2,1,4
+"Finland","Montreal",1976,0,0,4,2,0,6
+"Finland","Moskva",1980,0,1,3,1,5,9
+"Finland","Munich",1972,0,1,3,1,6,10
+"Finland","Nagano",1998,0,0,2,7,49,58
+"Finland","Oslo",1952,0,1,6,4,2,12
+"Finland","Paris",1924,0,1,24,13,15,52
+"Finland","Rio de Janeiro",2016,0,0,0,0,1,1
+"Finland","Roma",1960,0,1,1,1,4,6
+"Finland","Salt Lake City",2002,0,0,7,5,1,13
+"Finland","Sankt Moritz",1928,0,1,2,1,1,4
+"Finland","Sankt Moritz",1948,0,1,1,6,2,9
+"Finland","Sapporo",1972,0,0,0,9,1,10
+"Finland","Sarajevo",1984,0,1,4,3,12,19
+"Finland","Seoul",1988,0,0,1,1,2,4
+"Finland","Sochi",2014,0,1,2,7,24,33
+"Finland","Squaw Valley",1960,0,0,5,3,5,13
+"Finland","Stockholm",1912,0,1,9,40,22,71
+"Finland","Stockholm",1956,0,1,0,0,0,0
+"Finland","Sydney",2000,0,0,3,1,1,5
+"Finland","Tokyo",1964,0,0,3,0,2,5
+"Finland","Torino",2006,0,1,0,34,7,41
+"Finland","Vancouver",2010,0,0,0,1,46,47
+"France","Albertville",1992,1,1,5,6,1,12
+"France","Amsterdam",1928,0,1,12,24,14,50
+"France","Antwerpen",1920,0,1,13,71,57,141
+"France","Athina",1896,0,1,5,4,2,11
+"France","Athina",2004,0,1,21,10,22,53
+"France","Atlanta",1996,0,0,21,10,20,51
+"France","Barcelona",1992,0,1,9,5,43,57
+"France","Beijing",2008,0,0,25,24,28,77
+"France","Berlin",1936,0,1,13,13,18,44
+"France","Calgary",1988,0,0,1,0,1,2
+"France","Chamonix",1924,1,1,0,0,10,10
+"France","Cortina d'Ampezzo",1956,0,1,0,0,0,0
+"France","Garmisch-Partenkirchen",1936,0,1,0,0,1,1
+"France","Grenoble",1968,1,1,4,3,2,9
+"France","Helsinki",1952,0,1,14,9,17,40
+"France","Innsbruck",1964,0,1,3,4,0,7
+"France","Innsbruck",1976,0,1,0,0,1,1
+"France","Lake Placid",1932,0,0,2,0,0,2
+"France","Lake Placid",1980,0,0,0,0,1,1
+"France","Lillehammer",1994,0,1,0,1,10,11
+"France","London",1908,0,1,12,5,23,40
+"France","London",1948,0,1,26,22,24,72
+"France","London",2012,0,1,30,30,22,82
+"France","Los Angeles",1932,0,0,26,8,6,40
+"France","Los Angeles",1984,0,0,20,16,31,67
+"France","Melbourne",1956,0,0,7,13,13,33
+"France","Mexico City",1968,0,0,12,5,10,27
+"France","Montreal",1976,0,0,5,7,8,20
+"France","Moskva",1980,0,1,18,5,6,29
+"France","Munich",1972,0,1,2,5,15,22
+"France","Nagano",1998,0,0,2,1,12,15
+"France","Oslo",1952,0,1,0,0,1,1
+"France","Paris",1900,1,1,52,101,82,235
+"France","Paris",1924,1,1,37,51,22,110
+"France","Rio de Janeiro",2016,0,0,20,55,21,96
+"France","Roma",1960,0,1,0,6,6,12
+"France","Salt Lake City",2002,0,0,5,5,5,15
+"France","Sankt Moritz",1928,0,1,2,0,0,2
+"France","Sankt Moritz",1948,0,1,2,1,2,5
+"France","Sapporo",1972,0,0,0,1,2,3
+"France","Sarajevo",1984,0,1,0,1,2,3
+"France","Seoul",1988,0,0,12,4,13,29
+"France","Sochi",2014,0,1,4,4,10,18
+"France","Squaw Valley",1960,0,0,1,0,2,3
+"France","St. Louis",1904,0,0,0,2,0,2
+"France","Stockholm",1912,0,1,10,11,5,26
+"France","Stockholm",1956,0,1,0,0,0,0
+"France","Sydney",2000,0,0,22,30,14,66
+"France","Tokyo",1964,0,0,1,13,17,31
+"France","Torino",2006,0,1,3,2,10,15
+"France","Vancouver",2010,0,0,2,6,6,14
+"Gabon","Athina",2004,0,0,0,0,0,0
+"Gabon","Atlanta",1996,0,0,0,0,0,0
+"Gabon","Barcelona",1992,0,0,0,0,0,0
+"Gabon","Beijing",2008,0,0,0,0,0,0
+"Gabon","London",2012,0,0,0,1,0,1
+"Gabon","Los Angeles",1984,0,0,0,0,0,0
+"Gabon","Munich",1972,0,0,0,0,0,0
+"Gabon","Rio de Janeiro",2016,0,0,0,0,0,0
+"Gabon","Seoul",1988,0,0,0,0,0,0
+"Gabon","Sydney",2000,0,0,0,0,0,0
+"Gambia","Athina",2004,0,0,0,0,0,0
+"Gambia","Atlanta",1996,0,0,0,0,0,0
+"Gambia","Barcelona",1992,0,0,0,0,0,0
+"Gambia","Beijing",2008,0,0,0,0,0,0
+"Gambia","London",2012,0,0,0,0,0,0
+"Gambia","Los Angeles",1984,0,0,0,0,0,0
+"Gambia","Rio de Janeiro",2016,0,0,0,0,0,0
+"Gambia","Seoul",1988,0,0,0,0,0,0
+"Gambia","Sydney",2000,0,0,0,0,0,0
+"Georgia","Athina",2004,0,0,2,2,0,4
+"Georgia","Atlanta",1996,0,0,0,0,2,2
+"Georgia","Beijing",2008,0,1,3,0,3,6
+"Georgia","Lillehammer",1994,0,0,0,0,0,0
+"Georgia","London",2012,0,0,1,3,3,7
+"Georgia","Nagano",1998,0,1,0,0,0,0
+"Georgia","Rio de Janeiro",2016,0,0,2,1,4,7
+"Georgia","Salt Lake City",2002,0,0,0,0,0,0
+"Georgia","Sochi",2014,0,0,0,0,0,0
+"Georgia","Sydney",2000,0,0,0,0,6,6
+"Georgia","Torino",2006,0,0,0,0,0,0
+"Georgia","Vancouver",2010,0,0,0,0,0,0
+"Germany","Albertville",1992,0,1,14,17,7,38
+"Germany","Amsterdam",1928,0,1,21,15,41,77
+"Germany","Athina",1896,0,1,25,5,2,32
+"Germany","Athina",2004,0,1,41,45,63,149
+"Germany","Atlanta",1996,0,0,42,35,47,124
+"Germany","Barcelona",1992,0,1,81,57,60,198
+"Germany","Beijing",2008,0,0,42,16,41,99
+"Germany","Berlin",1936,1,1,93,70,61,224
+"Germany","Calgary",1988,0,0,14,22,10,46
+"Germany","Cortina d'Ampezzo",1956,0,1,1,0,1,2
+"Germany","Garmisch-Partenkirchen",1936,1,1,4,3,0,7
+"Germany","Grenoble",1968,0,1,4,5,7,16
+"Germany","Helsinki",1952,0,1,0,14,26,40
+"Germany","Innsbruck",1964,0,1,3,4,3,10
+"Germany","Innsbruck",1976,0,1,14,13,37,64
+"Germany","Lake Placid",1932,0,0,0,0,14,14
+"Germany","Lake Placid",1980,0,0,16,13,18,47
+"Germany","Lillehammer",1994,0,1,18,10,12,40
+"Germany","London",1908,0,1,4,11,6,21
+"Germany","London",2012,0,1,45,27,22,94
+"Germany","Los Angeles",1932,0,0,10,26,7,43
+"Germany","Los Angeles",1984,0,0,30,75,53,158
+"Germany","Melbourne",1956,0,0,5,13,22,40
+"Germany","Mexico City",1968,0,0,30,36,37,103
+"Germany","Montreal",1976,0,0,123,76,74,273
+"Germany","Moskva",1980,0,1,115,88,61,264
+"Germany","Munich",1972,1,1,74,83,96,253
+"Germany","Nagano",1998,0,0,22,12,10,44
+"Germany","Oslo",1952,0,1,8,2,2,12
+"Germany","Paris",1900,0,1,14,20,11,45
+"Germany","Rio de Janeiro",2016,0,0,49,43,67,159
+"Germany","Roma",1960,0,1,34,33,22,89
+"Germany","Salt Lake City",2002,0,0,26,23,12,61
+"Germany","Sankt Moritz",1928,0,1,0,0,5,5
+"Germany","Sapporo",1972,0,0,9,5,16,30
+"Germany","Sarajevo",1984,0,1,16,14,11,41
+"Germany","Seoul",1988,0,0,111,91,94,296
+"Germany","Sochi",2014,0,1,15,12,9,36
+"Germany","Squaw Valley",1960,0,0,4,4,1,9
+"Germany","St. Louis",1904,0,0,4,5,7,16
+"Germany","Stockholm",1912,0,1,11,19,23,53
+"Germany","Stockholm",1956,0,1,4,7,1,12
+"Germany","Sydney",2000,0,0,31,23,64,118
+"Germany","Tokyo",1964,0,0,22,44,50,116
+"Germany","Torino",2006,0,1,23,25,6,54
+"Germany","Vancouver",2010,0,0,15,24,15,54
+"Ghana","Athina",2004,0,0,0,0,0,0
+"Ghana","Atlanta",1996,0,0,0,0,0,0
+"Ghana","Barcelona",1992,0,0,0,0,20,20
+"Ghana","Beijing",2008,0,0,0,0,0,0
+"Ghana","Helsinki",1952,0,0,0,0,0,0
+"Ghana","London",2012,0,0,0,0,0,0
+"Ghana","Los Angeles",1984,0,0,0,0,0,0
+"Ghana","Mexico City",1968,0,0,0,0,0,0
+"Ghana","Munich",1972,0,0,0,0,1,1
+"Ghana","Rio de Janeiro",2016,0,0,0,0,0,0
+"Ghana","Roma",1960,0,0,0,1,0,1
+"Ghana","Seoul",1988,0,0,0,0,0,0
+"Ghana","Sydney",2000,0,0,0,0,0,0
+"Ghana","Tokyo",1964,0,0,0,0,1,1
+"Ghana","Vancouver",2010,0,0,0,0,0,0
+"Greece","Albertville",1992,0,1,0,0,0,0
+"Greece","Amsterdam",1928,0,1,0,0,0,0
+"Greece","Antwerpen",1920,0,1,0,5,0,5
+"Greece","Athina",1896,1,1,10,18,20,48
+"Greece","Athina",2004,1,1,8,18,5,31
+"Greece","Atlanta",1996,0,0,4,4,0,8
+"Greece","Barcelona",1992,0,1,2,0,0,2
+"Greece","Beijing",2008,0,0,0,3,4,7
+"Greece","Berlin",1936,0,1,0,0,0,0
+"Greece","Calgary",1988,0,0,0,0,0,0
+"Greece","Cortina d'Ampezzo",1956,0,1,0,0,0,0
+"Greece","Garmisch-Partenkirchen",1936,0,1,0,0,0,0
+"Greece","Grenoble",1968,0,1,0,0,0,0
+"Greece","Helsinki",1952,0,1,0,0,0,0
+"Greece","Innsbruck",1964,0,1,0,0,0,0
+"Greece","Innsbruck",1976,0,1,0,0,0,0
+"Greece","Lake Placid",1980,0,0,0,0,0,0
+"Greece","Lillehammer",1994,0,1,0,0,0,0
+"Greece","London",1908,0,1,0,3,1,4
+"Greece","London",1948,0,1,0,0,0,0
+"Greece","London",2012,0,1,0,0,3,3
+"Greece","Los Angeles",1932,0,0,0,0,0,0
+"Greece","Los Angeles",1984,0,0,0,1,1,2
+"Greece","Melbourne",1956,0,0,0,0,1,1
+"Greece","Mexico City",1968,0,0,0,0,1,1
+"Greece","Montreal",1976,0,0,0,0,0,0
+"Greece","Moskva",1980,0,1,1,0,4,5
+"Greece","Munich",1972,0,1,0,2,0,2
+"Greece","Nagano",1998,0,0,0,0,0,0
+"Greece","Oslo",1952,0,1,0,0,0,0
+"Greece","Paris",1900,0,1,0,0,0,0
+"Greece","Paris",1924,0,1,1,0,0,1
+"Greece","Rio de Janeiro",2016,0,0,3,1,3,7
+"Greece","Roma",1960,0,1,3,0,0,3
+"Greece","Salt Lake City",2002,0,0,0,0,0,0
+"Greece","Sankt Moritz",1948,0,1,0,0,0,0
+"Greece","Sapporo",1972,0,0,0,0,0,0
+"Greece","Sarajevo",1984,0,1,0,0,0,0
+"Greece","Seoul",1988,0,0,0,0,1,1
+"Greece","Sochi",2014,0,1,0,0,0,0
+"Greece","St. Louis",1904,0,0,1,0,1,2
+"Greece","Stockholm",1912,0,1,1,0,1,2
+"Greece","Sydney",2000,0,0,4,6,8,18
+"Greece","Tokyo",1964,0,0,0,0,0,0
+"Greece","Torino",2006,0,1,0,0,0,0
+"Greece","Vancouver",2010,0,0,0,0,0,0
+"Grenada","Athina",2004,0,0,0,0,0,0
+"Grenada","Atlanta",1996,0,1,0,0,0,0
+"Grenada","Barcelona",1992,0,0,0,0,0,0
+"Grenada","Beijing",2008,0,0,0,0,0,0
+"Grenada","London",2012,0,0,1,0,0,1
+"Grenada","Los Angeles",1984,0,1,0,0,0,0
+"Grenada","Rio de Janeiro",2016,0,1,0,1,0,1
+"Grenada","Seoul",1988,0,0,0,0,0,0
+"Grenada","Sydney",2000,0,0,0,0,0,0
+"Guam","Athina",2004,0,0,0,0,0,0
+"Guam","Atlanta",1996,0,0,0,0,0,0
+"Guam","Barcelona",1992,0,0,0,0,0,0
+"Guam","Beijing",2008,0,0,0,0,0,0
+"Guam","Calgary",1988,0,0,0,0,0,0
+"Guam","London",2012,0,0,0,0,0,0
+"Guam","Rio de Janeiro",2016,0,0,0,0,0,0
+"Guam","Seoul",1988,0,0,0,0,0,0
+"Guam","Sydney",2000,0,1,0,0,0,0
+"Guatemala","Athina",2004,0,0,0,0,0,0
+"Guatemala","Atlanta",1996,0,1,0,0,0,0
+"Guatemala","Barcelona",1992,0,0,0,0,0,0
+"Guatemala","Beijing",2008,0,0,0,0,0,0
+"Guatemala","Calgary",1988,0,1,0,0,0,0
+"Guatemala","Helsinki",1952,0,0,0,0,0,0
+"Guatemala","London",2012,0,0,0,1,0,1
+"Guatemala","Los Angeles",1932,0,1,0,0,0,0
+"Guatemala","Los Angeles",1984,0,1,0,0,0,0
+"Guatemala","Mexico City",1968,0,1,0,0,0,0
+"Guatemala","Montreal",1976,0,1,0,0,0,0
+"Guatemala","Moskva",1980,0,0,0,0,0,0
+"Guatemala","Munich",1972,0,0,0,0,0,0
+"Guatemala","Rio de Janeiro",2016,0,1,0,0,0,0
+"Guatemala","Seoul",1988,0,0,0,0,0,0
+"Guatemala","Sydney",2000,0,0,0,0,0,0
+"Guinea","Athina",2004,0,0,0,0,0,0
+"Guinea","Atlanta",1996,0,0,0,0,0,0
+"Guinea","Barcelona",1992,0,0,0,0,0,0
+"Guinea","Beijing",2008,0,0,0,0,0,0
+"Guinea","London",2012,0,0,0,0,0,0
+"Guinea","Los Angeles",1984,0,0,0,0,0,0
+"Guinea","Mexico City",1968,0,0,0,0,0,0
+"Guinea","Moskva",1980,0,0,0,0,0,0
+"Guinea","Rio de Janeiro",2016,0,0,0,0,0,0
+"Guinea","Seoul",1988,0,0,0,0,0,0
+"Guinea","Sydney",2000,0,0,0,0,0,0
+"Guinea-Bissau","Athina",2004,0,0,0,0,0,0
+"Guinea-Bissau","Atlanta",1996,0,0,0,0,0,0
+"Guinea-Bissau","Beijing",2008,0,0,0,0,0,0
+"Guinea-Bissau","London",2012,0,0,0,0,0,0
+"Guinea-Bissau","Rio de Janeiro",2016,0,0,0,0,0,0
+"Guinea-Bissau","Sydney",2000,0,0,0,0,0,0
+"Guyana","Athina",2004,0,0,0,0,0,0
+"Guyana","Atlanta",1996,0,1,0,0,0,0
+"Guyana","Barcelona",1992,0,0,0,0,0,0
+"Guyana","Beijing",2008,0,0,0,0,0,0
+"Guyana","Helsinki",1952,0,0,0,0,0,0
+"Guyana","London",1948,0,0,0,0,0,0
+"Guyana","London",2012,0,0,0,0,0,0
+"Guyana","Los Angeles",1984,0,1,0,0,0,0
+"Guyana","Melbourne",1956,0,0,0,0,0,0
+"Guyana","Mexico City",1968,0,1,0,0,0,0
+"Guyana","Moskva",1980,0,0,0,0,1,1
+"Guyana","Munich",1972,0,0,0,0,0,0
+"Guyana","Rio de Janeiro",2016,0,1,0,0,0,0
+"Guyana","Roma",1960,0,0,0,0,0,0
+"Guyana","Seoul",1988,0,0,0,0,0,0
+"Guyana","Sydney",2000,0,0,0,0,0,0
+"Guyana","Tokyo",1964,0,0,0,0,0,0
+"Haiti","Amsterdam",1928,0,0,0,1,0,1
+"Haiti","Athina",2004,0,0,0,0,0,0
+"Haiti","Atlanta",1996,0,1,0,0,0,0
+"Haiti","Barcelona",1992,0,0,0,0,0,0
+"Haiti","Beijing",2008,0,0,0,0,0,0
+"Haiti","London",2012,0,0,0,0,0,0
+"Haiti","Los Angeles",1932,0,1,0,0,0,0
+"Haiti","Los Angeles",1984,0,1,0,0,0,0
+"Haiti","Montreal",1976,0,1,0,0,0,0
+"Haiti","Munich",1972,0,0,0,0,0,0
+"Haiti","Paris",1900,0,0,1,0,0,1
+"Haiti","Paris",1924,0,0,0,0,5,5
+"Haiti","Rio de Janeiro",2016,0,1,0,0,0,0
+"Haiti","Roma",1960,0,0,0,0,0,0
+"Haiti","Seoul",1988,0,0,0,0,0,0
+"Haiti","Sydney",2000,0,0,0,0,0,0
+"Honduras","Albertville",1992,0,0,0,0,0,0
+"Honduras","Athina",2004,0,0,0,0,0,0
+"Honduras","Atlanta",1996,0,1,0,0,0,0
+"Honduras","Barcelona",1992,0,0,0,0,0,0
+"Honduras","Beijing",2008,0,0,0,0,0,0
+"Honduras","London",2012,0,0,0,0,0,0
+"Honduras","Los Angeles",1984,0,1,0,0,0,0
+"Honduras","Mexico City",1968,0,1,0,0,0,0
+"Honduras","Montreal",1976,0,1,0,0,0,0
+"Honduras","Rio de Janeiro",2016,0,1,0,0,0,0
+"Honduras","Seoul",1988,0,0,0,0,0,0
+"Honduras","Sydney",2000,0,0,0,0,0,0
+"Hungary","Albertville",1992,0,1,0,0,0,0
+"Hungary","Amsterdam",1928,0,1,10,11,0,21
+"Hungary","Athina",1896,0,1,2,1,3,6
+"Hungary","Athina",2004,0,1,24,12,4,40
+"Hungary","Atlanta",1996,0,0,8,9,26,43
+"Hungary","Barcelona",1992,0,1,14,23,8,45
+"Hungary","Beijing",2008,0,0,16,8,3,27
+"Hungary","Berlin",1936,0,1,25,1,15,41
+"Hungary","Calgary",1988,0,0,0,0,0,0
+"Hungary","Chamonix",1924,0,1,0,0,0,0
+"Hungary","Cortina d'Ampezzo",1956,0,1,0,0,2,2
+"Hungary","Garmisch-Partenkirchen",1936,0,1,0,0,2,2
+"Hungary","Grenoble",1968,0,1,0,0,0,0
+"Hungary","Helsinki",1952,0,1,53,17,32,102
+"Hungary","Innsbruck",1964,0,1,0,0,0,0
+"Hungary","Innsbruck",1976,0,1,0,0,0,0
+"Hungary","Lake Placid",1932,0,0,0,0,2,2
+"Hungary","Lake Placid",1980,0,0,0,2,0,2
+"Hungary","Lillehammer",1994,0,1,0,0,0,0
+"Hungary","London",1908,0,1,7,7,6,20
+"Hungary","London",1948,0,1,15,25,22,62
+"Hungary","London",2012,0,1,12,8,6,26
+"Hungary","Los Angeles",1932,0,0,20,5,8,33
+"Hungary","Melbourne",1956,0,0,30,20,14,64
+"Hungary","Mexico City",1968,0,0,32,20,29,81
+"Hungary","Montreal",1976,0,0,14,6,35,55
+"Hungary","Moskva",1980,0,1,8,13,40,61
+"Hungary","Munich",1972,0,1,10,46,25,81
+"Hungary","Nagano",1998,0,0,0,0,0,0
+"Hungary","Oslo",1952,0,1,0,0,2,2
+"Hungary","Paris",1900,0,1,1,2,2,5
+"Hungary","Paris",1924,0,1,2,12,8,22
+"Hungary","Rio de Janeiro",2016,0,0,12,3,7,22
+"Hungary","Roma",1960,0,1,13,16,37,66
+"Hungary","Salt Lake City",2002,0,0,0,0,0,0
+"Hungary","Sankt Moritz",1928,0,1,0,0,0,0
+"Hungary","Sankt Moritz",1948,0,1,0,2,0,2
+"Hungary","Sapporo",1972,0,0,0,0,0,0
+"Hungary","Sarajevo",1984,0,1,0,0,0,0
+"Hungary","Seoul",1988,0,0,20,9,15,44
+"Hungary","Sochi",2014,0,1,0,0,0,0
+"Hungary","Squaw Valley",1960,0,0,0,0,0,0
+"Hungary","St. Louis",1904,0,0,2,1,1,4
+"Hungary","Stockholm",1912,0,1,10,17,3,30
+"Hungary","Stockholm",1956,0,1,0,0,0,0
+"Hungary","Sydney",2000,0,0,25,24,4,53
+"Hungary","Tokyo",1964,0,0,42,7,7,56
+"Hungary","Torino",2006,0,1,0,0,0,0
+"Hungary","Vancouver",2010,0,0,0,0,0,0
+"Iceland","Albertville",1992,0,1,0,0,0,0
+"Iceland","Athina",2004,0,1,0,0,0,0
+"Iceland","Atlanta",1996,0,0,0,0,0,0
+"Iceland","Barcelona",1992,0,1,0,0,0,0
+"Iceland","Beijing",2008,0,0,0,14,0,14
+"Iceland","Berlin",1936,0,1,0,0,0,0
+"Iceland","Calgary",1988,0,0,0,0,0,0
+"Iceland","Cortina d'Ampezzo",1956,0,1,0,0,0,0
+"Iceland","Grenoble",1968,0,1,0,0,0,0
+"Iceland","Helsinki",1952,0,1,0,0,0,0
+"Iceland","Innsbruck",1964,0,1,0,0,0,0
+"Iceland","Innsbruck",1976,0,1,0,0,0,0
+"Iceland","Lake Placid",1980,0,0,0,0,0,0
+"Iceland","Lillehammer",1994,0,1,0,0,0,0
+"Iceland","London",1908,0,1,0,0,0,0
+"Iceland","London",1948,0,1,0,0,0,0
+"Iceland","London",2012,0,1,0,0,0,0
+"Iceland","Los Angeles",1984,0,0,0,0,1,1
+"Iceland","Melbourne",1956,0,0,0,1,0,1
+"Iceland","Mexico City",1968,0,0,0,0,0,0
+"Iceland","Montreal",1976,0,0,0,0,0,0
+"Iceland","Moskva",1980,0,1,0,0,0,0
+"Iceland","Munich",1972,0,1,0,0,0,0
+"Iceland","Nagano",1998,0,0,0,0,0,0
+"Iceland","Oslo",1952,0,1,0,0,0,0
+"Iceland","Rio de Janeiro",2016,0,0,0,0,0,0
+"Iceland","Roma",1960,0,1,0,0,0,0
+"Iceland","Salt Lake City",2002,0,0,0,0,0,0
+"Iceland","Sankt Moritz",1948,0,1,0,0,0,0
+"Iceland","Sarajevo",1984,0,1,0,0,0,0
+"Iceland","Seoul",1988,0,0,0,0,0,0
+"Iceland","Sochi",2014,0,1,0,0,0,0
+"Iceland","Squaw Valley",1960,0,0,0,0,0,0
+"Iceland","Stockholm",1912,0,1,0,0,0,0
+"Iceland","Sydney",2000,0,0,0,0,1,1
+"Iceland","Tokyo",1964,0,0,0,0,0,0
+"Iceland","Torino",2006,0,1,0,0,0,0
+"Iceland","Vancouver",2010,0,0,0,0,0,0
+"India","Albertville",1992,0,0,0,0,0,0
+"India","Amsterdam",1928,0,0,14,0,0,14
+"India","Antwerpen",1920,0,0,0,0,0,0
+"India","Athina",2004,0,0,0,1,0,1
+"India","Atlanta",1996,0,0,0,0,1,1
+"India","Barcelona",1992,0,0,0,0,0,0
+"India","Beijing",2008,0,1,1,0,2,3
+"India","Berlin",1936,0,0,19,0,0,19
+"India","Calgary",1988,0,0,0,0,0,0
+"India","Chamonix",1924,0,0,7,0,0,7
+"India","Grenoble",1968,0,0,0,0,0,0
+"India","Helsinki",1952,0,0,14,0,1,15
+"India","Innsbruck",1964,0,0,0,0,0,0
+"India","London",1948,0,0,20,0,0,20
+"India","London",2012,0,0,0,2,4,6
+"India","Los Angeles",1932,0,0,15,0,0,15
+"India","Los Angeles",1984,0,0,0,0,0,0
+"India","Melbourne",1956,0,0,17,0,0,17
+"India","Mexico City",1968,0,0,0,0,16,16
+"India","Montreal",1976,0,0,0,0,0,0
+"India","Moskva",1980,0,0,16,0,0,16
+"India","Munich",1972,0,0,0,0,14,14
+"India","Nagano",1998,0,1,0,0,0,0
+"India","Paris",1900,0,0,0,2,0,2
+"India","Paris",1924,0,0,0,0,0,0
+"India","Rio de Janeiro",2016,0,0,0,1,1,2
+"India","Roma",1960,0,0,0,13,0,13
+"India","Salt Lake City",2002,0,0,0,0,0,0
+"India","Seoul",1988,0,1,0,0,0,0
+"India","Sochi",2014,0,0,0,0,0,0
+"India","Sydney",2000,0,0,0,0,1,1
+"India","Tokyo",1964,0,1,15,0,0,15
+"India","Torino",2006,0,0,0,0,0,0
+"India","Vancouver",2010,0,0,0,0,0,0
+"Indonesia","Athina",2004,0,0,1,1,3,5
+"Indonesia","Atlanta",1996,0,0,2,1,3,6
+"Indonesia","Barcelona",1992,0,0,2,3,1,6
+"Indonesia","Beijing",2008,0,1,2,2,3,7
+"Indonesia","Helsinki",1952,0,0,0,0,0,0
+"Indonesia","London",2012,0,0,0,1,1,2
+"Indonesia","Los Angeles",1984,0,0,0,0,0,0
+"Indonesia","Melbourne",1956,0,0,0,0,0,0
+"Indonesia","Mexico City",1968,0,0,0,0,0,0
+"Indonesia","Montreal",1976,0,0,0,0,0,0
+"Indonesia","Munich",1972,0,0,0,0,0,0
+"Indonesia","Rio de Janeiro",2016,0,0,2,2,0,4
+"Indonesia","Roma",1960,0,0,0,0,0,0
+"Indonesia","Seoul",1988,0,1,0,3,0,3
+"Indonesia","Sydney",2000,0,0,2,4,2,8
+"Iran (Islamic Republic of)","Athina",2004,0,0,2,2,2,6
+"Iran (Islamic Republic of)","Atlanta",1996,0,0,1,1,1,3
+"Iran (Islamic Republic of)","Barcelona",1992,0,0,0,1,2,3
+"Iran (Islamic Republic of)","Beijing",2008,0,1,1,0,1,2
+"Iran (Islamic Republic of)","Cortina d'Ampezzo",1956,0,0,0,0,0,0
+"Iran (Islamic Republic of)","Grenoble",1968,0,0,0,0,0,0
+"Iran (Islamic Republic of)","Helsinki",1952,0,0,0,3,4,7
+"Iran (Islamic Republic of)","Innsbruck",1964,0,0,0,0,0,0
+"Iran (Islamic Republic of)","Innsbruck",1976,0,0,0,0,0,0
+"Iran (Islamic Republic of)","London",1948,0,0,0,0,1,1
+"Iran (Islamic Republic of)","London",2012,0,0,4,5,3,12
+"Iran (Islamic Republic of)","Melbourne",1956,0,0,2,2,1,5
+"Iran (Islamic Republic of)","Mexico City",1968,0,0,2,1,2,5
+"Iran (Islamic Republic of)","Montreal",1976,0,0,0,1,1,2
+"Iran (Islamic Republic of)","Munich",1972,0,0,0,2,1,3
+"Iran (Islamic Republic of)","Nagano",1998,0,1,0,0,0,0
+"Iran (Islamic Republic of)","Paris",1900,0,0,0,0,0,0
+"Iran (Islamic Republic of)","Rio de Janeiro",2016,0,0,3,1,4,8
+"Iran (Islamic Republic of)","Roma",1960,0,0,0,1,3,4
+"Iran (Islamic Republic of)","Salt Lake City",2002,0,0,0,0,0,0
+"Iran (Islamic Republic of)","Sapporo",1972,0,1,0,0,0,0
+"Iran (Islamic Republic of)","Seoul",1988,0,1,0,1,0,1
+"Iran (Islamic Republic of)","Sochi",2014,0,0,0,0,0,0
+"Iran (Islamic Republic of)","Sydney",2000,0,0,3,0,1,4
+"Iran (Islamic Republic of)","Tokyo",1964,0,1,0,0,2,2
+"Iran (Islamic Republic of)","Torino",2006,0,0,0,0,0,0
+"Iran (Islamic Republic of)","Vancouver",2010,0,0,0,0,0,0
+"Iraq","Athina",2004,0,0,0,0,0,0
+"Iraq","Atlanta",1996,0,0,0,0,0,0
+"Iraq","Barcelona",1992,0,0,0,0,0,0
+"Iraq","Beijing",2008,0,1,0,0,0,0
+"Iraq","London",1948,0,0,0,0,0,0
+"Iraq","London",2012,0,0,0,0,0,0
+"Iraq","Los Angeles",1984,0,0,0,0,0,0
+"Iraq","Mexico City",1968,0,0,0,0,0,0
+"Iraq","Moskva",1980,0,0,0,0,0,0
+"Iraq","Rio de Janeiro",2016,0,0,0,0,0,0
+"Iraq","Roma",1960,0,0,0,0,1,1
+"Iraq","Seoul",1988,0,1,0,0,0,0
+"Iraq","Sydney",2000,0,0,0,0,0,0
+"Iraq","Tokyo",1964,0,1,0,0,0,0
+"Ireland","Albertville",1992,0,1,0,0,0,0
+"Ireland","Amsterdam",1928,0,1,1,0,0,1
+"Ireland","Athina",2004,0,1,0,0,0,0
+"Ireland","Atlanta",1996,0,0,3,0,1,4
+"Ireland","Barcelona",1992,0,1,1,1,0,2
+"Ireland","Beijing",2008,0,0,0,1,2,3
+"Ireland","Helsinki",1952,0,1,0,1,0,1
+"Ireland","London",1948,0,1,0,0,1,1
+"Ireland","London",2012,0,1,1,1,3,5
+"Ireland","Los Angeles",1932,0,0,2,0,0,2
+"Ireland","Los Angeles",1984,0,0,0,1,0,1
+"Ireland","Melbourne",1956,0,0,1,1,3,5
+"Ireland","Mexico City",1968,0,0,0,0,0,0
+"Ireland","Montreal",1976,0,0,0,0,0,0
+"Ireland","Moskva",1980,0,1,0,2,1,3
+"Ireland","Munich",1972,0,1,0,0,0,0
+"Ireland","Nagano",1998,0,0,0,0,0,0
+"Ireland","Paris",1924,0,1,0,1,1,2
+"Ireland","Rio de Janeiro",2016,0,0,0,3,0,3
+"Ireland","Roma",1960,0,1,0,0,0,0
+"Ireland","Salt Lake City",2002,0,0,0,0,0,0
+"Ireland","Seoul",1988,0,0,0,0,0,0
+"Ireland","Sochi",2014,0,1,0,0,0,0
+"Ireland","Stockholm",1956,0,1,0,0,0,0
+"Ireland","Sydney",2000,0,0,0,1,0,1
+"Ireland","Tokyo",1964,0,0,0,0,1,1
+"Ireland","Torino",2006,0,1,0,0,0,0
+"Ireland","Vancouver",2010,0,0,0,0,0,0
+"Israel","Athina",2004,0,0,1,0,1,2
+"Israel","Atlanta",1996,0,0,0,0,1,1
+"Israel","Barcelona",1992,0,0,0,1,1,2
+"Israel","Beijing",2008,0,1,0,0,1,1
+"Israel","Helsinki",1952,0,0,0,0,0,0
+"Israel","Lillehammer",1994,0,0,0,0,0,0
+"Israel","London",2012,0,0,0,0,0,0
+"Israel","Los Angeles",1984,0,0,0,0,0,0
+"Israel","Melbourne",1956,0,0,0,0,0,0
+"Israel","Mexico City",1968,0,0,0,0,0,0
+"Israel","Montreal",1976,0,0,0,0,0,0
+"Israel","Munich",1972,0,0,0,0,0,0
+"Israel","Nagano",1998,0,1,0,0,0,0
+"Israel","Rio de Janeiro",2016,0,0,0,0,2,2
+"Israel","Roma",1960,0,0,0,0,0,0
+"Israel","Salt Lake City",2002,0,0,0,0,0,0
+"Israel","Seoul",1988,0,1,0,0,0,0
+"Israel","Sochi",2014,0,0,0,0,0,0
+"Israel","Sydney",2000,0,0,0,0,1,1
+"Israel","Tokyo",1964,0,1,0,0,0,0
+"Israel","Torino",2006,0,0,0,0,0,0
+"Israel","Vancouver",2010,0,0,0,0,0,0
+"Italy","Albertville",1992,0,1,4,9,8,21
+"Italy","Amsterdam",1928,0,1,24,22,26,72
+"Italy","Antwerpen",1920,0,1,67,9,8,84
+"Italy","Athina",1896,0,1,0,0,0,0
+"Italy","Athina",2004,0,1,24,41,39,104
+"Italy","Atlanta",1996,0,0,19,24,28,71
+"Italy","Barcelona",1992,0,1,21,10,14,45
+"Italy","Beijing",2008,0,0,8,14,20,42
+"Italy","Berlin",1936,0,1,37,34,5,76
+"Italy","Calgary",1988,0,0,2,1,5,8
+"Italy","Chamonix",1924,0,1,0,0,0,0
+"Italy","Cortina d'Ampezzo",1956,1,1,2,6,0,8
+"Italy","Garmisch-Partenkirchen",1936,0,1,0,0,0,0
+"Italy","Grenoble",1968,0,1,8,0,0,8
+"Italy","Helsinki",1952,0,1,17,22,15,54
+"Italy","Innsbruck",1964,0,1,0,2,8,10
+"Italy","Innsbruck",1976,0,1,1,2,1,4
+"Italy","Lake Placid",1932,0,0,0,0,0,0
+"Italy","Lake Placid",1980,0,0,0,3,0,3
+"Italy","Lillehammer",1994,0,1,14,6,12,32
+"Italy","London",1908,0,1,2,6,0,8
+"Italy","London",1948,0,1,21,32,14,67
+"Italy","London",2012,0,1,16,22,30,68
+"Italy","Los Angeles",1932,0,0,21,38,18,77
+"Italy","Los Angeles",1984,0,0,29,6,28,63
+"Italy","Melbourne",1956,0,0,26,7,9,42
+"Italy","Mexico City",1968,0,0,5,8,20,33
+"Italy","Montreal",1976,0,0,2,25,4,31
+"Italy","Moskva",1980,0,1,8,21,8,37
+"Italy","Munich",1972,0,1,9,3,13,25
+"Italy","Nagano",1998,0,0,3,9,5,17
+"Italy","Oslo",1952,0,1,1,0,1,2
+"Italy","Paris",1900,0,1,3,2,0,5
+"Italy","Paris",1924,0,1,25,5,21,51
+"Italy","Rio de Janeiro",2016,0,0,8,40,24,72
+"Italy","Roma",1960,1,1,36,18,34,88
+"Italy","Salt Lake City",2002,0,0,4,11,6,21
+"Italy","Sankt Moritz",1928,0,1,0,0,0,0
+"Italy","Sankt Moritz",1948,0,1,1,0,0,1
+"Italy","Sapporo",1972,0,0,3,5,1,9
+"Italy","Sarajevo",1984,0,1,2,0,0,2
+"Italy","Seoul",1988,0,0,11,10,8,29
+"Italy","Sochi",2014,0,1,0,2,12,14
+"Italy","Squaw Valley",1960,0,0,0,0,1,1
+"Italy","St. Louis",1904,0,0,0,0,0,0
+"Italy","Stockholm",1912,0,1,22,1,2,25
+"Italy","Stockholm",1956,0,1,0,4,1,5
+"Italy","Sydney",2000,0,0,22,14,29,65
+"Italy","Tokyo",1964,0,0,14,28,9,51
+"Italy","Torino",2006,1,1,11,0,14,25
+"Italy","Vancouver",2010,0,0,1,1,3,5
+"Jamaica","Albertville",1992,0,0,0,0,0,0
+"Jamaica","Athina",2004,0,0,6,1,6,13
+"Jamaica","Atlanta",1996,0,1,1,3,12,16
+"Jamaica","Barcelona",1992,0,0,0,3,1,4
+"Jamaica","Beijing",2008,0,0,5,3,6,14
+"Jamaica","Calgary",1988,0,1,0,0,0,0
+"Jamaica","Helsinki",1952,0,0,5,3,0,8
+"Jamaica","Lillehammer",1994,0,0,0,0,0,0
+"Jamaica","London",1948,0,0,1,2,0,3
+"Jamaica","London",2012,0,0,8,9,8,25
+"Jamaica","Los Angeles",1984,0,1,0,5,2,7
+"Jamaica","Melbourne",1956,0,0,0,0,0,0
+"Jamaica","Mexico City",1968,0,1,0,1,0,1
+"Jamaica","Montreal",1976,0,1,1,1,0,2
+"Jamaica","Moskva",1980,0,0,0,0,3,3
+"Jamaica","Munich",1972,0,0,0,0,1,1
+"Jamaica","Nagano",1998,0,0,0,0,0,0
+"Jamaica","Rio de Janeiro",2016,0,1,11,17,2,30
+"Jamaica","Salt Lake City",2002,0,1,0,0,0,0
+"Jamaica","Seoul",1988,0,0,0,7,0,7
+"Jamaica","Sochi",2014,0,0,0,0,0,0
+"Jamaica","Sydney",2000,0,0,0,20,3,23
+"Jamaica","Tokyo",1964,0,0,0,0,0,0
+"Jamaica","Vancouver",2010,0,1,0,0,0,0
+"Japan","Albertville",1992,0,0,3,2,7,12
+"Japan","Amsterdam",1928,0,0,2,6,1,9
+"Japan","Antwerpen",1920,0,0,0,3,0,3
+"Japan","Athina",2004,0,0,21,20,52,93
+"Japan","Atlanta",1996,0,0,3,26,13,42
+"Japan","Barcelona",1992,0,0,3,8,36,47
+"Japan","Beijing",2008,0,1,23,15,13,51
+"Japan","Berlin",1936,0,0,9,4,10,23
+"Japan","Calgary",1988,0,0,0,0,1,1
+"Japan","Cortina d'Ampezzo",1956,0,0,0,1,0,1
+"Japan","Garmisch-Partenkirchen",1936,0,0,0,0,0,0
+"Japan","Grenoble",1968,0,0,0,0,0,0
+"Japan","Helsinki",1952,0,0,1,9,2,12
+"Japan","Innsbruck",1964,0,0,0,0,0,0
+"Japan","Innsbruck",1976,0,0,0,0,0,0
+"Japan","Lake Placid",1932,0,0,0,0,0,0
+"Japan","Lake Placid",1980,0,0,0,1,0,1
+"Japan","Lillehammer",1994,0,0,3,5,2,10
+"Japan","London",2012,0,0,7,44,33,84
+"Japan","Los Angeles",1932,0,0,10,17,4,31
+"Japan","Los Angeles",1984,0,0,10,8,31,49
+"Japan","Melbourne",1956,0,0,4,15,5,24
+"Japan","Mexico City",1968,0,0,16,25,22,63
+"Japan","Montreal",1976,0,0,25,6,10,41
+"Japan","Munich",1972,0,0,29,19,8,56
+"Japan","Nagano",1998,1,1,8,1,4,13
+"Japan","Oslo",1952,0,0,0,0,0,0
+"Japan","Paris",1924,0,0,0,0,1,1
+"Japan","Rio de Janeiro",2016,0,0,17,13,34,64
+"Japan","Roma",1960,0,0,9,10,12,31
+"Japan","Salt Lake City",2002,0,0,0,1,1,2
+"Japan","Sankt Moritz",1928,0,0,0,0,0,0
+"Japan","Sapporo",1972,1,1,1,1,1,3
+"Japan","Sarajevo",1984,0,0,0,1,0,1
+"Japan","Seoul",1988,0,1,4,3,13,20
+"Japan","Sochi",2014,0,0,1,4,6,11
+"Japan","Squaw Valley",1960,0,0,0,0,0,0
+"Japan","Stockholm",1912,0,0,0,0,0,0
+"Japan","Stockholm",1956,0,0,0,0,0,0
+"Japan","Sydney",2000,0,0,5,31,8,44
+"Japan","Tokyo",1964,1,1,32,5,25,62
+"Japan","Torino",2006,0,0,1,0,0,1
+"Japan","Vancouver",2010,0,0,0,5,2,7
+"Jordan","Athina",2004,0,0,0,0,0,0
+"Jordan","Atlanta",1996,0,0,0,0,0,0
+"Jordan","Barcelona",1992,0,0,0,0,0,0
+"Jordan","Beijing",2008,0,1,0,0,0,0
+"Jordan","London",2012,0,0,0,0,0,0
+"Jordan","Los Angeles",1984,0,0,0,0,0,0
+"Jordan","Moskva",1980,0,0,0,0,0,0
+"Jordan","Rio de Janeiro",2016,0,0,1,0,0,1
+"Jordan","Seoul",1988,0,1,0,0,0,0
+"Jordan","Sydney",2000,0,0,0,0,0,0
+"Kazakhstan","Athina",2004,0,0,1,4,3,8
+"Kazakhstan","Atlanta",1996,0,0,3,4,4,11
+"Kazakhstan","Beijing",2008,0,1,2,4,7,13
+"Kazakhstan","Lillehammer",1994,0,0,1,2,0,3
+"Kazakhstan","London",2012,0,0,7,1,5,13
+"Kazakhstan","Nagano",1998,0,1,0,0,2,2
+"Kazakhstan","Rio de Janeiro",2016,0,0,3,5,10,18
+"Kazakhstan","Salt Lake City",2002,0,0,0,0,0,0
+"Kazakhstan","Sochi",2014,0,0,0,0,1,1
+"Kazakhstan","Sydney",2000,0,0,3,4,0,7
+"Kazakhstan","Torino",2006,0,0,0,0,0,0
+"Kazakhstan","Vancouver",2010,0,0,0,1,0,1
+"Kenya","Athina",2004,0,0,1,4,2,7
+"Kenya","Atlanta",1996,0,0,1,4,3,8
+"Kenya","Barcelona",1992,0,0,2,4,2,8
+"Kenya","Beijing",2008,0,0,6,4,5,15
+"Kenya","London",2012,0,0,2,4,5,11
+"Kenya","Los Angeles",1984,0,0,1,0,2,3
+"Kenya","Melbourne",1956,0,0,0,0,0,0
+"Kenya","Mexico City",1968,0,0,3,7,2,12
+"Kenya","Munich",1972,0,0,5,3,4,12
+"Kenya","Nagano",1998,0,0,0,0,0,0
+"Kenya","Rio de Janeiro",2016,0,0,6,6,1,13
+"Kenya","Roma",1960,0,0,0,0,0,0
+"Kenya","Salt Lake City",2002,0,0,0,0,0,0
+"Kenya","Seoul",1988,0,0,5,2,2,9
+"Kenya","Sydney",2000,0,0,2,3,2,7
+"Kenya","Tokyo",1964,0,0,0,0,1,1
+"Kenya","Torino",2006,0,0,0,0,0,0
+"Kiribati","Athina",2004,0,0,0,0,0,0
+"Kiribati","Beijing",2008,0,0,0,0,0,0
+"Kiribati","London",2012,0,0,0,0,0,0
+"Kiribati","Rio de Janeiro",2016,0,0,0,0,0,0
+"Korea (Democratic People's Republic of)","Albertville",1992,0,0,0,0,1,1
+"Korea (Democratic People's Republic of)","Athina",2004,0,0,0,4,1,5
+"Korea (Democratic People's Republic of)","Atlanta",1996,0,0,2,1,2,5
+"Korea (Democratic People's Republic of)","Barcelona",1992,0,0,4,0,6,10
+"Korea (Democratic People's Republic of)","Beijing",2008,0,1,2,1,3,6
+"Korea (Democratic People's Republic of)","Calgary",1988,0,0,0,0,0,0
+"Korea (Democratic People's Republic of)","Innsbruck",1964,0,0,0,1,0,1
+"Korea (Democratic People's Republic of)","London",2012,0,0,4,0,2,6
+"Korea (Democratic People's Republic of)","Montreal",1976,0,0,1,1,0,2
+"Korea (Democratic People's Republic of)","Moskva",1980,0,0,0,3,2,5
+"Korea (Democratic People's Republic of)","Munich",1972,0,0,1,1,13,15
+"Korea (Democratic People's Republic of)","Nagano",1998,0,1,0,0,0,0
+"Korea (Democratic People's Republic of)","Rio de Janeiro",2016,0,0,2,3,2,7
+"Korea (Democratic People's Republic of)","Sapporo",1972,0,1,0,0,0,0
+"Korea (Democratic People's Republic of)","Sarajevo",1984,0,0,0,0,0,0
+"Korea (Democratic People's Republic of)","Sydney",2000,0,0,0,1,3,4
+"Korea (Democratic People's Republic of)","Torino",2006,0,0,0,0,0,0
+"Korea (Democratic People's Republic of)","Vancouver",2010,0,0,0,0,0,0
+"Korea (Republic of)","Albertville",1992,0,0,5,1,1,7
+"Korea (Republic of)","Athina",2004,0,0,14,28,10,52
+"Korea (Republic of)","Atlanta",1996,0,0,10,49,7,66
+"Korea (Republic of)","Barcelona",1992,0,0,28,5,16,49
+"Korea (Republic of)","Beijing",2008,0,1,41,11,26,78
+"Korea (Republic of)","Calgary",1988,0,0,0,0,0,0
+"Korea (Republic of)","Cortina d'Ampezzo",1956,0,0,0,0,0,0
+"Korea (Republic of)","Grenoble",1968,0,0,0,0,0,0
+"Korea (Republic of)","Helsinki",1952,0,0,0,0,2,2
+"Korea (Republic of)","Innsbruck",1964,0,0,0,0,0,0
+"Korea (Republic of)","Innsbruck",1976,0,0,0,0,0,0
+"Korea (Republic of)","Lake Placid",1980,0,0,0,0,0,0
+"Korea (Republic of)","Lillehammer",1994,0,0,7,1,1,9
+"Korea (Republic of)","London",1948,0,0,0,0,2,2
+"Korea (Republic of)","London",2012,0,0,18,13,30,61
+"Korea (Republic of)","Los Angeles",1984,0,0,6,28,7,41
+"Korea (Republic of)","Melbourne",1956,0,0,0,1,1,2
+"Korea (Republic of)","Mexico City",1968,0,0,0,1,1,2
+"Korea (Republic of)","Montreal",1976,0,0,1,1,15,17
+"Korea (Republic of)","Munich",1972,0,0,0,1,0,1
+"Korea (Republic of)","Nagano",1998,0,1,6,4,2,12
+"Korea (Republic of)","Rio de Janeiro",2016,0,0,13,3,10,26
+"Korea (Republic of)","Roma",1960,0,0,0,0,0,0
+"Korea (Republic of)","Salt Lake City",2002,0,0,5,2,0,7
+"Korea (Republic of)","Sankt Moritz",1948,0,0,0,0,0,0
+"Korea (Republic of)","Sapporo",1972,0,1,0,0,0,0
+"Korea (Republic of)","Sarajevo",1984,0,0,0,0,0,0
+"Korea (Republic of)","Seoul",1988,0,1,28,37,12,77
+"Korea (Republic of)","Sochi",2014,0,0,7,5,2,14
+"Korea (Republic of)","Squaw Valley",1960,0,0,0,0,0,0
+"Korea (Republic of)","Sydney",2000,0,0,12,26,35,73
+"Korea (Republic of)","Tokyo",1964,0,1,0,2,1,3
+"Korea (Republic of)","Torino",2006,0,0,14,3,2,19
+"Korea (Republic of)","Vancouver",2010,0,0,6,10,2,18
+"Kosovo","Rio de Janeiro",2016,0,0,1,0,0,1
+"Kuwait","Athina",2004,0,0,0,0,0,0
+"Kuwait","Atlanta",1996,0,0,0,0,0,0
+"Kuwait","Barcelona",1992,0,0,0,0,0,0
+"Kuwait","Beijing",2008,0,1,0,0,0,0
+"Kuwait","London",2012,0,0,0,0,1,1
+"Kuwait","Los Angeles",1984,0,0,0,0,0,0
+"Kuwait","Mexico City",1968,0,0,0,0,0,0
+"Kuwait","Montreal",1976,0,0,0,0,0,0
+"Kuwait","Moskva",1980,0,0,0,0,0,0
+"Kuwait","Munich",1972,0,0,0,0,0,0
+"Kuwait","Seoul",1988,0,1,0,0,0,0
+"Kuwait","Sydney",2000,0,0,0,0,1,1
+"Kyrgyzstan","Athina",2004,0,0,0,0,0,0
+"Kyrgyzstan","Atlanta",1996,0,0,0,0,0,0
+"Kyrgyzstan","Beijing",2008,0,1,0,1,1,2
+"Kyrgyzstan","Lillehammer",1994,0,0,0,0,0,0
+"Kyrgyzstan","London",2012,0,0,0,0,0,0
+"Kyrgyzstan","Nagano",1998,0,1,0,0,0,0
+"Kyrgyzstan","Rio de Janeiro",2016,0,0,0,0,0,0
+"Kyrgyzstan","Salt Lake City",2002,0,0,0,0,0,0
+"Kyrgyzstan","Sochi",2014,0,0,0,0,0,0
+"Kyrgyzstan","Sydney",2000,0,0,0,0,1,1
+"Kyrgyzstan","Torino",2006,0,0,0,0,0,0
+"Kyrgyzstan","Vancouver",2010,0,0,0,0,0,0
+"Lao People's Democratic Republic","Athina",2004,0,0,0,0,0,0
+"Lao People's Democratic Republic","Atlanta",1996,0,0,0,0,0,0
+"Lao People's Democratic Republic","Barcelona",1992,0,0,0,0,0,0
+"Lao People's Democratic Republic","Beijing",2008,0,1,0,0,0,0
+"Lao People's Democratic Republic","London",2012,0,0,0,0,0,0
+"Lao People's Democratic Republic","Moskva",1980,0,0,0,0,0,0
+"Lao People's Democratic Republic","Rio de Janeiro",2016,0,0,0,0,0,0
+"Lao People's Democratic Republic","Seoul",1988,0,1,0,0,0,0
+"Lao People's Democratic Republic","Sydney",2000,0,0,0,0,0,0
+"Latvia","Albertville",1992,0,1,0,0,0,0
+"Latvia","Amsterdam",1928,0,1,0,0,0,0
+"Latvia","Athina",2004,0,1,0,4,0,4
+"Latvia","Atlanta",1996,0,0,0,1,0,1
+"Latvia","Barcelona",1992,0,1,0,2,1,3
+"Latvia","Beijing",2008,0,0,1,1,1,3
+"Latvia","Berlin",1936,0,1,0,1,1,2
+"Latvia","Chamonix",1924,0,1,0,0,0,0
+"Latvia","Garmisch-Partenkirchen",1936,0,1,0,0,0,0
+"Latvia","Lillehammer",1994,0,1,0,0,0,0
+"Latvia","London",2012,0,1,1,0,2,3
+"Latvia","Los Angeles",1932,0,0,0,1,0,1
+"Latvia","Nagano",1998,0,0,0,0,0,0
+"Latvia","Paris",1924,0,1,0,0,0,0
+"Latvia","Rio de Janeiro",2016,0,0,0,0,0,0
+"Latvia","Salt Lake City",2002,0,0,0,0,0,0
+"Latvia","Sankt Moritz",1928,0,1,0,0,0,0
+"Latvia","Sochi",2014,0,1,0,5,6,11
+"Latvia","Sydney",2000,0,0,1,1,1,3
+"Latvia","Torino",2006,0,1,0,0,1,1
+"Latvia","Vancouver",2010,0,0,0,3,0,3
+"Lebanon","Albertville",1992,0,0,0,0,0,0
+"Lebanon","Athina",2004,0,0,0,0,0,0
+"Lebanon","Atlanta",1996,0,0,0,0,0,0
+"Lebanon","Barcelona",1992,0,0,0,0,0,0
+"Lebanon","Beijing",2008,0,1,0,0,0,0
+"Lebanon","Calgary",1988,0,0,0,0,0,0
+"Lebanon","Cortina d'Ampezzo",1956,0,0,0,0,0,0
+"Lebanon","Grenoble",1968,0,0,0,0,0,0
+"Lebanon","Helsinki",1952,0,0,0,1,1,2
+"Lebanon","Innsbruck",1964,0,0,0,0,0,0
+"Lebanon","Innsbruck",1976,0,0,0,0,0,0
+"Lebanon","Lake Placid",1980,0,0,0,0,0,0
+"Lebanon","London",1948,0,0,0,0,0,0
+"Lebanon","London",2012,0,0,0,0,0,0
+"Lebanon","Los Angeles",1984,0,0,0,0,0,0
+"Lebanon","Mexico City",1968,0,0,0,0,0,0
+"Lebanon","Montreal",1976,0,0,0,0,0,0
+"Lebanon","Moskva",1980,0,0,0,0,1,1
+"Lebanon","Munich",1972,0,0,0,1,0,1
+"Lebanon","Oslo",1952,0,0,0,0,0,0
+"Lebanon","Rio de Janeiro",2016,0,0,0,0,0,0
+"Lebanon","Roma",1960,0,0,0,0,0,0
+"Lebanon","Salt Lake City",2002,0,0,0,0,0,0
+"Lebanon","Sankt Moritz",1948,0,0,0,0,0,0
+"Lebanon","Sapporo",1972,0,1,0,0,0,0
+"Lebanon","Sarajevo",1984,0,0,0,0,0,0
+"Lebanon","Seoul",1988,0,1,0,0,0,0
+"Lebanon","Sochi",2014,0,0,0,0,0,0
+"Lebanon","Squaw Valley",1960,0,0,0,0,0,0
+"Lebanon","Sydney",2000,0,0,0,0,0,0
+"Lebanon","Tokyo",1964,0,1,0,0,0,0
+"Lebanon","Torino",2006,0,0,0,0,0,0
+"Lebanon","Vancouver",2010,0,0,0,0,0,0
+"Lesotho","Athina",2004,0,0,0,0,0,0
+"Lesotho","Atlanta",1996,0,0,0,0,0,0
+"Lesotho","Barcelona",1992,0,0,0,0,0,0
+"Lesotho","Beijing",2008,0,0,0,0,0,0
+"Lesotho","London",2012,0,0,0,0,0,0
+"Lesotho","Los Angeles",1984,0,0,0,0,0,0
+"Lesotho","Moskva",1980,0,0,0,0,0,0
+"Lesotho","Munich",1972,0,0,0,0,0,0
+"Lesotho","Rio de Janeiro",2016,0,0,0,0,0,0
+"Lesotho","Seoul",1988,0,0,0,0,0,0
+"Lesotho","Sydney",2000,0,0,0,0,0,0
+"Liberia","Athina",2004,0,0,0,0,0,0
+"Liberia","Atlanta",1996,0,0,0,0,0,0
+"Liberia","Beijing",2008,0,0,0,0,0,0
+"Liberia","London",2012,0,0,0,0,0,0
+"Liberia","Los Angeles",1984,0,0,0,0,0,0
+"Liberia","Melbourne",1956,0,0,0,0,0,0
+"Liberia","Munich",1972,0,0,0,0,0,0
+"Liberia","Rio de Janeiro",2016,0,0,0,0,0,0
+"Liberia","Roma",1960,0,0,0,0,0,0
+"Liberia","Seoul",1988,0,0,0,0,0,0
+"Liberia","Sydney",2000,0,0,0,0,0,0
+"Liberia","Tokyo",1964,0,0,0,0,0,0
+"Libya","Athina",2004,0,0,0,0,0,0
+"Libya","Atlanta",1996,0,0,0,0,0,0
+"Libya","Barcelona",1992,0,0,0,0,0,0
+"Libya","Beijing",2008,0,0,0,0,0,0
+"Libya","London",2012,0,0,0,0,0,0
+"Libya","Mexico City",1968,0,0,0,0,0,0
+"Libya","Moskva",1980,0,0,0,0,0,0
+"Libya","Rio de Janeiro",2016,0,0,0,0,0,0
+"Libya","Seoul",1988,0,0,0,0,0,0
+"Libya","Sydney",2000,0,0,0,0,0,0
+"Liechtenstein","Albertville",1992,0,1,0,0,0,0
+"Liechtenstein","Athina",2004,0,1,0,0,0,0
+"Liechtenstein","Atlanta",1996,0,0,0,0,0,0
+"Liechtenstein","Barcelona",1992,0,1,0,0,0,0
+"Liechtenstein","Beijing",2008,0,0,0,0,0,0
+"Liechtenstein","Berlin",1936,0,1,0,0,0,0
+"Liechtenstein","Calgary",1988,0,0,0,0,1,1
+"Liechtenstein","Cortina d'Ampezzo",1956,0,1,0,0,0,0
+"Liechtenstein","Garmisch-Partenkirchen",1936,0,1,0,0,0,0
+"Liechtenstein","Grenoble",1968,0,1,0,0,0,0
+"Liechtenstein","Helsinki",1952,0,1,0,0,0,0
+"Liechtenstein","Innsbruck",1964,0,1,0,0,0,0
+"Liechtenstein","Innsbruck",1976,0,1,0,0,2,2
+"Liechtenstein","Lake Placid",1980,0,0,2,2,0,4
+"Liechtenstein","Lillehammer",1994,0,1,0,0,0,0
+"Liechtenstein","London",1948,0,1,0,0,0,0
+"Liechtenstein","London",2012,0,1,0,0,0,0
+"Liechtenstein","Los Angeles",1984,0,0,0,0,0,0
+"Liechtenstein","Mexico City",1968,0,0,0,0,0,0
+"Liechtenstein","Montreal",1976,0,0,0,0,0,0
+"Liechtenstein","Munich",1972,0,1,0,0,0,0
+"Liechtenstein","Nagano",1998,0,0,0,0,0,0
+"Liechtenstein","Rio de Janeiro",2016,0,0,0,0,0,0
+"Liechtenstein","Roma",1960,0,1,0,0,0,0
+"Liechtenstein","Salt Lake City",2002,0,0,0,0,0,0
+"Liechtenstein","Sankt Moritz",1948,0,1,0,0,0,0
+"Liechtenstein","Sapporo",1972,0,0,0,0,0,0
+"Liechtenstein","Sarajevo",1984,0,1,0,0,2,2
+"Liechtenstein","Seoul",1988,0,0,0,0,0,0
+"Liechtenstein","Sochi",2014,0,1,0,0,0,0
+"Liechtenstein","Squaw Valley",1960,0,0,0,0,0,0
+"Liechtenstein","Sydney",2000,0,0,0,0,0,0
+"Liechtenstein","Tokyo",1964,0,0,0,0,0,0
+"Liechtenstein","Torino",2006,0,1,0,0,0,0
+"Liechtenstein","Vancouver",2010,0,0,0,0,0,0
+"Lithuania","Albertville",1992,0,1,0,0,0,0
+"Lithuania","Amsterdam",1928,0,1,0,0,0,0
+"Lithuania","Athina",2004,0,1,1,2,0,3
+"Lithuania","Atlanta",1996,0,0,0,0,11,11
+"Lithuania","Barcelona",1992,0,1,1,0,12,13
+"Lithuania","Beijing",2008,0,0,0,2,3,5
+"Lithuania","Lillehammer",1994,0,1,0,0,0,0
+"Lithuania","London",2012,0,1,2,1,2,5
+"Lithuania","Nagano",1998,0,0,0,0,0,0
+"Lithuania","Paris",1924,0,1,0,0,0,0
+"Lithuania","Rio de Janeiro",2016,0,0,0,2,5,7
+"Lithuania","Salt Lake City",2002,0,0,0,0,0,0
+"Lithuania","Sankt Moritz",1928,0,1,0,0,0,0
+"Lithuania","Sochi",2014,0,1,0,0,0,0
+"Lithuania","Sydney",2000,0,0,2,0,15,17
+"Lithuania","Torino",2006,0,1,0,0,0,0
+"Lithuania","Vancouver",2010,0,0,0,0,0,0
+"Luxembourg","Albertville",1992,0,1,0,2,0,2
+"Luxembourg","Amsterdam",1928,0,1,1,0,0,1
+"Luxembourg","Antwerpen",1920,0,1,0,1,0,1
+"Luxembourg","Athina",2004,0,1,0,0,0,0
+"Luxembourg","Atlanta",1996,0,0,0,0,0,0
+"Luxembourg","Barcelona",1992,0,1,0,0,0,0
+"Luxembourg","Beijing",2008,0,0,0,0,0,0
+"Luxembourg","Berlin",1936,0,1,0,0,0,0
+"Luxembourg","Calgary",1988,0,0,0,0,0,0
+"Luxembourg","Garmisch-Partenkirchen",1936,0,1,0,0,0,0
+"Luxembourg","Helsinki",1952,0,1,1,0,0,1
+"Luxembourg","Lillehammer",1994,0,1,0,0,0,0
+"Luxembourg","London",1948,0,1,0,0,0,0
+"Luxembourg","London",2012,0,1,0,0,0,0
+"Luxembourg","Los Angeles",1932,0,0,0,0,0,0
+"Luxembourg","Los Angeles",1984,0,0,0,0,0,0
+"Luxembourg","Melbourne",1956,0,0,0,0,0,0
+"Luxembourg","Mexico City",1968,0,0,0,0,0,0
+"Luxembourg","Montreal",1976,0,0,0,0,0,0
+"Luxembourg","Moskva",1980,0,1,0,0,0,0
+"Luxembourg","Munich",1972,0,1,0,0,0,0
+"Luxembourg","Nagano",1998,0,0,0,0,0,0
+"Luxembourg","Paris",1900,0,1,1,0,0,1
+"Luxembourg","Paris",1924,0,1,1,1,0,2
+"Luxembourg","Rio de Janeiro",2016,0,0,0,0,0,0
+"Luxembourg","Roma",1960,0,1,0,0,0,0
+"Luxembourg","Sankt Moritz",1928,0,1,0,0,0,0
+"Luxembourg","Seoul",1988,0,0,0,0,0,0
+"Luxembourg","Sochi",2014,0,1,0,0,0,0
+"Luxembourg","Stockholm",1912,0,1,0,0,0,0
+"Luxembourg","Sydney",2000,0,0,0,0,0,0
+"Luxembourg","Tokyo",1964,0,0,0,0,0,0
+"Luxembourg","Torino",2006,0,1,0,0,0,0
+"Macedonia (the former Yugoslav Republic of)","Athina",2004,0,1,0,0,0,0
+"Macedonia (the former Yugoslav Republic of)","Atlanta",1996,0,0,0,0,0,0
+"Macedonia (the former Yugoslav Republic of)","Beijing",2008,0,0,0,0,0,0
+"Macedonia (the former Yugoslav Republic of)","London",2012,0,1,0,0,0,0
+"Macedonia (the former Yugoslav Republic of)","Nagano",1998,0,0,0,0,0,0
+"Macedonia (the former Yugoslav Republic of)","Rio de Janeiro",2016,0,0,0,0,0,0
+"Macedonia (the former Yugoslav Republic of)","Salt Lake City",2002,0,0,0,0,0,0
+"Macedonia (the former Yugoslav Republic of)","Sochi",2014,0,1,0,0,0,0
+"Macedonia (the former Yugoslav Republic of)","Sydney",2000,0,0,0,0,1,1
+"Macedonia (the former Yugoslav Republic of)","Torino",2006,0,1,0,0,0,0
+"Macedonia (the former Yugoslav Republic of)","Vancouver",2010,0,0,0,0,0,0
+"Madagascar","Athina",2004,0,0,0,0,0,0
+"Madagascar","Atlanta",1996,0,0,0,0,0,0
+"Madagascar","Barcelona",1992,0,0,0,0,0,0
+"Madagascar","Beijing",2008,0,0,0,0,0,0
+"Madagascar","London",2012,0,0,0,0,0,0
+"Madagascar","Los Angeles",1984,0,0,0,0,0,0
+"Madagascar","Mexico City",1968,0,0,0,0,0,0
+"Madagascar","Moskva",1980,0,0,0,0,0,0
+"Madagascar","Munich",1972,0,0,0,0,0,0
+"Madagascar","Rio de Janeiro",2016,0,0,0,0,0,0
+"Madagascar","Sydney",2000,0,0,0,0,0,0
+"Madagascar","Tokyo",1964,0,0,0,0,0,0
+"Madagascar","Torino",2006,0,0,0,0,0,0
+"Malawi","Athina",2004,0,0,0,0,0,0
+"Malawi","Atlanta",1996,0,0,0,0,0,0
+"Malawi","Barcelona",1992,0,0,0,0,0,0
+"Malawi","Beijing",2008,0,0,0,0,0,0
+"Malawi","London",2012,0,0,0,0,0,0
+"Malawi","Los Angeles",1984,0,0,0,0,0,0
+"Malawi","Munich",1972,0,0,0,0,0,0
+"Malawi","Rio de Janeiro",2016,0,0,0,0,0,0
+"Malawi","Seoul",1988,0,0,0,0,0,0
+"Malawi","Sydney",2000,0,0,0,0,0,0
+"Malaysia","Athina",2004,0,0,0,0,0,0
+"Malaysia","Atlanta",1996,0,0,0,2,1,3
+"Malaysia","Barcelona",1992,0,0,0,0,2,2
+"Malaysia","Beijing",2008,0,1,0,1,0,1
+"Malaysia","London",2012,0,0,0,1,1,2
+"Malaysia","Los Angeles",1984,0,0,0,0,0,0
+"Malaysia","Melbourne",1956,0,0,0,0,0,0
+"Malaysia","Mexico City",1968,0,0,0,0,0,0
+"Malaysia","Montreal",1976,0,0,0,0,0,0
+"Malaysia","Munich",1972,0,0,0,0,0,0
+"Malaysia","Rio de Janeiro",2016,0,0,0,7,1,8
+"Malaysia","Roma",1960,0,0,0,0,0,0
+"Malaysia","Seoul",1988,0,1,0,0,0,0
+"Malaysia","Sydney",2000,0,0,0,0,0,0
+"Malaysia","Tokyo",1964,0,1,0,0,0,0
+"Maldives","Athina",2004,0,0,0,0,0,0
+"Maldives","Atlanta",1996,0,0,0,0,0,0
+"Maldives","Barcelona",1992,0,0,0,0,0,0
+"Maldives","Beijing",2008,0,1,0,0,0,0
+"Maldives","London",2012,0,0,0,0,0,0
+"Maldives","Rio de Janeiro",2016,0,0,0,0,0,0
+"Maldives","Seoul",1988,0,1,0,0,0,0
+"Maldives","Sydney",2000,0,0,0,0,0,0
+"Mali","Athina",2004,0,0,0,0,0,0
+"Mali","Atlanta",1996,0,0,0,0,0,0
+"Mali","Barcelona",1992,0,0,0,0,0,0
+"Mali","Beijing",2008,0,0,0,0,0,0
+"Mali","London",2012,0,0,0,0,0,0
+"Mali","Los Angeles",1984,0,0,0,0,0,0
+"Mali","Mexico City",1968,0,0,0,0,0,0
+"Mali","Moskva",1980,0,0,0,0,0,0
+"Mali","Munich",1972,0,0,0,0,0,0
+"Mali","Rio de Janeiro",2016,0,0,0,0,0,0
+"Mali","Seoul",1988,0,0,0,0,0,0
+"Mali","Sydney",2000,0,0,0,0,0,0
+"Mali","Tokyo",1964,0,0,0,0,0,0
+"Malta","Amsterdam",1928,0,1,0,0,0,0
+"Malta","Athina",2004,0,1,0,0,0,0
+"Malta","Atlanta",1996,0,0,0,0,0,0
+"Malta","Barcelona",1992,0,1,0,0,0,0
+"Malta","Beijing",2008,0,0,0,0,0,0
+"Malta","Berlin",1936,0,1,0,0,0,0
+"Malta","London",1948,0,1,0,0,0,0
+"Malta","London",2012,0,1,0,0,0,0
+"Malta","Los Angeles",1984,0,0,0,0,0,0
+"Malta","Mexico City",1968,0,0,0,0,0,0
+"Malta","Moskva",1980,0,1,0,0,0,0
+"Malta","Munich",1972,0,1,0,0,0,0
+"Malta","Rio de Janeiro",2016,0,0,0,0,0,0
+"Malta","Roma",1960,0,1,0,0,0,0
+"Malta","Seoul",1988,0,0,0,0,0,0
+"Malta","Sochi",2014,0,1,0,0,0,0
+"Malta","Sydney",2000,0,0,0,0,0,0
+"Marshall Islands","Beijing",2008,0,0,0,0,0,0
+"Marshall Islands","London",2012,0,0,0,0,0,0
+"Marshall Islands","Rio de Janeiro",2016,0,0,0,0,0,0
+"Mauritania","Athina",2004,0,0,0,0,0,0
+"Mauritania","Atlanta",1996,0,0,0,0,0,0
+"Mauritania","Barcelona",1992,0,0,0,0,0,0
+"Mauritania","Beijing",2008,0,0,0,0,0,0
+"Mauritania","London",2012,0,0,0,0,0,0
+"Mauritania","Los Angeles",1984,0,0,0,0,0,0
+"Mauritania","Rio de Janeiro",2016,0,0,0,0,0,0
+"Mauritania","Seoul",1988,0,0,0,0,0,0
+"Mauritania","Sydney",2000,0,0,0,0,0,0
+"Mauritius","Athina",2004,0,0,0,0,0,0
+"Mauritius","Atlanta",1996,0,0,0,0,0,0
+"Mauritius","Barcelona",1992,0,0,0,0,0,0
+"Mauritius","Beijing",2008,0,0,0,0,1,1
+"Mauritius","London",2012,0,0,0,0,0,0
+"Mauritius","Los Angeles",1984,0,0,0,0,0,0
+"Mauritius","Rio de Janeiro",2016,0,0,0,0,0,0
+"Mauritius","Seoul",1988,0,0,0,0,0,0
+"Mauritius","Sydney",2000,0,0,0,0,0,0
+"Mexico","Albertville",1992,0,0,0,0,0,0
+"Mexico","Amsterdam",1928,0,0,0,0,0,0
+"Mexico","Athina",2004,0,0,0,3,1,4
+"Mexico","Atlanta",1996,0,1,0,0,1,1
+"Mexico","Barcelona",1992,0,0,0,1,0,1
+"Mexico","Beijing",2008,0,0,2,0,2,4
+"Mexico","Berlin",1936,0,0,0,0,16,16
+"Mexico","Calgary",1988,0,1,0,0,0,0
+"Mexico","Helsinki",1952,0,0,0,1,0,1
+"Mexico","Lillehammer",1994,0,0,0,0,0,0
+"Mexico","London",1948,0,0,4,1,4,9
+"Mexico","London",2012,0,0,16,5,3,24
+"Mexico","Los Angeles",1932,0,1,0,2,0,2
+"Mexico","Los Angeles",1984,0,1,2,3,1,6
+"Mexico","Melbourne",1956,0,0,1,0,1,2
+"Mexico","Mexico City",1968,1,1,3,3,3,9
+"Mexico","Montreal",1976,0,1,1,0,1,2
+"Mexico","Moskva",1980,0,0,0,1,9,10
+"Mexico","Munich",1972,0,0,0,1,0,1
+"Mexico","Paris",1900,0,0,0,0,3,3
+"Mexico","Paris",1924,0,0,0,0,0,0
+"Mexico","Rio de Janeiro",2016,0,1,0,3,2,5
+"Mexico","Roma",1960,0,0,0,0,1,1
+"Mexico","Salt Lake City",2002,0,1,0,0,0,0
+"Mexico","Sankt Moritz",1928,0,0,0,0,0,0
+"Mexico","Sarajevo",1984,0,0,0,0,0,0
+"Mexico","Seoul",1988,0,0,0,0,2,2
+"Mexico","Sochi",2014,0,0,0,0,0,0
+"Mexico","Sydney",2000,0,0,1,2,3,6
+"Mexico","Tokyo",1964,0,0,0,0,1,1
+"Mexico","Vancouver",2010,0,1,0,0,0,0
+"Moldova (Republic of)","Athina",2004,0,1,0,0,0,0
+"Moldova (Republic of)","Atlanta",1996,0,0,0,2,1,3
+"Moldova (Republic of)","Beijing",2008,0,0,0,0,1,1
+"Moldova (Republic of)","Lillehammer",1994,0,1,0,0,0,0
+"Moldova (Republic of)","London",2012,0,1,0,0,2,2
+"Moldova (Republic of)","Nagano",1998,0,0,0,0,0,0
+"Moldova (Republic of)","Rio de Janeiro",2016,0,0,0,0,0,0
+"Moldova (Republic of)","Salt Lake City",2002,0,0,0,0,0,0
+"Moldova (Republic of)","Sochi",2014,0,1,0,0,0,0
+"Moldova (Republic of)","Sydney",2000,0,0,0,1,1,2
+"Moldova (Republic of)","Torino",2006,0,1,0,0,0,0
+"Moldova (Republic of)","Vancouver",2010,0,0,0,0,0,0
+"Monaco","Albertville",1992,0,1,0,0,0,0
+"Monaco","Amsterdam",1928,0,1,0,0,0,0
+"Monaco","Antwerpen",1920,0,1,0,0,0,0
+"Monaco","Athina",2004,0,1,0,0,0,0
+"Monaco","Atlanta",1996,0,0,0,0,0,0
+"Monaco","Barcelona",1992,0,1,0,0,0,0
+"Monaco","Beijing",2008,0,0,0,0,0,0
+"Monaco","Berlin",1936,0,1,0,0,0,0
+"Monaco","Calgary",1988,0,0,0,0,0,0
+"Monaco","Helsinki",1952,0,1,0,0,0,0
+"Monaco","Lillehammer",1994,0,1,0,0,0,0
+"Monaco","London",1948,0,1,0,0,0,0
+"Monaco","London",2012,0,1,0,0,0,0
+"Monaco","Los Angeles",1932,0,0,0,0,0,0
+"Monaco","Los Angeles",1984,0,0,0,0,0,0
+"Monaco","Mexico City",1968,0,0,0,0,0,0
+"Monaco","Montreal",1976,0,0,0,0,0,0
+"Monaco","Munich",1972,0,1,0,0,0,0
+"Monaco","Nagano",1998,0,0,0,0,0,0
+"Monaco","Paris",1924,0,1,0,0,1,1
+"Monaco","Rio de Janeiro",2016,0,0,0,0,0,0
+"Monaco","Roma",1960,0,1,0,0,0,0
+"Monaco","Salt Lake City",2002,0,0,0,0,0,0
+"Monaco","Sarajevo",1984,0,1,0,0,0,0
+"Monaco","Seoul",1988,0,0,0,0,0,0
+"Monaco","Sochi",2014,0,1,0,0,0,0
+"Monaco","Sydney",2000,0,0,0,0,0,0
+"Monaco","Tokyo",1964,0,0,0,0,0,0
+"Monaco","Torino",2006,0,1,0,0,0,0
+"Monaco","Vancouver",2010,0,0,0,0,0,0
+"Mongolia","Albertville",1992,0,0,0,0,0,0
+"Mongolia","Athina",2004,0,0,0,0,1,1
+"Mongolia","Atlanta",1996,0,0,0,0,1,1
+"Mongolia","Barcelona",1992,0,0,0,0,2,2
+"Mongolia","Beijing",2008,0,1,2,2,0,4
+"Mongolia","Calgary",1988,0,0,0,0,0,0
+"Mongolia","Grenoble",1968,0,0,0,0,0,0
+"Mongolia","Innsbruck",1964,0,0,0,0,0,0
+"Mongolia","Lake Placid",1980,0,0,0,0,0,0
+"Mongolia","Lillehammer",1994,0,0,0,0,0,0
+"Mongolia","London",2012,0,0,0,2,3,5
+"Mongolia","Mexico City",1968,0,0,0,1,3,4
+"Mongolia","Montreal",1976,0,0,0,1,0,1
+"Mongolia","Moskva",1980,0,0,0,2,2,4
+"Mongolia","Munich",1972,0,0,0,1,0,1
+"Mongolia","Nagano",1998,0,1,0,0,0,0
+"Mongolia","Rio de Janeiro",2016,0,0,0,1,1,2
+"Mongolia","Salt Lake City",2002,0,0,0,0,0,0
+"Mongolia","Sapporo",1972,0,1,0,0,0,0
+"Mongolia","Sarajevo",1984,0,0,0,0,0,0
+"Mongolia","Seoul",1988,0,1,0,0,1,1
+"Mongolia","Sochi",2014,0,0,0,0,0,0
+"Mongolia","Sydney",2000,0,0,0,0,0,0
+"Mongolia","Tokyo",1964,0,1,0,0,0,0
+"Mongolia","Torino",2006,0,0,0,0,0,0
+"Mongolia","Vancouver",2010,0,0,0,0,0,0
+"Montenegro","Beijing",2008,0,0,0,0,0,0
+"Montenegro","London",2012,0,1,0,14,0,14
+"Montenegro","Rio de Janeiro",2016,0,0,0,0,0,0
+"Montenegro","Sochi",2014,0,1,0,0,0,0
+"Montenegro","Vancouver",2010,0,0,0,0,0,0
+"Morocco","Albertville",1992,0,0,0,0,0,0
+"Morocco","Athina",2004,0,0,2,1,0,3
+"Morocco","Atlanta",1996,0,0,0,0,2,2
+"Morocco","Barcelona",1992,0,0,1,1,1,3
+"Morocco","Beijing",2008,0,0,0,1,1,2
+"Morocco","Calgary",1988,0,0,0,0,0,0
+"Morocco","Grenoble",1968,0,0,0,0,0,0
+"Morocco","London",2012,0,0,0,0,1,1
+"Morocco","Los Angeles",1984,0,0,2,0,0,2
+"Morocco","Mexico City",1968,0,0,0,0,0,0
+"Morocco","Montreal",1976,0,0,0,0,0,0
+"Morocco","Munich",1972,0,0,0,0,0,0
+"Morocco","Rio de Janeiro",2016,0,0,0,0,1,1
+"Morocco","Roma",1960,0,0,0,1,0,1
+"Morocco","Sarajevo",1984,0,0,0,0,0,0
+"Morocco","Seoul",1988,0,0,1,0,2,3
+"Morocco","Sochi",2014,0,0,0,0,0,0
+"Morocco","Sydney",2000,0,0,0,1,4,5
+"Morocco","Tokyo",1964,0,0,0,0,0,0
+"Morocco","Vancouver",2010,0,0,0,0,0,0
+"Mozambique","Athina",2004,0,0,0,0,0,0
+"Mozambique","Atlanta",1996,0,0,0,0,1,1
+"Mozambique","Barcelona",1992,0,0,0,0,0,0
+"Mozambique","Beijing",2008,0,0,0,0,0,0
+"Mozambique","London",2012,0,0,0,0,0,0
+"Mozambique","Los Angeles",1984,0,0,0,0,0,0
+"Mozambique","Moskva",1980,0,0,0,0,0,0
+"Mozambique","Rio de Janeiro",2016,0,0,0,0,0,0
+"Mozambique","Seoul",1988,0,0,0,0,0,0
+"Mozambique","Sydney",2000,0,0,1,0,0,1
+"Myanmar","Athina",2004,0,0,0,0,0,0
+"Myanmar","Atlanta",1996,0,0,0,0,0,0
+"Myanmar","Barcelona",1992,0,0,0,0,0,0
+"Myanmar","Beijing",2008,0,1,0,0,0,0
+"Myanmar","Helsinki",1952,0,0,0,0,0,0
+"Myanmar","London",1948,0,0,0,0,0,0
+"Myanmar","London",2012,0,0,0,0,0,0
+"Myanmar","Los Angeles",1984,0,0,0,0,0,0
+"Myanmar","Melbourne",1956,0,0,0,0,0,0
+"Myanmar","Mexico City",1968,0,0,0,0,0,0
+"Myanmar","Moskva",1980,0,0,0,0,0,0
+"Myanmar","Munich",1972,0,0,0,0,0,0
+"Myanmar","Rio de Janeiro",2016,0,0,0,0,0,0
+"Myanmar","Roma",1960,0,0,0,0,0,0
+"Myanmar","Seoul",1988,0,1,0,0,0,0
+"Myanmar","Stockholm",1912,0,0,0,0,0,0
+"Myanmar","Sydney",2000,0,0,0,0,0,0
+"Myanmar","Tokyo",1964,0,1,0,0,0,0
+"Namibia","Athina",2004,0,0,0,0,0,0
+"Namibia","Atlanta",1996,0,0,0,2,0,2
+"Namibia","Barcelona",1992,0,0,0,2,0,2
+"Namibia","Beijing",2008,0,0,0,0,0,0
+"Namibia","London",2012,0,0,0,0,0,0
+"Namibia","Rio de Janeiro",2016,0,0,0,0,0,0
+"Namibia","Sydney",2000,0,0,0,0,0,0
+"Nauru","Athina",2004,0,0,0,0,0,0
+"Nauru","Atlanta",1996,0,0,0,0,0,0
+"Nauru","Beijing",2008,0,0,0,0,0,0
+"Nauru","London",2012,0,0,0,0,0,0
+"Nauru","Rio de Janeiro",2016,0,0,0,0,0,0
+"Nauru","Sydney",2000,0,1,0,0,0,0
+"Nepal","Athina",2004,0,0,0,0,0,0
+"Nepal","Atlanta",1996,0,0,0,0,0,0
+"Nepal","Barcelona",1992,0,0,0,0,0,0
+"Nepal","Beijing",2008,0,1,0,0,0,0
+"Nepal","Chamonix",1924,0,0,1,0,0,1
+"Nepal","London",2012,0,0,0,0,0,0
+"Nepal","Los Angeles",1984,0,0,0,0,0,0
+"Nepal","Montreal",1976,0,0,0,0,0,0
+"Nepal","Moskva",1980,0,0,0,0,0,0
+"Nepal","Munich",1972,0,0,0,0,0,0
+"Nepal","Rio de Janeiro",2016,0,0,0,0,0,0
+"Nepal","Salt Lake City",2002,0,0,0,0,0,0
+"Nepal","Seoul",1988,0,1,0,0,0,0
+"Nepal","Sochi",2014,0,0,0,0,0,0
+"Nepal","Sydney",2000,0,0,0,0,0,0
+"Nepal","Tokyo",1964,0,1,0,0,0,0
+"Nepal","Torino",2006,0,0,0,0,0,0
+"Nepal","Vancouver",2010,0,0,0,0,0,0
+"Netherlands","Albertville",1992,0,1,1,1,2,4
+"Netherlands","Amsterdam",1928,1,1,20,29,8,57
+"Netherlands","Antwerpen",1920,0,1,15,10,25,50
+"Netherlands","Athina",2004,0,1,4,51,22,77
+"Netherlands","Atlanta",1996,0,0,38,9,26,73
+"Netherlands","Barcelona",1992,0,1,5,20,8,33
+"Netherlands","Beijing",2008,0,0,39,18,4,61
+"Netherlands","Berlin",1936,0,1,9,7,21,37
+"Netherlands","Calgary",1988,0,0,3,2,2,7
+"Netherlands","Cortina d'Ampezzo",1956,0,1,0,0,0,0
+"Netherlands","Garmisch-Partenkirchen",1936,0,1,0,0,0,0
+"Netherlands","Grenoble",1968,0,1,3,3,3,9
+"Netherlands","Helsinki",1952,0,1,0,18,0,18
+"Netherlands","Innsbruck",1964,0,1,1,1,0,2
+"Netherlands","Innsbruck",1976,0,1,1,2,3,6
+"Netherlands","Lake Placid",1980,0,0,1,2,1,4
+"Netherlands","Lillehammer",1994,0,1,0,1,3,4
+"Netherlands","London",1908,0,1,0,0,16,16
+"Netherlands","London",1948,0,1,8,2,32,42
+"Netherlands","London",2012,0,1,21,29,19,69
+"Netherlands","Los Angeles",1932,0,0,2,10,1,13
+"Netherlands","Los Angeles",1984,0,0,20,7,14,41
+"Netherlands","Mexico City",1968,0,0,6,7,1,14
+"Netherlands","Montreal",1976,0,0,0,2,12,14
+"Netherlands","Moskva",1980,0,1,0,1,5,6
+"Netherlands","Munich",1972,0,1,3,1,2,6
+"Netherlands","Nagano",1998,0,0,5,4,2,11
+"Netherlands","Oslo",1952,0,1,0,3,0,3
+"Netherlands","Paris",1900,0,1,3,8,16,27
+"Netherlands","Paris",1924,0,1,8,1,18,27
+"Netherlands","Rio de Janeiro",2016,0,0,9,25,13,47
+"Netherlands","Roma",1960,0,1,0,1,2,3
+"Netherlands","Salt Lake City",2002,0,0,3,5,0,8
+"Netherlands","Sankt Moritz",1928,0,1,0,0,0,0
+"Netherlands","Sankt Moritz",1948,0,1,0,0,0,0
+"Netherlands","Sapporo",1972,0,0,4,3,2,9
+"Netherlands","Sarajevo",1984,0,1,0,0,0,0
+"Netherlands","Seoul",1988,0,0,3,6,36,45
+"Netherlands","Sochi",2014,0,1,13,7,9,29
+"Netherlands","Squaw Valley",1960,0,0,0,1,1,2
+"Netherlands","Stockholm",1912,0,1,0,0,26,26
+"Netherlands","Stockholm",1956,0,1,0,0,0,0
+"Netherlands","Sydney",2000,0,0,27,29,23,79
+"Netherlands","Tokyo",1964,0,0,5,10,16,31
+"Netherlands","Torino",2006,0,1,3,2,8,13
+"Netherlands","Vancouver",2010,0,0,4,1,6,11
+"New Zealand","Albertville",1992,0,0,0,1,0,1
+"New Zealand","Amsterdam",1928,0,0,1,0,0,1
+"New Zealand","Antwerpen",1920,0,0,0,0,1,1
+"New Zealand","Athina",2004,0,0,4,2,0,6
+"New Zealand","Atlanta",1996,0,0,3,2,4,9
+"New Zealand","Barcelona",1992,0,0,1,9,5,15
+"New Zealand","Beijing",2008,0,0,4,2,9,15
+"New Zealand","Berlin",1936,0,0,1,0,0,1
+"New Zealand","Calgary",1988,0,0,0,0,0,0
+"New Zealand","Grenoble",1968,0,0,0,0,0,0
+"New Zealand","Helsinki",1952,0,0,1,0,2,3
+"New Zealand","Innsbruck",1976,0,0,0,0,0,0
+"New Zealand","Lake Placid",1980,0,0,0,0,0,0
+"New Zealand","Lillehammer",1994,0,0,0,0,0,0
+"New Zealand","London",1948,0,0,0,0,0,0
+"New Zealand","London",2012,0,0,9,3,15,27
+"New Zealand","Los Angeles",1932,0,0,0,2,0,2
+"New Zealand","Los Angeles",1984,0,0,16,1,6,23
+"New Zealand","Melbourne",1956,0,1,3,0,0,3
+"New Zealand","Mexico City",1968,0,0,5,0,2,7
+"New Zealand","Montreal",1976,0,0,15,1,9,25
+"New Zealand","Moskva",1980,0,0,0,0,0,0
+"New Zealand","Munich",1972,0,0,9,4,1,14
+"New Zealand","Nagano",1998,0,0,0,0,0,0
+"New Zealand","Oslo",1952,0,0,0,0,0,0
+"New Zealand","Paris",1900,0,0,1,0,0,1
+"New Zealand","Paris",1924,0,0,0,0,1,1
+"New Zealand","Rio de Janeiro",2016,0,0,6,25,5,36
+"New Zealand","Roma",1960,0,0,2,0,1,3
+"New Zealand","Salt Lake City",2002,0,0,0,0,0,0
+"New Zealand","Sapporo",1972,0,0,0,0,0,0
+"New Zealand","Sarajevo",1984,0,0,0,0,0,0
+"New Zealand","Seoul",1988,0,0,4,4,16,24
+"New Zealand","Sochi",2014,0,0,0,0,0,0
+"New Zealand","Squaw Valley",1960,0,0,0,0,0,0
+"New Zealand","Sydney",2000,0,1,1,0,3,4
+"New Zealand","Tokyo",1964,0,0,4,0,2,6
+"New Zealand","Torino",2006,0,0,0,0,0,0
+"New Zealand","Vancouver",2010,0,0,0,0,0,0
+"Nicaragua","Athina",2004,0,0,0,0,0,0
+"Nicaragua","Atlanta",1996,0,1,0,0,0,0
+"Nicaragua","Barcelona",1992,0,0,0,0,0,0
+"Nicaragua","Beijing",2008,0,0,0,0,0,0
+"Nicaragua","London",2012,0,0,0,0,0,0
+"Nicaragua","Los Angeles",1984,0,1,0,0,0,0
+"Nicaragua","Mexico City",1968,0,1,0,0,0,0
+"Nicaragua","Montreal",1976,0,1,0,0,0,0
+"Nicaragua","Moskva",1980,0,0,0,0,0,0
+"Nicaragua","Munich",1972,0,0,0,0,0,0
+"Nicaragua","Rio de Janeiro",2016,0,1,0,0,0,0
+"Nicaragua","Sydney",2000,0,0,0,0,0,0
+"Niger","Athina",2004,0,0,0,0,0,0
+"Niger","Atlanta",1996,0,0,0,0,0,0
+"Niger","Barcelona",1992,0,0,0,0,0,0
+"Niger","Beijing",2008,0,0,0,0,0,0
+"Niger","London",2012,0,0,0,0,0,0
+"Niger","Los Angeles",1984,0,0,0,0,0,0
+"Niger","Mexico City",1968,0,0,0,0,0,0
+"Niger","Munich",1972,0,0,0,0,1,1
+"Niger","Rio de Janeiro",2016,0,0,0,1,0,1
+"Niger","Seoul",1988,0,0,0,0,0,0
+"Niger","Sydney",2000,0,0,0,0,0,0
+"Niger","Tokyo",1964,0,0,0,0,0,0
+"Nigeria","Athina",2004,0,0,0,0,8,8
+"Nigeria","Atlanta",1996,0,0,17,4,3,24
+"Nigeria","Barcelona",1992,0,0,0,7,4,11
+"Nigeria","Beijing",2008,0,0,0,16,7,23
+"Nigeria","Helsinki",1952,0,0,0,0,0,0
+"Nigeria","London",2012,0,0,0,0,0,0
+"Nigeria","Los Angeles",1984,0,0,0,1,4,5
+"Nigeria","Melbourne",1956,0,0,0,0,0,0
+"Nigeria","Mexico City",1968,0,0,0,0,0,0
+"Nigeria","Moskva",1980,0,0,0,0,0,0
+"Nigeria","Munich",1972,0,0,0,0,1,1
+"Nigeria","Rio de Janeiro",2016,0,0,0,0,18,18
+"Nigeria","Roma",1960,0,0,0,0,0,0
+"Nigeria","Seoul",1988,0,0,0,0,0,0
+"Nigeria","Sydney",2000,0,0,6,2,0,8
+"Nigeria","Tokyo",1964,0,0,0,0,1,1
+"Norway","Albertville",1992,0,1,9,10,5,24
+"Norway","Amsterdam",1928,0,1,4,4,1,9
+"Norway","Antwerpen",1920,0,1,58,52,27,137
+"Norway","Athina",2004,0,1,5,0,2,7
+"Norway","Atlanta",1996,0,0,2,3,18,23
+"Norway","Barcelona",1992,0,1,2,20,1,23
+"Norway","Beijing",2008,0,0,16,5,1,22
+"Norway","Berlin",1936,0,1,1,12,15,28
+"Norway","Calgary",1988,0,0,0,6,5,11
+"Norway","Chamonix",1924,0,1,4,7,6,17
+"Norway","Cortina d'Ampezzo",1956,0,1,2,1,1,4
+"Norway","Garmisch-Partenkirchen",1936,0,1,7,8,3,18
+"Norway","Grenoble",1968,0,1,11,9,2,22
+"Norway","Helsinki",1952,0,1,5,8,0,13
+"Norway","Innsbruck",1964,0,1,3,6,6,15
+"Norway","Innsbruck",1976,0,1,3,6,1,10
+"Norway","Lake Placid",1932,0,0,3,4,3,10
+"Norway","Lake Placid",1980,0,0,1,5,9,15
+"Norway","Lillehammer",1994,1,1,8,17,5,30
+"Norway","London",1908,0,1,7,32,3,42
+"Norway","London",1948,0,1,3,4,11,18
+"Norway","London",2012,0,1,15,1,1,17
+"Norway","Los Angeles",1932,0,0,0,0,0,0
+"Norway","Los Angeles",1984,0,0,0,1,3,4
+"Norway","Melbourne",1956,0,0,1,0,2,3
+"Norway","Mexico City",1968,0,0,4,2,0,6
+"Norway","Montreal",1976,0,0,2,4,0,6
+"Norway","Munich",1972,0,1,2,2,4,8
+"Norway","Nagano",1998,0,0,13,15,12,40
+"Norway","Oslo",1952,1,1,7,6,6,19
+"Norway","Paris",1900,0,1,0,6,3,9
+"Norway","Paris",1924,0,1,14,5,3,22
+"Norway","Rio de Janeiro",2016,0,0,0,0,19,19
+"Norway","Roma",1960,0,1,2,0,0,2
+"Norway","Salt Lake City",2002,0,0,23,11,7,41
+"Norway","Sankt Moritz",1928,0,1,6,4,5,15
+"Norway","Sankt Moritz",1948,0,1,4,3,6,13
+"Norway","Sapporo",1972,0,0,2,8,7,17
+"Norway","Sarajevo",1984,0,1,6,5,4,15
+"Norway","Seoul",1988,0,0,2,20,0,22
+"Norway","Sochi",2014,0,1,18,5,13,36
+"Norway","Squaw Valley",1960,0,0,3,6,0,9
+"Norway","St. Louis",1904,0,0,2,0,0,2
+"Norway","Stockholm",1912,0,1,40,6,34,80
+"Norway","Stockholm",1956,0,1,0,0,0,0
+"Norway","Sydney",2000,0,0,20,4,19,43
+"Norway","Tokyo",1964,0,0,0,0,0,0
+"Norway","Torino",2006,0,1,2,9,12,23
+"Norway","Vancouver",2010,0,0,16,14,9,39
+"Oman","Athina",2004,0,0,0,0,0,0
+"Oman","Atlanta",1996,0,0,0,0,0,0
+"Oman","Barcelona",1992,0,0,0,0,0,0
+"Oman","Beijing",2008,0,1,0,0,0,0
+"Oman","London",2012,0,0,0,0,0,0
+"Oman","Los Angeles",1984,0,0,0,0,0,0
+"Oman","Rio de Janeiro",2016,0,0,0,0,0,0
+"Oman","Seoul",1988,0,1,0,0,0,0
+"Oman","Sydney",2000,0,0,0,0,0,0
+"Pakistan","Athina",2004,0,0,0,0,0,0
+"Pakistan","Atlanta",1996,0,0,0,0,0,0
+"Pakistan","Barcelona",1992,0,0,0,0,16,16
+"Pakistan","Beijing",2008,0,1,0,0,0,0
+"Pakistan","Helsinki",1952,0,0,0,0,0,0
+"Pakistan","London",1948,0,0,0,0,0,0
+"Pakistan","London",2012,0,0,0,0,0,0
+"Pakistan","Los Angeles",1984,0,0,16,0,0,16
+"Pakistan","Melbourne",1956,0,0,0,14,0,14
+"Pakistan","Mexico City",1968,0,0,13,0,0,13
+"Pakistan","Montreal",1976,0,0,0,0,16,16
+"Pakistan","Munich",1972,0,0,0,15,0,15
+"Pakistan","Rio de Janeiro",2016,0,0,0,0,0,0
+"Pakistan","Roma",1960,0,0,13,0,1,14
+"Pakistan","Seoul",1988,0,1,0,0,1,1
+"Pakistan","Sochi",2014,0,0,0,0,0,0
+"Pakistan","Sydney",2000,0,0,0,0,0,0
+"Pakistan","Tokyo",1964,0,1,0,16,0,16
+"Pakistan","Vancouver",2010,0,0,0,0,0,0
+"Palau","Athina",2004,0,0,0,0,0,0
+"Palau","Atlanta",1996,0,0,0,0,0,0
+"Palau","Beijing",2008,0,0,0,0,0,0
+"Palau","London",2012,0,0,0,0,0,0
+"Palau","Rio de Janeiro",2016,0,0,0,0,0,0
+"Palau","Sydney",2000,0,1,0,0,0,0
+"Panama","Amsterdam",1928,0,0,0,0,0,0
+"Panama","Athina",2004,0,0,0,0,0,0
+"Panama","Atlanta",1996,0,1,0,0,0,0
+"Panama","Barcelona",1992,0,0,0,0,0,0
+"Panama","Beijing",2008,0,0,1,0,0,1
+"Panama","Helsinki",1952,0,0,0,0,0,0
+"Panama","London",1948,0,0,0,0,2,2
+"Panama","London",2012,0,0,0,0,0,0
+"Panama","Los Angeles",1984,0,1,0,0,0,0
+"Panama","Mexico City",1968,0,1,0,0,0,0
+"Panama","Montreal",1976,0,1,0,0,0,0
+"Panama","Munich",1972,0,0,0,0,0,0
+"Panama","Rio de Janeiro",2016,0,1,0,0,0,0
+"Panama","Roma",1960,0,0,0,0,0,0
+"Panama","Seoul",1988,0,0,0,0,0,0
+"Panama","Sydney",2000,0,0,0,0,0,0
+"Panama","Tokyo",1964,0,0,0,0,0,0
+"Papua New Guinea","Athina",2004,0,0,0,0,0,0
+"Papua New Guinea","Atlanta",1996,0,0,0,0,0,0
+"Papua New Guinea","Barcelona",1992,0,0,0,0,0,0
+"Papua New Guinea","Beijing",2008,0,0,0,0,0,0
+"Papua New Guinea","London",2012,0,0,0,0,0,0
+"Papua New Guinea","Los Angeles",1984,0,0,0,0,0,0
+"Papua New Guinea","Montreal",1976,0,0,0,0,0,0
+"Papua New Guinea","Rio de Janeiro",2016,0,0,0,0,0,0
+"Papua New Guinea","Seoul",1988,0,0,0,0,0,0
+"Papua New Guinea","Sydney",2000,0,1,0,0,0,0
+"Paraguay","Athina",2004,0,0,0,17,0,17
+"Paraguay","Atlanta",1996,0,1,0,0,0,0
+"Paraguay","Barcelona",1992,0,0,0,0,0,0
+"Paraguay","Beijing",2008,0,0,0,0,0,0
+"Paraguay","London",2012,0,0,0,0,0,0
+"Paraguay","Los Angeles",1984,0,1,0,0,0,0
+"Paraguay","Mexico City",1968,0,1,0,0,0,0
+"Paraguay","Montreal",1976,0,1,0,0,0,0
+"Paraguay","Munich",1972,0,0,0,0,0,0
+"Paraguay","Rio de Janeiro",2016,0,1,0,0,0,0
+"Paraguay","Seoul",1988,0,0,0,0,0,0
+"Paraguay","Sochi",2014,0,0,0,0,0,0
+"Paraguay","Sydney",2000,0,0,0,0,0,0
+"Peru","Athina",2004,0,0,0,0,0,0
+"Peru","Atlanta",1996,0,1,0,0,0,0
+"Peru","Barcelona",1992,0,0,0,1,0,1
+"Peru","Beijing",2008,0,0,0,0,0,0
+"Peru","Berlin",1936,0,0,0,0,0,0
+"Peru","London",1948,0,0,1,0,0,1
+"Peru","London",2012,0,0,0,0,0,0
+"Peru","Los Angeles",1932,0,1,0,0,0,0
+"Peru","Los Angeles",1984,0,1,0,1,0,1
+"Peru","Melbourne",1956,0,0,0,0,0,0
+"Peru","Mexico City",1968,0,1,0,0,0,0
+"Peru","Montreal",1976,0,1,0,0,0,0
+"Peru","Moskva",1980,0,0,0,0,0,0
+"Peru","Munich",1972,0,0,0,0,0,0
+"Peru","Paris",1900,0,0,0,0,0,0
+"Peru","Rio de Janeiro",2016,0,1,0,0,0,0
+"Peru","Roma",1960,0,0,0,0,0,0
+"Peru","Seoul",1988,0,0,0,12,0,12
+"Peru","Sochi",2014,0,0,0,0,0,0
+"Peru","Sydney",2000,0,0,0,0,0,0
+"Peru","Tokyo",1964,0,0,0,0,0,0
+"Peru","Vancouver",2010,0,1,0,0,0,0
+"Philippines","Albertville",1992,0,0,0,0,0,0
+"Philippines","Amsterdam",1928,0,0,0,0,1,1
+"Philippines","Athina",2004,0,0,0,0,0,0
+"Philippines","Atlanta",1996,0,0,0,1,0,1
+"Philippines","Barcelona",1992,0,0,0,0,1,1
+"Philippines","Beijing",2008,0,1,0,0,0,0
+"Philippines","Berlin",1936,0,0,0,0,1,1
+"Philippines","Calgary",1988,0,0,0,0,0,0
+"Philippines","Helsinki",1952,0,0,0,0,0,0
+"Philippines","London",1948,0,0,0,0,0,0
+"Philippines","London",2012,0,0,0,0,0,0
+"Philippines","Los Angeles",1932,0,0,0,0,3,3
+"Philippines","Los Angeles",1984,0,0,0,0,0,0
+"Philippines","Melbourne",1956,0,0,0,0,0,0
+"Philippines","Mexico City",1968,0,0,0,0,0,0
+"Philippines","Montreal",1976,0,0,0,0,0,0
+"Philippines","Munich",1972,0,0,0,0,0,0
+"Philippines","Paris",1924,0,0,0,0,0,0
+"Philippines","Rio de Janeiro",2016,0,0,0,1,0,1
+"Philippines","Roma",1960,0,0,0,0,0,0
+"Philippines","Sapporo",1972,0,1,0,0,0,0
+"Philippines","Seoul",1988,0,1,0,0,1,1
+"Philippines","Sochi",2014,0,0,0,0,0,0
+"Philippines","Sydney",2000,0,0,0,0,0,0
+"Philippines","Tokyo",1964,0,1,0,1,0,1
+"Poland","Albertville",1992,0,1,0,0,0,0
+"Poland","Amsterdam",1928,0,1,2,3,15,20
+"Poland","Athina",2004,0,1,4,2,6,12
+"Poland","Atlanta",1996,0,0,7,8,7,22
+"Poland","Barcelona",1992,0,1,5,22,19,46
+"Poland","Beijing",2008,0,0,6,13,1,20
+"Poland","Berlin",1936,0,1,0,6,6,12
+"Poland","Calgary",1988,0,0,0,0,0,0
+"Poland","Chamonix",1924,0,1,0,0,0,0
+"Poland","Cortina d'Ampezzo",1956,0,1,0,0,1,1
+"Poland","Garmisch-Partenkirchen",1936,0,1,0,0,0,0
+"Poland","Grenoble",1968,0,1,0,0,0,0
+"Poland","Helsinki",1952,0,1,1,2,1,4
+"Poland","Innsbruck",1964,0,1,0,0,0,0
+"Poland","Innsbruck",1976,0,1,0,0,0,0
+"Poland","Lake Placid",1932,0,0,0,0,0,0
+"Poland","Lake Placid",1980,0,0,0,0,0,0
+"Poland","Lillehammer",1994,0,1,0,0,0,0
+"Poland","London",1948,0,1,1,0,1,2
+"Poland","London",2012,0,1,2,2,8,12
+"Poland","Los Angeles",1932,0,0,3,4,14,21
+"Poland","Melbourne",1956,0,0,1,9,9,19
+"Poland","Mexico City",1968,0,0,5,2,30,37
+"Poland","Montreal",1976,0,0,18,29,26,73
+"Poland","Moskva",1980,0,1,3,25,22,50
+"Poland","Munich",1972,0,1,27,8,11,46
+"Poland","Nagano",1998,0,0,0,0,0,0
+"Poland","Oslo",1952,0,1,0,0,0,0
+"Poland","Paris",1924,0,1,0,4,1,5
+"Poland","Rio de Janeiro",2016,0,0,3,3,10,16
+"Poland","Roma",1960,0,1,4,11,15,30
+"Poland","Salt Lake City",2002,0,0,0,1,1,2
+"Poland","Sankt Moritz",1928,0,1,0,0,0,0
+"Poland","Sankt Moritz",1948,0,1,0,0,0,0
+"Poland","Sapporo",1972,0,0,1,0,0,1
+"Poland","Sarajevo",1984,0,1,0,0,0,0
+"Poland","Seoul",1988,0,0,2,9,10,21
+"Poland","Sochi",2014,0,1,4,4,3,11
+"Poland","Squaw Valley",1960,0,0,0,1,1,2
+"Poland","Stockholm",1912,0,1,0,0,0,0
+"Poland","Sydney",2000,0,0,7,10,7,24
+"Poland","Tokyo",1964,0,0,10,13,23,46
+"Poland","Torino",2006,0,1,0,1,1,2
+"Poland","Vancouver",2010,0,0,1,3,4,8
+"Portugal","Amsterdam",1928,0,1,0,0,6,6
+"Portugal","Antwerpen",1920,0,1,0,0,0,0
+"Portugal","Athina",2004,0,1,0,2,1,3
+"Portugal","Atlanta",1996,0,0,1,0,2,3
+"Portugal","Barcelona",1992,0,1,0,0,0,0
+"Portugal","Beijing",2008,0,0,1,1,0,2
+"Portugal","Berlin",1936,0,1,0,0,3,3
+"Portugal","Calgary",1988,0,0,0,0,0,0
+"Portugal","Helsinki",1952,0,1,0,0,2,2
+"Portugal","Lillehammer",1994,0,1,0,0,0,0
+"Portugal","London",1948,0,1,0,2,3,5
+"Portugal","London",2012,0,1,0,2,0,2
+"Portugal","Los Angeles",1932,0,0,0,0,0,0
+"Portugal","Los Angeles",1984,0,0,1,0,2,3
+"Portugal","Melbourne",1956,0,0,0,0,0,0
+"Portugal","Mexico City",1968,0,0,0,0,0,0
+"Portugal","Montreal",1976,0,0,0,2,0,2
+"Portugal","Moskva",1980,0,1,0,0,0,0
+"Portugal","Munich",1972,0,1,0,0,0,0
+"Portugal","Nagano",1998,0,0,0,0,0,0
+"Portugal","Oslo",1952,0,1,0,0,0,0
+"Portugal","Paris",1924,0,1,0,0,4,4
+"Portugal","Rio de Janeiro",2016,0,0,0,0,1,1
+"Portugal","Roma",1960,0,1,0,2,0,2
+"Portugal","Seoul",1988,0,0,1,0,0,1
+"Portugal","Sochi",2014,0,1,0,0,0,0
+"Portugal","Stockholm",1912,0,1,0,0,0,0
+"Portugal","Stockholm",1956,0,1,0,0,0,0
+"Portugal","Sydney",2000,0,0,0,0,2,2
+"Portugal","Tokyo",1964,0,0,0,0,0,0
+"Portugal","Torino",2006,0,1,0,0,0,0
+"Portugal","Vancouver",2010,0,0,0,0,0,0
+"Puerto Rico","Albertville",1992,0,0,0,0,0,0
+"Puerto Rico","Athina",2004,0,0,0,0,0,0
+"Puerto Rico","Atlanta",1996,0,1,0,0,1,1
+"Puerto Rico","Barcelona",1992,0,0,0,0,1,1
+"Puerto Rico","Beijing",2008,0,0,0,0,0,0
+"Puerto Rico","Calgary",1988,0,1,0,0,0,0
+"Puerto Rico","Helsinki",1952,0,0,0,0,0,0
+"Puerto Rico","Lillehammer",1994,0,0,0,0,0,0
+"Puerto Rico","London",1948,0,0,0,0,1,1
+"Puerto Rico","London",2012,0,0,0,1,1,2
+"Puerto Rico","Los Angeles",1984,0,1,0,1,1,2
+"Puerto Rico","Melbourne",1956,0,0,0,0,0,0
+"Puerto Rico","Mexico City",1968,0,1,0,0,0,0
+"Puerto Rico","Montreal",1976,0,1,0,0,1,1
+"Puerto Rico","Moskva",1980,0,0,0,0,0,0
+"Puerto Rico","Munich",1972,0,0,0,0,0,0
+"Puerto Rico","Nagano",1998,0,0,0,0,0,0
+"Puerto Rico","Rio de Janeiro",2016,0,1,1,0,0,1
+"Puerto Rico","Roma",1960,0,0,0,0,0,0
+"Puerto Rico","Sarajevo",1984,0,0,0,0,0,0
+"Puerto Rico","Seoul",1988,0,0,0,0,0,0
+"Puerto Rico","Sydney",2000,0,0,0,0,0,0
+"Puerto Rico","Tokyo",1964,0,0,0,0,0,0
+"Qatar","Athina",2004,0,0,0,0,0,0
+"Qatar","Atlanta",1996,0,0,0,0,0,0
+"Qatar","Barcelona",1992,0,0,0,0,1,1
+"Qatar","Beijing",2008,0,1,0,0,0,0
+"Qatar","London",2012,0,0,0,0,2,2
+"Qatar","Los Angeles",1984,0,0,0,0,0,0
+"Qatar","Moskva",1980,0,0,0,0,0,0
+"Qatar","Munich",1972,0,0,0,0,0,0
+"Qatar","Rio de Janeiro",2016,0,0,0,1,0,1
+"Qatar","Seoul",1988,0,1,0,0,0,0
+"Qatar","Sydney",2000,0,0,0,0,1,1
+"Qatar","Tokyo",1964,0,1,0,0,0,0
+"Romania","Albertville",1992,0,1,0,0,0,0
+"Romania","Amsterdam",1928,0,1,0,0,0,0
+"Romania","Athina",2004,0,1,23,5,11,39
+"Romania","Atlanta",1996,0,0,13,10,15,38
+"Romania","Barcelona",1992,0,1,8,31,14,53
+"Romania","Beijing",2008,0,0,5,1,16,22
+"Romania","Berlin",1936,0,1,0,1,0,1
+"Romania","Calgary",1988,0,0,0,0,0,0
+"Romania","Cortina d'Ampezzo",1956,0,1,0,0,0,0
+"Romania","Garmisch-Partenkirchen",1936,0,1,0,0,0,0
+"Romania","Grenoble",1968,0,1,0,0,2,2
+"Romania","Helsinki",1952,0,1,1,1,2,4
+"Romania","Innsbruck",1964,0,1,0,0,0,0
+"Romania","Innsbruck",1976,0,1,0,0,0,0
+"Romania","Lake Placid",1932,0,0,0,0,0,0
+"Romania","Lake Placid",1980,0,0,0,0,0,0
+"Romania","Lillehammer",1994,0,1,0,0,0,0
+"Romania","London",2012,0,1,2,8,6,16
+"Romania","Los Angeles",1932,0,0,0,0,0,0
+"Romania","Los Angeles",1984,0,0,40,31,35,106
+"Romania","Melbourne",1956,0,0,6,3,10,19
+"Romania","Mexico City",1968,0,0,5,9,9,23
+"Romania","Montreal",1976,0,0,4,28,23,55
+"Romania","Moskva",1980,0,1,7,15,46,68
+"Romania","Munich",1972,0,1,3,10,27,40
+"Romania","Nagano",1998,0,0,0,0,0,0
+"Romania","Oslo",1952,0,1,0,0,0,0
+"Romania","Paris",1900,0,1,0,0,0,0
+"Romania","Paris",1924,0,1,0,0,16,16
+"Romania","Rio de Janeiro",2016,0,0,4,2,10,16
+"Romania","Roma",1960,0,1,3,1,11,15
+"Romania","Salt Lake City",2002,0,0,0,0,0,0
+"Romania","Sankt Moritz",1928,0,1,0,0,0,0
+"Romania","Sankt Moritz",1948,0,1,0,0,0,0
+"Romania","Sapporo",1972,0,0,0,0,0,0
+"Romania","Sarajevo",1984,0,1,0,0,0,0
+"Romania","Seoul",1988,0,0,8,34,16,58
+"Romania","Sochi",2014,0,1,0,0,0,0
+"Romania","Stockholm",1956,0,1,0,0,0,0
+"Romania","Sydney",2000,0,0,27,6,13,46
+"Romania","Tokyo",1964,0,0,2,4,10,16
+"Romania","Torino",2006,0,1,0,0,0,0
+"Romania","Vancouver",2010,0,0,0,0,0,0
+"Russian Federation","Athina",2004,0,1,48,46,95,189
+"Russian Federation","Atlanta",1996,0,0,36,45,34,115
+"Russian Federation","Beijing",2008,0,0,43,46,53,142
+"Russian Federation","Calgary",1988,0,0,40,14,12,66
+"Russian Federation","Cortina d'Ampezzo",1956,0,1,26,5,6,37
+"Russian Federation","Grenoble",1968,0,1,26,6,5,37
+"Russian Federation","Helsinki",1952,0,1,36,62,19,117
+"Russian Federation","Innsbruck",1964,0,1,30,8,9,47
+"Russian Federation","Innsbruck",1976,0,1,38,7,11,56
+"Russian Federation","Lake Placid",1980,0,0,18,29,7,54
+"Russian Federation","Lillehammer",1994,0,1,19,13,4,36
+"Russian Federation","London",1908,0,1,1,2,0,3
+"Russian Federation","London",2012,0,1,50,39,51,140
+"Russian Federation","Melbourne",1956,0,0,68,46,55,169
+"Russian Federation","Mexico City",1968,0,0,65,63,64,192
+"Russian Federation","Montreal",1976,0,0,114,95,77,286
+"Russian Federation","Moskva",1980,0,1,187,129,126,442
+"Russian Federation","Munich",1972,0,1,107,47,60,214
+"Russian Federation","Nagano",1998,0,0,14,32,6,52
+"Russian Federation","Paris",1900,0,1,0,0,0,0
+"Russian Federation","Paris",1924,0,1,0,0,0,0
+"Russian Federation","Rio de Janeiro",2016,0,0,52,28,35,115
+"Russian Federation","Roma",1960,0,1,61,63,45,169
+"Russian Federation","Salt Lake City",2002,0,0,6,5,27,38
+"Russian Federation","Sapporo",1972,0,0,36,6,3,45
+"Russian Federation","Sarajevo",1984,0,1,29,15,12,56
+"Russian Federation","Seoul",1988,0,0,134,67,99,300
+"Russian Federation","Sochi",2014,0,1,33,22,13,68
+"Russian Federation","Squaw Valley",1960,0,0,7,7,28,42
+"Russian Federation","Stockholm",1912,0,1,0,5,9,14
+"Russian Federation","Stockholm",1956,0,1,0,0,0,0
+"Russian Federation","Sydney",2000,0,0,66,67,54,187
+"Russian Federation","Tokyo",1964,0,0,60,63,51,174
+"Russian Federation","Torino",2006,0,1,16,12,13,41
+"Russian Federation","Vancouver",2010,0,0,6,5,14,25
+"Rwanda","Athina",2004,0,0,0,0,0,0
+"Rwanda","Atlanta",1996,0,0,0,0,0,0
+"Rwanda","Barcelona",1992,0,0,0,0,0,0
+"Rwanda","Beijing",2008,0,0,0,0,0,0
+"Rwanda","London",2012,0,0,0,0,0,0
+"Rwanda","Los Angeles",1984,0,0,0,0,0,0
+"Rwanda","Rio de Janeiro",2016,0,0,0,0,0,0
+"Rwanda","Seoul",1988,0,0,0,0,0,0
+"Rwanda","Sydney",2000,0,0,0,0,0,0
+"Saint Helena, Ascension and Tristan da Cunha","Athina",2004,0,0,0,0,0,0
+"Saint Helena, Ascension and Tristan da Cunha","Atlanta",1996,0,0,0,0,0,0
+"Saint Helena, Ascension and Tristan da Cunha","Beijing",2008,0,0,0,0,0,0
+"Saint Helena, Ascension and Tristan da Cunha","London",2012,0,0,0,0,0,0
+"Saint Helena, Ascension and Tristan da Cunha","Rio de Janeiro",2016,0,0,0,0,0,0
+"Saint Helena, Ascension and Tristan da Cunha","Sydney",2000,0,0,0,0,0,0
+"Saint Lucia","Athina",2004,0,0,0,0,0,0
+"Saint Lucia","Atlanta",1996,0,1,0,0,0,0
+"Saint Lucia","Beijing",2008,0,0,0,0,0,0
+"Saint Lucia","London",2012,0,0,0,0,0,0
+"Saint Lucia","Rio de Janeiro",2016,0,1,0,0,0,0
+"Saint Lucia","Sydney",2000,0,0,0,0,0,0
+"Saint Pierre and Miquelon","Athina",2004,0,0,0,0,0,0
+"Saint Pierre and Miquelon","Atlanta",1996,0,1,0,0,0,0
+"Saint Pierre and Miquelon","Barcelona",1992,0,0,0,0,0,0
+"Saint Pierre and Miquelon","Beijing",2008,0,0,0,0,0,0
+"Saint Pierre and Miquelon","London",2012,0,0,0,0,0,0
+"Saint Pierre and Miquelon","Rio de Janeiro",2016,0,1,0,0,0,0
+"Saint Pierre and Miquelon","Seoul",1988,0,0,0,0,0,0
+"Saint Pierre and Miquelon","Sydney",2000,0,0,0,0,0,0
+"Samoa","Athina",2004,0,0,0,0,0,0
+"Samoa","Atlanta",1996,0,0,0,0,0,0
+"Samoa","Barcelona",1992,0,0,0,0,0,0
+"Samoa","Beijing",2008,0,0,0,0,0,0
+"Samoa","London",2012,0,0,0,0,0,0
+"Samoa","Los Angeles",1984,0,0,0,0,0,0
+"Samoa","Rio de Janeiro",2016,0,0,0,0,0,0
+"Samoa","Seoul",1988,0,0,0,0,0,0
+"Samoa","Sydney",2000,0,1,0,0,0,0
+"San Marino","Albertville",1992,0,1,0,0,0,0
+"San Marino","Athina",2004,0,1,0,0,0,0
+"San Marino","Atlanta",1996,0,0,0,0,0,0
+"San Marino","Barcelona",1992,0,1,0,0,0,0
+"San Marino","Beijing",2008,0,0,0,0,0,0
+"San Marino","Calgary",1988,0,0,0,0,0,0
+"San Marino","Innsbruck",1976,0,1,0,0,0,0
+"San Marino","Lillehammer",1994,0,1,0,0,0,0
+"San Marino","London",2012,0,1,0,0,0,0
+"San Marino","Los Angeles",1984,0,0,0,0,0,0
+"San Marino","Mexico City",1968,0,0,0,0,0,0
+"San Marino","Montreal",1976,0,0,0,0,0,0
+"San Marino","Moskva",1980,0,1,0,0,0,0
+"San Marino","Munich",1972,0,1,0,0,0,0
+"San Marino","Rio de Janeiro",2016,0,0,0,0,0,0
+"San Marino","Roma",1960,0,1,0,0,0,0
+"San Marino","Salt Lake City",2002,0,0,0,0,0,0
+"San Marino","Sarajevo",1984,0,1,0,0,0,0
+"San Marino","Seoul",1988,0,0,0,0,0,0
+"San Marino","Sochi",2014,0,1,0,0,0,0
+"San Marino","Sydney",2000,0,0,0,0,0,0
+"San Marino","Torino",2006,0,1,0,0,0,0
+"San Marino","Vancouver",2010,0,0,0,0,0,0
+"Sao Tome and Principe","Athina",2004,0,0,0,0,0,0
+"Sao Tome and Principe","Atlanta",1996,0,0,0,0,0,0
+"Sao Tome and Principe","Beijing",2008,0,0,0,0,0,0
+"Sao Tome and Principe","London",2012,0,0,0,0,0,0
+"Sao Tome and Principe","Rio de Janeiro",2016,0,0,0,0,0,0
+"Sao Tome and Principe","Sydney",2000,0,0,0,0,0,0
+"Saudi Arabia","Athina",2004,0,0,0,0,0,0
+"Saudi Arabia","Atlanta",1996,0,0,0,0,0,0
+"Saudi Arabia","Barcelona",1992,0,0,0,0,0,0
+"Saudi Arabia","Beijing",2008,0,1,0,0,0,0
+"Saudi Arabia","London",2012,0,0,0,0,4,4
+"Saudi Arabia","Los Angeles",1984,0,0,0,0,0,0
+"Saudi Arabia","Montreal",1976,0,0,0,0,0,0
+"Saudi Arabia","Munich",1972,0,0,0,0,0,0
+"Saudi Arabia","Rio de Janeiro",2016,0,0,0,0,0,0
+"Saudi Arabia","Seoul",1988,0,1,0,0,0,0
+"Saudi Arabia","Sydney",2000,0,0,0,1,1,2
+"Senegal","Albertville",1992,0,0,0,0,0,0
+"Senegal","Athina",2004,0,0,0,0,0,0
+"Senegal","Atlanta",1996,0,0,0,0,0,0
+"Senegal","Barcelona",1992,0,0,0,0,0,0
+"Senegal","Beijing",2008,0,0,0,0,0,0
+"Senegal","Lillehammer",1994,0,0,0,0,0,0
+"Senegal","London",2012,0,0,0,0,0,0
+"Senegal","Los Angeles",1984,0,0,0,0,0,0
+"Senegal","Mexico City",1968,0,0,0,0,0,0
+"Senegal","Montreal",1976,0,0,0,0,0,0
+"Senegal","Moskva",1980,0,0,0,0,0,0
+"Senegal","Munich",1972,0,0,0,0,0,0
+"Senegal","Rio de Janeiro",2016,0,0,0,0,0,0
+"Senegal","Sarajevo",1984,0,0,0,0,0,0
+"Senegal","Seoul",1988,0,0,0,1,0,1
+"Senegal","Sydney",2000,0,0,0,0,0,0
+"Senegal","Tokyo",1964,0,0,0,0,0,0
+"Senegal","Torino",2006,0,0,0,0,0,0
+"Senegal","Vancouver",2010,0,0,0,0,0,0
+"Serbia","Albertville",1992,0,1,0,0,0,0
+"Serbia","Amsterdam",1928,0,1,1,1,10,12
+"Serbia","Antwerpen",1920,0,1,0,0,0,0
+"Serbia","Athina",2004,0,1,0,13,0,13
+"Serbia","Atlanta",1996,0,0,1,12,13,26
+"Serbia","Beijing",2008,0,0,0,1,14,15
+"Serbia","Berlin",1936,0,1,0,1,0,1
+"Serbia","Calgary",1988,0,0,0,5,1,6
+"Serbia","Chamonix",1924,0,1,0,0,0,0
+"Serbia","Cortina d'Ampezzo",1956,0,1,0,0,0,0
+"Serbia","Garmisch-Partenkirchen",1936,0,1,0,0,0,0
+"Serbia","Grenoble",1968,0,1,0,0,0,0
+"Serbia","Helsinki",1952,0,1,4,20,0,24
+"Serbia","Innsbruck",1964,0,1,0,0,0,0
+"Serbia","Innsbruck",1976,0,1,0,0,0,0
+"Serbia","Lake Placid",1980,0,0,0,0,0,0
+"Serbia","London",1948,0,1,0,16,0,16
+"Serbia","London",2012,0,1,1,1,14,16
+"Serbia","Los Angeles",1932,0,0,0,0,0,0
+"Serbia","Los Angeles",1984,0,0,47,5,35,87
+"Serbia","Melbourne",1956,0,0,0,23,0,23
+"Serbia","Mexico City",1968,0,0,13,14,2,29
+"Serbia","Montreal",1976,0,0,2,14,3,19
+"Serbia","Moskva",1980,0,1,13,27,17,57
+"Serbia","Munich",1972,0,1,15,1,2,18
+"Serbia","Nagano",1998,0,0,0,0,0,0
+"Serbia","Oslo",1952,0,1,0,0,0,0
+"Serbia","Paris",1924,0,1,2,0,0,2
+"Serbia","Rio de Janeiro",2016,0,0,14,27,13,54
+"Serbia","Roma",1960,0,1,16,1,0,17
+"Serbia","Salt Lake City",2002,0,0,0,0,0,0
+"Serbia","Sankt Moritz",1928,0,1,0,0,0,0
+"Serbia","Sankt Moritz",1948,0,1,0,0,0,0
+"Serbia","Sapporo",1972,0,0,0,0,0,0
+"Serbia","Sarajevo",1984,0,1,0,1,0,1
+"Serbia","Seoul",1988,0,0,15,27,21,63
+"Serbia","Sochi",2014,0,1,0,0,0,0
+"Serbia","Stockholm",1912,0,1,0,0,0,0
+"Serbia","Sydney",2000,0,0,11,1,13,25
+"Serbia","Tokyo",1964,0,0,2,11,2,15
+"Serbia","Torino",2006,0,1,0,0,0,0
+"Serbia","Vancouver",2010,0,0,0,0,0,0
+"Seychelles","Athina",2004,0,0,0,0,0,0
+"Seychelles","Atlanta",1996,0,0,0,0,0,0
+"Seychelles","Barcelona",1992,0,0,0,0,0,0
+"Seychelles","Beijing",2008,0,0,0,0,0,0
+"Seychelles","London",2012,0,0,0,0,0,0
+"Seychelles","Los Angeles",1984,0,0,0,0,0,0
+"Seychelles","Moskva",1980,0,0,0,0,0,0
+"Seychelles","Rio de Janeiro",2016,0,0,0,0,0,0
+"Seychelles","Sydney",2000,0,0,0,0,0,0
+"Sierra Leone","Athina",2004,0,0,0,0,0,0
+"Sierra Leone","Atlanta",1996,0,0,0,0,0,0
+"Sierra Leone","Barcelona",1992,0,0,0,0,0,0
+"Sierra Leone","Beijing",2008,0,0,0,0,0,0
+"Sierra Leone","London",2012,0,0,0,0,0,0
+"Sierra Leone","Los Angeles",1984,0,0,0,0,0,0
+"Sierra Leone","Mexico City",1968,0,0,0,0,0,0
+"Sierra Leone","Moskva",1980,0,0,0,0,0,0
+"Sierra Leone","Rio de Janeiro",2016,0,0,0,0,0,0
+"Sierra Leone","Seoul",1988,0,0,0,0,0,0
+"Sierra Leone","Sydney",2000,0,0,0,0,0,0
+"Singapore","Athina",2004,0,0,0,0,0,0
+"Singapore","Atlanta",1996,0,0,0,0,0,0
+"Singapore","Barcelona",1992,0,0,0,0,0,0
+"Singapore","Beijing",2008,0,1,0,3,0,3
+"Singapore","Helsinki",1952,0,0,0,0,0,0
+"Singapore","London",1948,0,0,0,0,0,0
+"Singapore","London",2012,0,0,0,0,4,4
+"Singapore","Los Angeles",1984,0,0,0,0,0,0
+"Singapore","Melbourne",1956,0,0,0,0,0,0
+"Singapore","Mexico City",1968,0,0,0,0,0,0
+"Singapore","Montreal",1976,0,0,0,0,0,0
+"Singapore","Munich",1972,0,0,0,0,0,0
+"Singapore","Rio de Janeiro",2016,0,0,1,0,0,1
+"Singapore","Roma",1960,0,0,0,1,0,1
+"Singapore","Seoul",1988,0,1,0,0,0,0
+"Singapore","Sydney",2000,0,0,0,0,0,0
+"Slovakia","Athina",2004,0,1,3,2,5,10
+"Slovakia","Atlanta",1996,0,0,1,1,1,3
+"Slovakia","Beijing",2008,0,0,4,5,1,10
+"Slovakia","Lillehammer",1994,0,1,0,0,0,0
+"Slovakia","London",2012,0,1,0,1,4,5
+"Slovakia","Nagano",1998,0,0,0,0,0,0
+"Slovakia","Rio de Janeiro",2016,0,0,3,5,0,8
+"Slovakia","Salt Lake City",2002,0,0,0,0,0,0
+"Slovakia","Sochi",2014,0,1,1,0,0,1
+"Slovakia","Sydney",2000,0,0,2,3,1,6
+"Slovakia","Torino",2006,0,1,0,1,0,1
+"Slovakia","Vancouver",2010,0,0,1,1,1,3
+"Slovenia","Albertville",1992,0,1,0,0,0,0
+"Slovenia","Athina",2004,0,1,0,2,3,5
+"Slovenia","Atlanta",1996,0,0,0,2,0,2
+"Slovenia","Barcelona",1992,0,1,0,0,6,6
+"Slovenia","Beijing",2008,0,0,1,2,2,5
+"Slovenia","Lillehammer",1994,0,1,0,0,3,3
+"Slovenia","London",2012,0,1,1,1,3,5
+"Slovenia","Nagano",1998,0,0,0,0,0,0
+"Slovenia","Rio de Janeiro",2016,0,0,1,2,1,4
+"Slovenia","Salt Lake City",2002,0,0,0,0,4,4
+"Slovenia","Sochi",2014,0,1,2,2,4,8
+"Slovenia","Sydney",2000,0,0,3,0,0,3
+"Slovenia","Torino",2006,0,1,0,0,0,0
+"Slovenia","Vancouver",2010,0,0,0,2,1,3
+"Solomon Islands","Athina",2004,0,0,0,0,0,0
+"Solomon Islands","Atlanta",1996,0,0,0,0,0,0
+"Solomon Islands","Barcelona",1992,0,0,0,0,0,0
+"Solomon Islands","Beijing",2008,0,0,0,0,0,0
+"Solomon Islands","London",2012,0,0,0,0,0,0
+"Solomon Islands","Los Angeles",1984,0,0,0,0,0,0
+"Solomon Islands","Rio de Janeiro",2016,0,0,0,0,0,0
+"Solomon Islands","Seoul",1988,0,0,0,0,0,0
+"Solomon Islands","Sydney",2000,0,1,0,0,0,0
+"Somalia","Athina",2004,0,0,0,0,0,0
+"Somalia","Atlanta",1996,0,0,0,0,0,0
+"Somalia","Beijing",2008,0,0,0,0,0,0
+"Somalia","London",2012,0,0,0,0,0,0
+"Somalia","Los Angeles",1984,0,0,0,0,0,0
+"Somalia","Munich",1972,0,0,0,0,0,0
+"Somalia","Rio de Janeiro",2016,0,0,0,0,0,0
+"Somalia","Seoul",1988,0,0,0,0,0,0
+"Somalia","Sydney",2000,0,0,0,0,0,0
+"South Africa","Amsterdam",1928,0,0,1,0,5,6
+"South Africa","Antwerpen",1920,0,0,3,12,6,21
+"South Africa","Athina",2004,0,0,4,3,3,10
+"South Africa","Atlanta",1996,0,0,3,1,1,5
+"South Africa","Barcelona",1992,0,0,0,3,0,3
+"South Africa","Beijing",2008,0,0,0,1,0,1
+"South Africa","Berlin",1936,0,0,0,1,0,1
+"South Africa","Helsinki",1952,0,0,2,8,4,14
+"South Africa","Lillehammer",1994,0,0,0,0,0,0
+"South Africa","London",1908,0,0,1,1,0,2
+"South Africa","London",1948,0,0,2,2,2,6
+"South Africa","London",2012,0,0,6,2,1,9
+"South Africa","Los Angeles",1932,0,0,2,0,3,5
+"South Africa","Melbourne",1956,0,0,0,0,7,7
+"South Africa","Nagano",1998,0,0,0,0,0,0
+"South Africa","Paris",1924,0,0,1,1,1,3
+"South Africa","Rio de Janeiro",2016,0,0,2,7,14,23
+"South Africa","Roma",1960,0,0,0,1,2,3
+"South Africa","Salt Lake City",2002,0,0,0,0,0,0
+"South Africa","Squaw Valley",1960,0,0,0,0,0,0
+"South Africa","St. Louis",1904,0,0,0,0,0,0
+"South Africa","Stockholm",1912,0,0,5,2,0,7
+"South Africa","Sydney",2000,0,0,0,2,3,5
+"South Africa","Torino",2006,0,0,0,0,0,0
+"South Africa","Vancouver",2010,0,0,0,0,0,0
+"South Sudan","Rio de Janeiro",2016,0,0,0,0,0,0
+"Spain","Albertville",1992,0,1,0,0,1,1
+"Spain","Amsterdam",1928,0,1,3,0,0,3
+"Spain","Antwerpen",1920,0,1,0,23,0,23
+"Spain","Athina",2004,0,1,4,17,9,30
+"Spain","Atlanta",1996,0,0,23,21,22,66
+"Spain","Barcelona",1992,1,1,48,19,2,69
+"Spain","Beijing",2008,0,0,7,47,16,70
+"Spain","Calgary",1988,0,0,0,0,0,0
+"Spain","Cortina d'Ampezzo",1956,0,1,0,0,0,0
+"Spain","Garmisch-Partenkirchen",1936,0,1,0,0,0,0
+"Spain","Grenoble",1968,0,1,0,0,0,0
+"Spain","Helsinki",1952,0,1,0,1,0,1
+"Spain","Innsbruck",1964,0,1,0,0,0,0
+"Spain","Innsbruck",1976,0,1,0,0,0,0
+"Spain","Lake Placid",1980,0,0,0,0,0,0
+"Spain","Lillehammer",1994,0,1,0,0,0,0
+"Spain","London",1948,0,1,0,3,0,3
+"Spain","London",2012,0,1,5,33,25,63
+"Spain","Los Angeles",1932,0,0,0,0,1,1
+"Spain","Los Angeles",1984,0,0,2,14,3,19
+"Spain","Mexico City",1968,0,0,0,0,0,0
+"Spain","Montreal",1976,0,0,0,6,0,6
+"Spain","Moskva",1980,0,1,2,19,3,24
+"Spain","Munich",1972,0,1,0,0,1,1
+"Spain","Nagano",1998,0,0,0,0,0,0
+"Spain","Oslo",1952,0,1,0,0,0,0
+"Spain","Paris",1900,0,1,2,0,0,2
+"Spain","Paris",1924,0,1,0,0,0,0
+"Spain","Rio de Janeiro",2016,0,0,9,19,17,45
+"Spain","Roma",1960,0,1,0,0,14,14
+"Spain","Salt Lake City",2002,0,0,0,0,0,0
+"Spain","Sankt Moritz",1948,0,1,0,0,0,0
+"Spain","Sapporo",1972,0,0,1,0,0,1
+"Spain","Sarajevo",1984,0,1,0,0,0,0
+"Spain","Seoul",1988,0,0,1,2,2,5
+"Spain","Sochi",2014,0,1,0,0,0,0
+"Spain","Squaw Valley",1960,0,0,0,0,0,0
+"Spain","Stockholm",1956,0,1,0,0,0,0
+"Spain","Sydney",2000,0,0,3,19,20,42
+"Spain","Tokyo",1964,0,0,0,0,0,0
+"Spain","Torino",2006,0,1,0,0,0,0
+"Spain","Vancouver",2010,0,0,0,0,0,0
+"Sri Lanka","Athina",2004,0,0,0,0,0,0
+"Sri Lanka","Atlanta",1996,0,0,0,0,0,0
+"Sri Lanka","Barcelona",1992,0,0,0,0,0,0
+"Sri Lanka","Beijing",2008,0,1,0,0,0,0
+"Sri Lanka","Helsinki",1952,0,0,0,0,0,0
+"Sri Lanka","London",1948,0,0,0,1,0,1
+"Sri Lanka","London",2012,0,0,0,0,0,0
+"Sri Lanka","Los Angeles",1984,0,0,0,0,0,0
+"Sri Lanka","Melbourne",1956,0,0,0,0,0,0
+"Sri Lanka","Mexico City",1968,0,0,0,0,0,0
+"Sri Lanka","Moskva",1980,0,0,0,0,0,0
+"Sri Lanka","Munich",1972,0,0,0,0,0,0
+"Sri Lanka","Rio de Janeiro",2016,0,0,0,0,0,0
+"Sri Lanka","Roma",1960,0,0,0,0,0,0
+"Sri Lanka","Seoul",1988,0,1,0,0,0,0
+"Sri Lanka","Sydney",2000,0,0,0,1,0,1
+"Sri Lanka","Tokyo",1964,0,1,0,0,0,0
+"Sudan","Athina",2004,0,0,0,0,0,0
+"Sudan","Atlanta",1996,0,0,0,0,0,0
+"Sudan","Barcelona",1992,0,0,0,0,0,0
+"Sudan","Beijing",2008,0,0,0,1,0,1
+"Sudan","London",2012,0,0,0,0,0,0
+"Sudan","Los Angeles",1984,0,0,0,0,0,0
+"Sudan","Mexico City",1968,0,0,0,0,0,0
+"Sudan","Munich",1972,0,0,0,0,0,0
+"Sudan","Rio de Janeiro",2016,0,0,0,0,0,0
+"Sudan","Roma",1960,0,0,0,0,0,0
+"Sudan","Seoul",1988,0,0,0,0,0,0
+"Sudan","Sydney",2000,0,0,0,0,0,0
+"Suriname","Athina",2004,0,0,0,0,0,0
+"Suriname","Atlanta",1996,0,1,0,0,0,0
+"Suriname","Barcelona",1992,0,0,0,0,1,1
+"Suriname","Beijing",2008,0,0,0,0,0,0
+"Suriname","London",2012,0,0,0,0,0,0
+"Suriname","Los Angeles",1984,0,1,0,0,0,0
+"Suriname","Mexico City",1968,0,1,0,0,0,0
+"Suriname","Montreal",1976,0,1,0,0,0,0
+"Suriname","Munich",1972,0,0,0,0,0,0
+"Suriname","Rio de Janeiro",2016,0,1,0,0,0,0
+"Suriname","Seoul",1988,0,0,1,0,0,1
+"Suriname","Sydney",2000,0,0,0,0,0,0
+"Swaziland","Albertville",1992,0,0,0,0,0,0
+"Swaziland","Athina",2004,0,0,0,0,0,0
+"Swaziland","Atlanta",1996,0,0,0,0,0,0
+"Swaziland","Barcelona",1992,0,0,0,0,0,0
+"Swaziland","Beijing",2008,0,0,0,0,0,0
+"Swaziland","London",2012,0,0,0,0,0,0
+"Swaziland","Los Angeles",1984,0,0,0,0,0,0
+"Swaziland","Munich",1972,0,0,0,0,0,0
+"Swaziland","Rio de Janeiro",2016,0,0,0,0,0,0
+"Swaziland","Seoul",1988,0,0,0,0,0,0
+"Swaziland","Sydney",2000,0,0,0,0,0,0
+"Sweden","Albertville",1992,0,1,1,0,6,7
+"Sweden","Amsterdam",1928,0,1,7,8,22,37
+"Sweden","Antwerpen",1920,0,1,52,38,64,154
+"Sweden","Athina",1896,0,1,0,0,0,0
+"Sweden","Athina",2004,0,1,5,5,2,12
+"Sweden","Atlanta",1996,0,0,3,23,5,31
+"Sweden","Barcelona",1992,0,1,1,27,7,35
+"Sweden","Beijing",2008,0,0,0,5,2,7
+"Sweden","Berlin",1936,0,1,7,11,17,35
+"Sweden","Calgary",1988,0,0,7,0,23,30
+"Sweden","Chamonix",1924,0,1,1,8,0,9
+"Sweden","Cortina d'Ampezzo",1956,0,1,2,4,9,15
+"Sweden","Garmisch-Partenkirchen",1936,0,1,2,2,6,10
+"Sweden","Grenoble",1968,0,1,3,7,6,16
+"Sweden","Helsinki",1952,0,1,23,24,23,70
+"Sweden","Innsbruck",1964,0,1,6,21,1,28
+"Sweden","Innsbruck",1976,0,1,0,0,2,2
+"Sweden","Lake Placid",1932,0,0,1,2,0,3
+"Sweden","Lake Placid",1980,0,0,3,0,20,23
+"Sweden","Lillehammer",1994,0,1,23,1,0,24
+"Sweden","London",1908,0,1,48,18,18,84
+"Sweden","London",1948,0,1,30,15,30,75
+"Sweden","London",2012,0,1,2,17,3,22
+"Sweden","Los Angeles",1932,0,0,13,7,12,32
+"Sweden","Los Angeles",1984,0,0,3,18,13,34
+"Sweden","Melbourne",1956,0,0,9,14,6,29
+"Sweden","Mexico City",1968,0,0,4,4,1,9
+"Sweden","Montreal",1976,0,0,9,1,0,10
+"Sweden","Moskva",1980,0,1,3,8,9,20
+"Sweden","Munich",1972,0,1,4,10,8,22
+"Sweden","Nagano",1998,0,0,0,2,5,7
+"Sweden","Oslo",1952,0,1,0,0,23,23
+"Sweden","Paris",1900,0,1,3,0,1,4
+"Sweden","Paris",1924,0,1,7,22,43,72
+"Sweden","Rio de Janeiro",2016,0,0,2,23,3,28
+"Sweden","Roma",1960,0,1,2,2,3,7
+"Sweden","Salt Lake City",2002,0,0,0,2,24,26
+"Sweden","Sankt Moritz",1928,0,1,2,13,1,16
+"Sweden","Sankt Moritz",1948,0,1,7,3,3,13
+"Sweden","Sapporo",1972,0,0,1,1,2,4
+"Sweden","Sarajevo",1984,0,1,7,2,21,30
+"Sweden","Seoul",1988,0,0,0,5,11,16
+"Sweden","Sochi",2014,0,1,8,32,11,51
+"Sweden","Squaw Valley",1960,0,0,5,2,2,9
+"Sweden","Stockholm",1912,1,1,103,62,25,190
+"Sweden","Stockholm",1956,1,1,5,0,0,5
+"Sweden","Sydney",2000,0,0,4,20,8,32
+"Sweden","Tokyo",1964,0,0,3,4,8,15
+"Sweden","Torino",2006,0,1,35,21,8,64
+"Sweden","Vancouver",2010,0,0,11,3,4,18
+"Switzerland","Albertville",1992,0,1,2,0,5,7
+"Switzerland","Amsterdam",1928,0,1,16,10,4,30
+"Switzerland","Antwerpen",1920,0,1,6,2,21,29
+"Switzerland","Athina",1896,0,1,1,2,0,3
+"Switzerland","Athina",2004,0,1,1,2,4,7
+"Switzerland","Atlanta",1996,0,0,5,6,0,11
+"Switzerland","Barcelona",1992,0,1,1,0,0,1
+"Switzerland","Beijing",2008,0,0,3,1,7,11
+"Switzerland","Berlin",1936,0,1,5,23,24,52
+"Switzerland","Calgary",1988,0,0,8,7,5,20
+"Switzerland","Chamonix",1924,0,1,8,0,1,9
+"Switzerland","Cortina d'Ampezzo",1956,0,1,6,2,2,10
+"Switzerland","Garmisch-Partenkirchen",1936,0,1,4,6,0,10
+"Switzerland","Grenoble",1968,0,1,0,2,7,9
+"Switzerland","Helsinki",1952,0,1,2,19,12,33
+"Switzerland","Innsbruck",1964,0,1,0,0,0,0
+"Switzerland","Innsbruck",1976,0,1,1,6,2,9
+"Switzerland","Lake Placid",1932,0,0,0,2,0,2
+"Switzerland","Lake Placid",1980,0,0,2,4,3,9
+"Switzerland","Lillehammer",1994,0,1,4,8,4,16
+"Switzerland","London",1908,0,1,0,0,0,0
+"Switzerland","London",1948,0,1,5,25,6,36
+"Switzerland","London",2012,0,1,2,2,0,4
+"Switzerland","Los Angeles",1932,0,0,0,1,0,1
+"Switzerland","Los Angeles",1984,0,0,0,9,4,13
+"Switzerland","Mexico City",1968,0,0,0,3,10,13
+"Switzerland","Montreal",1976,0,0,1,3,6,10
+"Switzerland","Moskva",1980,0,1,2,0,0,2
+"Switzerland","Munich",1972,0,1,0,8,0,8
+"Switzerland","Nagano",1998,0,0,6,5,3,14
+"Switzerland","Oslo",1952,0,1,0,0,6,6
+"Switzerland","Paris",1900,0,1,16,4,1,21
+"Switzerland","Paris",1924,0,1,14,25,21,60
+"Switzerland","Rio de Janeiro",2016,0,0,6,3,2,11
+"Switzerland","Roma",1960,0,1,0,6,6,12
+"Switzerland","Salt Lake City",2002,0,0,3,7,14,24
+"Switzerland","Sankt Moritz",1928,1,1,0,0,12,12
+"Switzerland","Sankt Moritz",1948,1,1,4,5,19,28
+"Switzerland","Sapporo",1972,0,0,7,3,7,17
+"Switzerland","Sarajevo",1984,0,1,2,2,4,8
+"Switzerland","Seoul",1988,0,0,0,6,2,8
+"Switzerland","Sochi",2014,0,1,6,4,20,30
+"Switzerland","Squaw Valley",1960,0,0,2,0,0,2
+"Switzerland","St. Louis",1904,0,0,1,0,2,3
+"Switzerland","Stockholm",1912,0,1,2,0,0,2
+"Switzerland","Stockholm",1956,0,1,0,0,3,3
+"Switzerland","Sydney",2000,0,0,1,11,2,14
+"Switzerland","Tokyo",1964,0,0,1,4,1,6
+"Switzerland","Torino",2006,0,1,5,7,9,21
+"Switzerland","Vancouver",2010,0,0,6,0,6,12
+"Syrian Arab Republic","Athina",2004,0,0,0,0,1,1
+"Syrian Arab Republic","Atlanta",1996,0,0,1,0,0,1
+"Syrian Arab Republic","Barcelona",1992,0,0,0,0,0,0
+"Syrian Arab Republic","Beijing",2008,0,1,0,0,0,0
+"Syrian Arab Republic","London",1948,0,0,0,0,0,0
+"Syrian Arab Republic","London",2012,0,0,0,0,0,0
+"Syrian Arab Republic","Los Angeles",1984,0,0,0,1,0,1
+"Syrian Arab Republic","Mexico City",1968,0,0,0,0,0,0
+"Syrian Arab Republic","Moskva",1980,0,0,0,0,0,0
+"Syrian Arab Republic","Munich",1972,0,0,0,0,0,0
+"Syrian Arab Republic","Rio de Janeiro",2016,0,0,0,0,0,0
+"Syrian Arab Republic","Roma",1960,0,0,0,1,1,2
+"Syrian Arab Republic","Seoul",1988,0,1,0,0,0,0
+"Syrian Arab Republic","Sydney",2000,0,0,0,0,0,0
+"Taiwan, Province of China","Albertville",1992,0,0,0,0,0,0
+"Taiwan, Province of China","Athina",2004,0,0,2,4,3,9
+"Taiwan, Province of China","Atlanta",1996,0,0,0,1,0,1
+"Taiwan, Province of China","Barcelona",1992,0,0,0,20,0,20
+"Taiwan, Province of China","Beijing",2008,0,1,0,0,4,4
+"Taiwan, Province of China","Calgary",1988,0,0,0,0,0,0
+"Taiwan, Province of China","Innsbruck",1976,0,0,0,0,0,0
+"Taiwan, Province of China","Lillehammer",1994,0,0,0,0,0,0
+"Taiwan, Province of China","London",2012,0,0,0,1,1,2
+"Taiwan, Province of China","Los Angeles",1984,0,0,0,0,1,1
+"Taiwan, Province of China","Melbourne",1956,0,0,0,0,0,0
+"Taiwan, Province of China","Mexico City",1968,0,0,0,0,1,1
+"Taiwan, Province of China","Munich",1972,0,0,0,0,0,0
+"Taiwan, Province of China","Nagano",1998,0,1,0,0,0,0
+"Taiwan, Province of China","Rio de Janeiro",2016,0,0,1,0,4,5
+"Taiwan, Province of China","Roma",1960,0,0,0,1,0,1
+"Taiwan, Province of China","Salt Lake City",2002,0,0,0,0,0,0
+"Taiwan, Province of China","Sapporo",1972,0,1,0,0,0,0
+"Taiwan, Province of China","Sarajevo",1984,0,0,0,0,0,0
+"Taiwan, Province of China","Seoul",1988,0,1,0,0,0,0
+"Taiwan, Province of China","Sochi",2014,0,0,0,0,0,0
+"Taiwan, Province of China","Sydney",2000,0,0,0,1,4,5
+"Taiwan, Province of China","Tokyo",1964,0,1,0,0,0,0
+"Taiwan, Province of China","Torino",2006,0,0,0,0,0,0
+"Taiwan, Province of China","Vancouver",2010,0,0,0,0,0,0
+"Tajikistan","Athina",2004,0,0,0,0,0,0
+"Tajikistan","Atlanta",1996,0,0,0,0,0,0
+"Tajikistan","Beijing",2008,0,1,0,1,1,2
+"Tajikistan","London",2012,0,0,0,0,1,1
+"Tajikistan","Rio de Janeiro",2016,0,0,1,0,0,1
+"Tajikistan","Salt Lake City",2002,0,0,0,0,0,0
+"Tajikistan","Sochi",2014,0,0,0,0,0,0
+"Tajikistan","Sydney",2000,0,0,0,0,0,0
+"Tajikistan","Torino",2006,0,0,0,0,0,0
+"Tajikistan","Vancouver",2010,0,0,0,0,0,0
+"Tanzania, United Republic of","Athina",2004,0,0,0,0,0,0
+"Tanzania, United Republic of","Atlanta",1996,0,0,0,0,0,0
+"Tanzania, United Republic of","Barcelona",1992,0,0,0,0,0,0
+"Tanzania, United Republic of","Beijing",2008,0,0,0,0,0,0
+"Tanzania, United Republic of","London",2012,0,0,0,0,0,0
+"Tanzania, United Republic of","Los Angeles",1984,0,0,0,0,0,0
+"Tanzania, United Republic of","Mexico City",1968,0,0,0,0,0,0
+"Tanzania, United Republic of","Moskva",1980,0,0,0,2,0,2
+"Tanzania, United Republic of","Munich",1972,0,0,0,0,0,0
+"Tanzania, United Republic of","Rio de Janeiro",2016,0,0,0,0,0,0
+"Tanzania, United Republic of","Seoul",1988,0,0,0,0,0,0
+"Tanzania, United Republic of","Sydney",2000,0,0,0,0,0,0
+"Tanzania, United Republic of","Tokyo",1964,0,0,0,0,0,0
+"Thailand","Athina",2004,0,0,3,1,4,8
+"Thailand","Atlanta",1996,0,0,1,0,1,2
+"Thailand","Barcelona",1992,0,0,0,0,1,1
+"Thailand","Beijing",2008,0,1,2,2,0,4
+"Thailand","Helsinki",1952,0,0,0,0,0,0
+"Thailand","London",2012,0,0,0,2,1,3
+"Thailand","Los Angeles",1984,0,0,0,1,0,1
+"Thailand","Melbourne",1956,0,0,0,0,0,0
+"Thailand","Mexico City",1968,0,0,0,0,0,0
+"Thailand","Montreal",1976,0,0,0,0,1,1
+"Thailand","Munich",1972,0,0,0,0,0,0
+"Thailand","Rio de Janeiro",2016,0,0,2,2,2,6
+"Thailand","Roma",1960,0,0,0,0,0,0
+"Thailand","Salt Lake City",2002,0,0,0,0,0,0
+"Thailand","Seoul",1988,0,1,0,0,1,1
+"Thailand","Sochi",2014,0,0,0,0,0,0
+"Thailand","Sydney",2000,0,0,1,0,2,3
+"Thailand","Tokyo",1964,0,1,0,0,0,0
+"Thailand","Torino",2006,0,0,0,0,0,0
+"Timor-Leste","Athina",2004,0,0,0,0,0,0
+"Timor-Leste","Beijing",2008,0,1,0,0,0,0
+"Timor-Leste","London",2012,0,0,0,0,0,0
+"Timor-Leste","Rio de Janeiro",2016,0,0,0,0,0,0
+"Timor-Leste","Sochi",2014,0,0,0,0,0,0
+"Togo","Athina",2004,0,0,0,0,0,0
+"Togo","Atlanta",1996,0,0,0,0,0,0
+"Togo","Barcelona",1992,0,0,0,0,0,0
+"Togo","Beijing",2008,0,0,0,0,1,1
+"Togo","London",2012,0,0,0,0,0,0
+"Togo","Los Angeles",1984,0,0,0,0,0,0
+"Togo","Munich",1972,0,0,0,0,0,0
+"Togo","Rio de Janeiro",2016,0,0,0,0,0,0
+"Togo","Seoul",1988,0,0,0,0,0,0
+"Togo","Sochi",2014,0,0,0,0,0,0
+"Togo","Sydney",2000,0,0,0,0,0,0
+"Tonga","Athina",2004,0,0,0,0,0,0
+"Tonga","Atlanta",1996,0,0,0,1,0,1
+"Tonga","Barcelona",1992,0,0,0,0,0,0
+"Tonga","Beijing",2008,0,0,0,0,0,0
+"Tonga","London",2012,0,0,0,0,0,0
+"Tonga","Los Angeles",1984,0,0,0,0,0,0
+"Tonga","Rio de Janeiro",2016,0,0,0,0,0,0
+"Tonga","Seoul",1988,0,0,0,0,0,0
+"Tonga","Sochi",2014,0,0,0,0,0,0
+"Tonga","Sydney",2000,0,1,0,0,0,0
+"Trinidad and Tobago","Athina",2004,0,0,0,0,1,1
+"Trinidad and Tobago","Atlanta",1996,0,1,0,0,2,2
+"Trinidad and Tobago","Barcelona",1992,0,0,0,0,0,0
+"Trinidad and Tobago","Beijing",2008,0,0,5,1,0,6
+"Trinidad and Tobago","Helsinki",1952,0,0,0,0,2,2
+"Trinidad and Tobago","Lillehammer",1994,0,0,0,0,0,0
+"Trinidad and Tobago","London",1948,0,0,0,1,0,1
+"Trinidad and Tobago","London",2012,0,0,1,4,5,10
+"Trinidad and Tobago","Los Angeles",1984,0,1,0,0,0,0
+"Trinidad and Tobago","Melbourne",1956,0,0,0,0,0,0
+"Trinidad and Tobago","Mexico City",1968,0,1,0,0,0,0
+"Trinidad and Tobago","Montreal",1976,0,1,1,0,0,1
+"Trinidad and Tobago","Moskva",1980,0,0,0,0,0,0
+"Trinidad and Tobago","Munich",1972,0,0,0,0,0,0
+"Trinidad and Tobago","Nagano",1998,0,0,0,0,0,0
+"Trinidad and Tobago","Rio de Janeiro",2016,0,1,0,0,1,1
+"Trinidad and Tobago","Roma",1960,0,0,0,0,5,5
+"Trinidad and Tobago","Salt Lake City",2002,0,1,0,0,0,0
+"Trinidad and Tobago","Seoul",1988,0,0,0,0,0,0
+"Trinidad and Tobago","Sydney",2000,0,0,0,1,1,2
+"Trinidad and Tobago","Tokyo",1964,0,0,0,1,5,6
+"Tunisia","Athina",2004,0,0,0,0,0,0
+"Tunisia","Atlanta",1996,0,0,0,0,1,1
+"Tunisia","Barcelona",1992,0,0,0,0,0,0
+"Tunisia","Beijing",2008,0,0,1,0,0,1
+"Tunisia","London",2012,0,0,1,1,1,3
+"Tunisia","Los Angeles",1984,0,0,0,0,0,0
+"Tunisia","Mexico City",1968,0,0,1,0,1,2
+"Tunisia","Montreal",1976,0,0,0,0,0,0
+"Tunisia","Munich",1972,0,0,0,1,0,1
+"Tunisia","Rio de Janeiro",2016,0,0,0,0,3,3
+"Tunisia","Roma",1960,0,0,0,0,0,0
+"Tunisia","Seoul",1988,0,0,0,0,0,0
+"Tunisia","Sydney",2000,0,0,0,0,0,0
+"Tunisia","Tokyo",1964,0,0,0,1,1,2
+"Turkey","Albertville",1992,0,0,0,0,0,0
+"Turkey","Amsterdam",1928,0,0,0,0,0,0
+"Turkey","Athina",2004,0,0,3,3,5,11
+"Turkey","Atlanta",1996,0,0,4,1,1,6
+"Turkey","Barcelona",1992,0,0,2,2,2,6
+"Turkey","Beijing",2008,0,1,1,3,3,7
+"Turkey","Berlin",1936,0,0,1,0,1,2
+"Turkey","Calgary",1988,0,0,0,0,0,0
+"Turkey","Cortina d'Ampezzo",1956,0,0,0,0,0,0
+"Turkey","Garmisch-Partenkirchen",1936,0,0,0,0,0,0
+"Turkey","Grenoble",1968,0,0,0,0,0,0
+"Turkey","Helsinki",1952,0,0,2,0,1,3
+"Turkey","Innsbruck",1964,0,0,0,0,0,0
+"Turkey","Innsbruck",1976,0,0,0,0,0,0
+"Turkey","Lillehammer",1994,0,0,0,0,0,0
+"Turkey","London",1948,0,0,6,4,2,12
+"Turkey","London",2012,0,0,2,2,1,5
+"Turkey","Los Angeles",1932,0,0,0,0,0,0
+"Turkey","Los Angeles",1984,0,0,0,0,3,3
+"Turkey","Melbourne",1956,0,0,3,2,2,7
+"Turkey","Mexico City",1968,0,0,2,0,0,2
+"Turkey","Montreal",1976,0,0,0,0,0,0
+"Turkey","Munich",1972,0,0,0,1,0,1
+"Turkey","Nagano",1998,0,1,0,0,0,0
+"Turkey","Paris",1924,0,0,0,0,0,0
+"Turkey","Rio de Janeiro",2016,0,0,1,3,4,8
+"Turkey","Roma",1960,0,0,7,2,0,9
+"Turkey","Salt Lake City",2002,0,0,0,0,0,0
+"Turkey","Sankt Moritz",1948,0,0,0,0,0,0
+"Turkey","Sarajevo",1984,0,0,0,0,0,0
+"Turkey","Seoul",1988,0,1,1,1,0,2
+"Turkey","Sochi",2014,0,0,0,0,0,0
+"Turkey","Squaw Valley",1960,0,0,0,0,0,0
+"Turkey","Stockholm",1912,0,0,0,0,0,0
+"Turkey","Stockholm",1956,0,0,0,0,0,0
+"Turkey","Sydney",2000,0,0,3,0,2,5
+"Turkey","Tokyo",1964,0,1,2,3,1,6
+"Turkey","Torino",2006,0,0,0,0,0,0
+"Turkey","Vancouver",2010,0,0,0,0,0,0
+"Turkmenistan","Athina",2004,0,0,0,0,0,0
+"Turkmenistan","Atlanta",1996,0,0,0,0,0,0
+"Turkmenistan","Beijing",2008,0,1,0,0,0,0
+"Turkmenistan","London",2012,0,0,0,0,0,0
+"Turkmenistan","Rio de Janeiro",2016,0,0,0,0,0,0
+"Turkmenistan","Sydney",2000,0,0,0,0,0,0
+"Uganda","Athina",2004,0,0,0,0,0,0
+"Uganda","Atlanta",1996,0,0,0,0,1,1
+"Uganda","Barcelona",1992,0,0,0,0,0,0
+"Uganda","Beijing",2008,0,0,0,0,0,0
+"Uganda","London",2012,0,0,1,0,0,1
+"Uganda","Los Angeles",1984,0,0,0,0,0,0
+"Uganda","Melbourne",1956,0,0,0,0,0,0
+"Uganda","Mexico City",1968,0,0,0,1,1,2
+"Uganda","Moskva",1980,0,0,0,1,0,1
+"Uganda","Munich",1972,0,0,1,1,0,2
+"Uganda","Rio de Janeiro",2016,0,0,0,0,0,0
+"Uganda","Roma",1960,0,0,0,0,0,0
+"Uganda","Seoul",1988,0,0,0,0,0,0
+"Uganda","Sydney",2000,0,0,0,0,0,0
+"Uganda","Tokyo",1964,0,0,0,0,0,0
+"Ukraine","Athina",2004,0,1,8,8,31,47
+"Ukraine","Atlanta",1996,0,0,10,5,19,34
+"Ukraine","Beijing",2008,0,0,10,5,16,31
+"Ukraine","Lillehammer",1994,0,1,1,0,1,2
+"Ukraine","London",2012,0,1,9,5,12,26
+"Ukraine","Nagano",1998,0,0,0,1,0,1
+"Ukraine","Rio de Janeiro",2016,0,0,2,8,5,15
+"Ukraine","Salt Lake City",2002,0,0,0,0,0,0
+"Ukraine","Sochi",2014,0,1,4,0,1,5
+"Ukraine","Sydney",2000,0,0,3,20,12,35
+"Ukraine","Torino",2006,0,1,0,0,3,3
+"Ukraine","Vancouver",2010,0,0,0,0,0,0
+"United Arab Emirates","Athina",2004,0,0,1,0,0,1
+"United Arab Emirates","Atlanta",1996,0,0,0,0,0,0
+"United Arab Emirates","Barcelona",1992,0,0,0,0,0,0
+"United Arab Emirates","Beijing",2008,0,1,0,0,0,0
+"United Arab Emirates","London",2012,0,0,0,0,0,0
+"United Arab Emirates","Los Angeles",1984,0,0,0,0,0,0
+"United Arab Emirates","Rio de Janeiro",2016,0,0,0,0,1,1
+"United Arab Emirates","Seoul",1988,0,1,0,0,0,0
+"United Arab Emirates","Sydney",2000,0,0,0,0,0,0
+"United Kingdom of Great Britain and Northern Ireland","Albertville",1992,0,1,0,0,0,0
+"United Kingdom of Great Britain and Northern Ireland","Amsterdam",1928,0,1,7,27,24,58
+"United Kingdom of Great Britain and Northern Ireland","Antwerpen",1920,0,1,52,42,17,111
+"United Kingdom of Great Britain and Northern Ireland","Athina",1896,0,1,3,3,3,9
+"United Kingdom of Great Britain and Northern Ireland","Athina",2004,0,1,17,25,15,57
+"United Kingdom of Great Britain and Northern Ireland","Atlanta",1996,0,0,2,15,9,26
+"United Kingdom of Great Britain and Northern Ireland","Barcelona",1992,0,1,8,3,39,50
+"United Kingdom of Great Britain and Northern Ireland","Beijing",2008,0,0,31,25,25,81
+"United Kingdom of Great Britain and Northern Ireland","Berlin",1936,0,1,12,16,8,36
+"United Kingdom of Great Britain and Northern Ireland","Calgary",1988,0,0,0,0,0,0
+"United Kingdom of Great Britain and Northern Ireland","Chamonix",1924,0,1,16,4,11,31
+"United Kingdom of Great Britain and Northern Ireland","Cortina d'Ampezzo",1956,0,1,0,0,0,0
+"United Kingdom of Great Britain and Northern Ireland","Garmisch-Partenkirchen",1936,0,1,12,1,4,17
+"United Kingdom of Great Britain and Northern Ireland","Grenoble",1968,0,1,0,0,0,0
+"United Kingdom of Great Britain and Northern Ireland","Helsinki",1952,0,1,3,2,26,31
+"United Kingdom of Great Britain and Northern Ireland","Innsbruck",1964,0,1,2,0,0,2
+"United Kingdom of Great Britain and Northern Ireland","Innsbruck",1976,0,1,1,0,0,1
+"United Kingdom of Great Britain and Northern Ireland","Lake Placid",1932,0,0,0,0,0,0
+"United Kingdom of Great Britain and Northern Ireland","Lake Placid",1980,0,0,1,0,0,1
+"United Kingdom of Great Britain and Northern Ireland","Lillehammer",1994,0,1,0,0,3,3
+"United Kingdom of Great Britain and Northern Ireland","London",1908,0,1,147,131,90,368
+"United Kingdom of Great Britain and Northern Ireland","London",1948,0,1,7,42,12,61
+"United Kingdom of Great Britain and Northern Ireland","London",2012,0,1,48,30,48,126
+"United Kingdom of Great Britain and Northern Ireland","Los Angeles",1932,0,0,9,12,14,35
+"United Kingdom of Great Britain and Northern Ireland","Los Angeles",1984,0,0,9,20,42,71
+"United Kingdom of Great Britain and Northern Ireland","Melbourne",1956,0,0,5,16,18,39
+"United Kingdom of Great Britain and Northern Ireland","Mexico City",1968,0,0,9,5,5,19
+"United Kingdom of Great Britain and Northern Ireland","Montreal",1976,0,0,6,15,11,32
+"United Kingdom of Great Britain and Northern Ireland","Moskva",1980,0,1,5,18,24,47
+"United Kingdom of Great Britain and Northern Ireland","Munich",1972,0,1,8,9,12,29
+"United Kingdom of Great Britain and Northern Ireland","Nagano",1998,0,0,0,0,4,4
+"United Kingdom of Great Britain and Northern Ireland","Oslo",1952,0,1,1,0,0,1
+"United Kingdom of Great Britain and Northern Ireland","Paris",1900,0,1,59,34,15,108
+"United Kingdom of Great Britain and Northern Ireland","Paris",1924,0,1,15,30,19,64
+"United Kingdom of Great Britain and Northern Ireland","Rio de Janeiro",2016,0,0,64,55,26,145
+"United Kingdom of Great Britain and Northern Ireland","Roma",1960,0,1,2,11,15,28
+"United Kingdom of Great Britain and Northern Ireland","Salt Lake City",2002,0,0,5,0,1,6
+"United Kingdom of Great Britain and Northern Ireland","Sankt Moritz",1928,0,1,0,0,1,1
+"United Kingdom of Great Britain and Northern Ireland","Sankt Moritz",1948,0,1,0,0,2,2
+"United Kingdom of Great Britain and Northern Ireland","Sapporo",1972,0,0,0,0,0,0
+"United Kingdom of Great Britain and Northern Ireland","Sarajevo",1984,0,1,2,0,0,2
+"United Kingdom of Great Britain and Northern Ireland","Seoul",1988,0,0,22,17,15,54
+"United Kingdom of Great Britain and Northern Ireland","Sochi",2014,0,1,1,4,5,10
+"United Kingdom of Great Britain and Northern Ireland","Squaw Valley",1960,0,0,0,0,0,0
+"United Kingdom of Great Britain and Northern Ireland","St. Louis",1904,0,0,1,1,0,2
+"United Kingdom of Great Britain and Northern Ireland","Stockholm",1912,0,1,47,64,59,170
+"United Kingdom of Great Britain and Northern Ireland","Stockholm",1956,0,1,3,0,4,7
+"United Kingdom of Great Britain and Northern Ireland","Sydney",2000,0,0,22,20,12,54
+"United Kingdom of Great Britain and Northern Ireland","Tokyo",1964,0,0,4,19,5,28
+"United Kingdom of Great Britain and Northern Ireland","Torino",2006,0,1,0,1,0,1
+"United Kingdom of Great Britain and Northern Ireland","Vancouver",2010,0,0,1,0,0,1
+"United States of America","Albertville",1992,0,0,5,7,2,14
+"United States of America","Amsterdam",1928,0,0,47,24,17,88
+"United States of America","Antwerpen",1920,0,0,111,45,38,194
+"United States of America","Athina",1896,0,0,11,7,2,20
+"United States of America","Athina",2004,0,0,117,75,71,263
+"United States of America","Atlanta",1996,0,1,159,48,52,259
+"United States of America","Barcelona",1992,0,0,89,50,85,224
+"United States of America","Beijing",2008,0,0,127,110,80,317
+"United States of America","Berlin",1936,0,0,51,29,16,96
+"United States of America","Calgary",1988,0,1,2,1,4,7
+"United States of America","Chamonix",1924,0,0,1,10,1,12
+"United States of America","Cortina d'Ampezzo",1956,0,0,2,19,5,26
+"United States of America","Garmisch-Partenkirchen",1936,0,0,2,0,14,16
+"United States of America","Grenoble",1968,0,0,1,5,1,7
+"United States of America","Helsinki",1952,0,0,83,23,28,134
+"United States of America","Innsbruck",1964,0,0,1,2,5,8
+"United States of America","Innsbruck",1976,0,0,3,3,5,11
+"United States of America","Lake Placid",1932,0,1,10,21,3,34
+"United States of America","Lake Placid",1980,0,1,24,4,2,30
+"United States of America","Lillehammer",1994,0,0,6,8,5,19
+"United States of America","London",1908,0,0,34,16,15,65
+"United States of America","London",1948,0,0,87,30,35,152
+"United States of America","London",2012,0,0,145,57,46,248
+"United States of America","Los Angeles",1932,0,1,81,47,61,189
+"United States of America","Los Angeles",1984,0,1,186,116,50,352
+"United States of America","Melbourne",1956,0,0,61,42,20,123
+"United States of America","Mexico City",1968,0,1,99,32,35,166
+"United States of America","Montreal",1976,0,1,70,58,36,164
+"United States of America","Munich",1972,0,0,69,59,43,171
+"United States of America","Nagano",1998,0,0,25,4,5,34
+"United States of America","Oslo",1952,0,0,4,25,1,30
+"United States of America","Paris",1900,0,0,30,16,17,63
+"United States of America","Paris",1924,0,0,97,36,49,182
+"United States of America","Rio de Janeiro",2016,0,1,139,54,71,264
+"United States of America","Roma",1960,0,0,81,23,21,125
+"United States of America","Salt Lake City",2002,0,1,11,58,15,84
+"United States of America","Sankt Moritz",1928,0,0,6,6,2,14
+"United States of America","Sankt Moritz",1948,0,0,6,4,6,16
+"United States of America","Sapporo",1972,0,0,3,18,3,24
+"United States of America","Sarajevo",1984,0,0,4,5,0,9
+"United States of America","Seoul",1988,0,0,87,66,54,207
+"United States of America","Sochi",2014,0,0,10,30,24,64
+"United States of America","Squaw Valley",1960,0,1,19,4,4,27
+"United States of America","St. Louis",1904,0,1,128,141,125,394
+"United States of America","Stockholm",1912,0,0,46,25,36,107
+"United States of America","Stockholm",1956,0,0,0,0,0,0
+"United States of America","Sydney",2000,0,0,130,61,51,242
+"United States of America","Tokyo",1964,0,0,95,37,37,169
+"United States of America","Torino",2006,0,0,9,11,32,52
+"United States of America","Vancouver",2010,0,1,12,63,22,97
+"Uruguay","Amsterdam",1928,0,0,17,0,0,17
+"Uruguay","Athina",2004,0,0,0,0,0,0
+"Uruguay","Atlanta",1996,0,1,0,0,0,0
+"Uruguay","Barcelona",1992,0,0,0,0,0,0
+"Uruguay","Beijing",2008,0,0,0,0,0,0
+"Uruguay","Berlin",1936,0,0,0,0,0,0
+"Uruguay","Helsinki",1952,0,0,0,0,14,14
+"Uruguay","London",1948,0,0,0,1,2,3
+"Uruguay","London",2012,0,0,0,0,0,0
+"Uruguay","Los Angeles",1932,0,1,0,0,1,1
+"Uruguay","Los Angeles",1984,0,1,0,0,0,0
+"Uruguay","Melbourne",1956,0,0,0,0,12,12
+"Uruguay","Mexico City",1968,0,1,0,0,0,0
+"Uruguay","Montreal",1976,0,1,0,0,0,0
+"Uruguay","Munich",1972,0,0,0,0,0,0
+"Uruguay","Nagano",1998,0,0,0,0,0,0
+"Uruguay","Paris",1924,0,0,14,0,0,14
+"Uruguay","Rio de Janeiro",2016,0,1,0,0,0,0
+"Uruguay","Roma",1960,0,0,0,0,0,0
+"Uruguay","Seoul",1988,0,0,0,0,0,0
+"Uruguay","Sydney",2000,0,0,0,1,0,1
+"Uruguay","Tokyo",1964,0,0,0,0,1,1
+"Uzbekistan","Athina",2004,0,0,2,1,2,5
+"Uzbekistan","Atlanta",1996,0,0,0,1,1,2
+"Uzbekistan","Beijing",2008,0,1,1,2,3,6
+"Uzbekistan","Lillehammer",1994,0,0,1,0,0,1
+"Uzbekistan","London",2012,0,0,1,0,2,3
+"Uzbekistan","Nagano",1998,0,1,0,0,0,0
+"Uzbekistan","Rio de Janeiro",2016,0,0,4,2,7,13
+"Uzbekistan","Salt Lake City",2002,0,0,0,0,0,0
+"Uzbekistan","Sochi",2014,0,0,0,0,0,0
+"Uzbekistan","Sydney",2000,0,0,1,1,2,4
+"Uzbekistan","Torino",2006,0,0,0,0,0,0
+"Uzbekistan","Vancouver",2010,0,0,0,0,0,0
+"Vanuatu","Athina",2004,0,0,0,0,0,0
+"Vanuatu","Atlanta",1996,0,0,0,0,0,0
+"Vanuatu","Barcelona",1992,0,0,0,0,0,0
+"Vanuatu","Beijing",2008,0,0,0,0,0,0
+"Vanuatu","London",2012,0,0,0,0,0,0
+"Vanuatu","Rio de Janeiro",2016,0,0,0,0,0,0
+"Vanuatu","Seoul",1988,0,0,0,0,0,0
+"Vanuatu","Sydney",2000,0,1,0,0,0,0
+"Venezuela (Bolivarian Republic of)","Athina",2004,0,0,0,0,2,2
+"Venezuela (Bolivarian Republic of)","Atlanta",1996,0,1,0,0,0,0
+"Venezuela (Bolivarian Republic of)","Barcelona",1992,0,0,0,0,0,0
+"Venezuela (Bolivarian Republic of)","Beijing",2008,0,0,0,0,1,1
+"Venezuela (Bolivarian Republic of)","Helsinki",1952,0,0,0,0,1,1
+"Venezuela (Bolivarian Republic of)","London",1948,0,0,0,0,0,0
+"Venezuela (Bolivarian Republic of)","London",2012,0,0,1,0,0,1
+"Venezuela (Bolivarian Republic of)","Los Angeles",1932,0,1,0,0,0,0
+"Venezuela (Bolivarian Republic of)","Los Angeles",1984,0,1,0,0,3,3
+"Venezuela (Bolivarian Republic of)","Melbourne",1956,0,0,0,0,0,0
+"Venezuela (Bolivarian Republic of)","Mexico City",1968,0,1,1,0,0,1
+"Venezuela (Bolivarian Republic of)","Montreal",1976,0,1,0,1,0,1
+"Venezuela (Bolivarian Republic of)","Moskva",1980,0,0,0,1,0,1
+"Venezuela (Bolivarian Republic of)","Munich",1972,0,0,0,0,0,0
+"Venezuela (Bolivarian Republic of)","Nagano",1998,0,0,0,0,0,0
+"Venezuela (Bolivarian Republic of)","Rio de Janeiro",2016,0,1,0,1,2,3
+"Venezuela (Bolivarian Republic of)","Roma",1960,0,0,0,0,1,1
+"Venezuela (Bolivarian Republic of)","Salt Lake City",2002,0,1,0,0,0,0
+"Venezuela (Bolivarian Republic of)","Seoul",1988,0,0,0,0,0,0
+"Venezuela (Bolivarian Republic of)","Sochi",2014,0,0,0,0,0,0
+"Venezuela (Bolivarian Republic of)","Stockholm",1956,0,0,0,0,0,0
+"Venezuela (Bolivarian Republic of)","Sydney",2000,0,0,0,0,0,0
+"Venezuela (Bolivarian Republic of)","Tokyo",1964,0,0,0,0,0,0
+"Venezuela (Bolivarian Republic of)","Torino",2006,0,0,0,0,0,0
+"Viet Nam","Athina",2004,0,0,0,0,0,0
+"Viet Nam","Atlanta",1996,0,0,0,0,0,0
+"Viet Nam","Barcelona",1992,0,0,0,0,0,0
+"Viet Nam","Beijing",2008,0,1,0,1,0,1
+"Viet Nam","Helsinki",1952,0,0,0,0,0,0
+"Viet Nam","London",2012,0,0,0,0,0,0
+"Viet Nam","Melbourne",1956,0,0,0,0,0,0
+"Viet Nam","Mexico City",1968,0,0,0,0,0,0
+"Viet Nam","Moskva",1980,0,0,0,0,0,0
+"Viet Nam","Munich",1972,0,0,0,0,0,0
+"Viet Nam","Rio de Janeiro",2016,0,0,1,1,0,2
+"Viet Nam","Roma",1960,0,0,0,0,0,0
+"Viet Nam","Seoul",1988,0,1,0,0,0,0
+"Viet Nam","Sydney",2000,0,0,0,1,0,1
+"Viet Nam","Tokyo",1964,0,1,0,0,0,0
+"Virgin Islands (U.S.)","Albertville",1992,0,0,0,0,0,0
+"Virgin Islands (U.S.)","Athina",2004,0,0,0,0,0,0
+"Virgin Islands (U.S.)","Atlanta",1996,0,1,0,0,0,0
+"Virgin Islands (U.S.)","Barcelona",1992,0,0,0,0,0,0
+"Virgin Islands (U.S.)","Beijing",2008,0,0,0,0,0,0
+"Virgin Islands (U.S.)","Calgary",1988,0,1,0,0,0,0
+"Virgin Islands (U.S.)","Lillehammer",1994,0,0,0,0,0,0
+"Virgin Islands (U.S.)","London",2012,0,0,0,0,0,0
+"Virgin Islands (U.S.)","Los Angeles",1984,0,1,0,0,0,0
+"Virgin Islands (U.S.)","Mexico City",1968,0,1,0,0,0,0
+"Virgin Islands (U.S.)","Montreal",1976,0,1,0,0,0,0
+"Virgin Islands (U.S.)","Munich",1972,0,0,0,0,0,0
+"Virgin Islands (U.S.)","Nagano",1998,0,0,0,0,0,0
+"Virgin Islands (U.S.)","Rio de Janeiro",2016,0,1,0,0,0,0
+"Virgin Islands (U.S.)","Salt Lake City",2002,0,1,0,0,0,0
+"Virgin Islands (U.S.)","Sarajevo",1984,0,0,0,0,0,0
+"Virgin Islands (U.S.)","Seoul",1988,0,0,0,1,0,1
+"Virgin Islands (U.S.)","Sochi",2014,0,0,0,0,0,0
+"Virgin Islands (U.S.)","Sydney",2000,0,0,0,0,0,0
+"Yemen","Athina",2004,0,0,0,0,0,0
+"Yemen","Atlanta",1996,0,0,0,0,0,0
+"Yemen","Barcelona",1992,0,0,0,0,0,0
+"Yemen","Beijing",2008,0,1,0,0,0,0
+"Yemen","London",2012,0,0,0,0,0,0
+"Yemen","Los Angeles",1984,0,0,0,0,0,0
+"Yemen","Rio de Janeiro",2016,0,0,0,0,0,0
+"Yemen","Seoul",1988,0,1,0,0,0,0
+"Yemen","Sydney",2000,0,0,0,0,0,0
+"Zambia","Athina",2004,0,0,0,0,0,0
+"Zambia","Atlanta",1996,0,0,0,1,0,1
+"Zambia","Barcelona",1992,0,0,0,0,0,0
+"Zambia","Beijing",2008,0,0,0,0,0,0
+"Zambia","London",2012,0,0,0,0,0,0
+"Zambia","Los Angeles",1984,0,0,0,0,1,1
+"Zambia","Mexico City",1968,0,0,0,0,0,0
+"Zambia","Moskva",1980,0,0,0,0,0,0
+"Zambia","Munich",1972,0,0,0,0,0,0
+"Zambia","Rio de Janeiro",2016,0,0,0,0,0,0
+"Zambia","Seoul",1988,0,0,0,0,0,0
+"Zambia","Sydney",2000,0,0,0,0,0,0
+"Zambia","Tokyo",1964,0,0,0,0,0,0
+"Zimbabwe","Amsterdam",1928,0,0,0,0,0,0
+"Zimbabwe","Athina",2004,0,0,1,1,1,3
+"Zimbabwe","Atlanta",1996,0,0,0,0,0,0
+"Zimbabwe","Barcelona",1992,0,0,0,0,0,0
+"Zimbabwe","Beijing",2008,0,0,1,3,0,4
+"Zimbabwe","London",2012,0,0,0,0,0,0
+"Zimbabwe","Los Angeles",1984,0,0,0,0,0,0
+"Zimbabwe","Moskva",1980,0,0,15,0,0,15
+"Zimbabwe","Rio de Janeiro",2016,0,0,0,0,0,0
+"Zimbabwe","Roma",1960,0,0,0,0,0,0
+"Zimbabwe","Seoul",1988,0,0,0,0,0,0
+"Zimbabwe","Sochi",2014,0,0,0,0,0,0
+"Zimbabwe","Sydney",2000,0,0,0,0,0,0
+"Zimbabwe","Tokyo",1964,0,0,0,0,0,0
