@@ -425,7 +425,26 @@ cor(x=df_continente$sedeContinente, y=df_continente$T_Medal, method = "kendall")
 seleccion <- "Spain" # cambiar el país para comparar
 df_seleccion <- df_pais[df_pais$country %in% list(seleccion, "United States of America", "Russian Federation"),] 
 ggplot(df_seleccion, aes(Year, T_Medal, colour = country)) + 
-  geom_point()
+  <<<<<<< HEAD
+geom_point() +
+  xlab("Juegos Olimpicos") + 
+  ylab("Medallas obtenidas") +
+  labs(colour="Paises") +
+  theme_light()
+
+# Visualizamos los mismos resultados pero con ejes ortogonales para verlo de forma más intuitiva
+# e incluyendo el estadístico densidad
+seleccion <- list("Spain", "France", "Germany", "United States of America", "Russian Federation") 
+df_seleccion <- df_pais[df_pais$country %in% seleccion,] 
+ggplot(df_seleccion, aes(Year, T_Medal, colour = country)) + 
+  geom_point()+
+  geom_density2d() +
+  facet_grid(df_seleccion$country~.) +
+  xlab("Juegos Olimpicos") + 
+  ylab("Medallas obtenidas") +
+  labs(colour="Paises") +
+  theme_light() + 
+  theme(legend.position="bottom")
 
 ## ----------------------------------------------------------------------------------
 ##                       EXPORTACIÓN DE LOS DATOS A CSV
