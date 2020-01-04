@@ -1,0 +1,247 @@
+"continent","City","Year","sedeContinente","T_Gold","T_Silver","T_Bronze","T_Medal"
+"Africa","Albertville",1992,0,0,0,0,0
+"Africa","Amsterdam",1928,0,3,1,6,10
+"Africa","Antwerpen",1920,0,3,12,6,21
+"Africa","Athina",2004,0,12,13,20,45
+"Africa","Atlanta",1996,0,26,12,14,52
+"Africa","Barcelona",1992,0,5,17,30,52
+"Africa","Beijing",2008,0,13,28,19,60
+"Africa","Berlin",1936,0,2,2,2,6
+"Africa","Calgary",1988,0,0,0,0,0
+"Africa","Grenoble",1968,0,0,0,0,0
+"Africa","Helsinki",1952,0,2,8,5,15
+"Africa","Lillehammer",1994,0,0,0,0,0
+"Africa","London",1908,0,1,1,0,2
+"Africa","London",1948,0,4,4,3,11
+"Africa","London",2012,0,14,12,11,37
+"Africa","Los Angeles",1932,0,2,0,3,5
+"Africa","Los Angeles",1984,0,3,3,10,16
+"Africa","Melbourne",1956,0,0,0,7,7
+"Africa","Mexico City",1968,0,5,10,4,19
+"Africa","Montreal",1976,0,0,0,0,0
+"Africa","Moskva",1980,0,17,3,2,22
+"Africa","Munich",1972,0,6,5,9,20
+"Africa","Nagano",1998,0,0,0,0,0
+"Africa","Paris",1924,0,1,1,1,3
+"Africa","Rio de Janeiro",2016,0,10,19,46,75
+"Africa","Roma",1960,0,1,3,2,6
+"Africa","Salt Lake City",2002,0,0,0,0,0
+"Africa","Sarajevo",1984,0,0,0,0,0
+"Africa","Seoul",1988,0,6,3,5,14
+"Africa","Sochi",2014,0,0,0,0,0
+"Africa","Squaw Valley",1960,0,0,0,0,0
+"Africa","St. Louis",1904,0,0,0,0,0
+"Africa","Stockholm",1912,0,5,2,0,7
+"Africa","Stockholm",1956,0,0,0,0,0
+"Africa","Sydney",2000,0,32,10,15,57
+"Africa","Tokyo",1964,0,1,1,4,6
+"Africa","Torino",2006,0,0,0,0,0
+"Africa","Vancouver",2010,0,0,0,0,0
+"Americas","Albertville",1992,0,10,35,5,50
+"Americas","Amsterdam",1928,0,74,49,43,166
+"Americas","Antwerpen",1920,0,122,49,46,217
+"Americas","Athina",1896,0,11,7,2,20
+"Americas","Athina",2004,0,209,133,135,477
+"Americas","Atlanta",1996,1,212,128,134,474
+"Americas","Barcelona",1992,0,171,74,118,363
+"Americas","Beijing",2008,0,188,205,174,567
+"Americas","Berlin",1936,0,57,43,45,145
+"Americas","Calgary",1988,1,2,3,8,13
+"Americas","Chamonix",1924,0,10,10,1,21
+"Americas","Cortina d'Ampezzo",1956,0,2,21,23,46
+"Americas","Garmisch-Partenkirchen",1936,0,2,13,14,29
+"Americas","Grenoble",1968,0,2,6,19,27
+"Americas","Helsinki",1952,0,92,36,49,177
+"Americas","Innsbruck",1964,0,5,4,6,15
+"Americas","Innsbruck",1976,0,4,4,6,14
+"Americas","Lake Placid",1932,1,24,22,8,54
+"Americas","Lake Placid",1980,1,24,5,3,32
+"Americas","Lillehammer",1994,0,9,37,10,56
+"Americas","London",1908,0,48,24,45,117
+"Americas","London",1948,0,96,46,60,202
+"Americas","London",2012,0,199,154,120,473
+"Americas","Los Angeles",1932,1,86,63,86,235
+"Americas","Los Angeles",1984,1,208,196,92,496
+"Americas","Melbourne",1956,0,68,54,40,162
+"Americas","Mexico City",1968,1,106,50,47,203
+"Americas","Montreal",1976,1,79,73,70,222
+"Americas","Moskva",1980,0,12,9,23,44
+"Americas","Munich",1972,0,72,65,75,212
+"Americas","Nagano",1998,0,39,32,12,83
+"Americas","Oslo",1952,0,20,25,2,47
+"Americas","Paris",1900,0,33,18,21,72
+"Americas","Paris",1924,0,116,58,57,231
+"Americas","Rio de Janeiro",2016,1,221,93,158,472
+"Americas","Roma",1960,0,81,35,42,158
+"Americas","Salt Lake City",2002,1,63,65,30,158
+"Americas","Sankt Moritz",1928,0,18,6,2,26
+"Americas","Sankt Moritz",1948,0,19,4,8,31
+"Americas","Sapporo",1972,0,3,19,3,25
+"Americas","Sarajevo",1984,0,6,6,1,13
+"Americas","Seoul",1988,0,93,112,88,293
+"Americas","Sochi",2014,0,69,52,29,150
+"Americas","Squaw Valley",1960,1,22,21,5,48
+"Americas","St. Louis",1904,1,160,150,137,447
+"Americas","Stockholm",1912,0,49,27,39,115
+"Americas","Stockholm",1956,0,0,0,3,3
+"Americas","Sydney",2000,0,160,153,157,470
+"Americas","Tokyo",1964,0,99,42,57,198
+"Americas","Torino",2006,0,39,39,43,121
+"Americas","Vancouver",2010,1,79,78,30,187
+"Antarctica","Athina",2004,0,0,0,0,0
+"Antarctica","Atlanta",1996,0,0,0,0,0
+"Antarctica","Barcelona",1992,0,0,0,0,0
+"Antarctica","Beijing",2008,0,0,0,0,0
+"Antarctica","London",2012,0,0,0,0,0
+"Antarctica","Los Angeles",1984,0,0,0,0,0
+"Antarctica","Montreal",1976,0,0,0,0,0
+"Antarctica","Rio de Janeiro",2016,0,0,0,0,0
+"Antarctica","Seoul",1988,0,0,0,0,0
+"Antarctica","Sydney",2000,0,0,0,0,0
+"Asia","Albertville",1992,0,8,6,9,23
+"Asia","Amsterdam",1928,0,16,6,2,24
+"Asia","Antwerpen",1920,0,0,3,0,3
+"Asia","Athina",2004,0,106,100,107,313
+"Asia","Atlanta",1996,0,48,160,56,264
+"Asia","Barcelona",1992,0,57,85,106,248
+"Asia","Beijing",2008,1,156,104,139,399
+"Asia","Berlin",1936,0,29,4,12,45
+"Asia","Calgary",1988,0,0,0,1,1
+"Asia","Chamonix",1924,0,8,0,0,8
+"Asia","Cortina d'Ampezzo",1956,0,0,1,0,1
+"Asia","Garmisch-Partenkirchen",1936,0,0,0,0,0
+"Asia","Grenoble",1968,0,0,0,0,0
+"Asia","Helsinki",1952,0,17,13,11,41
+"Asia","Innsbruck",1964,0,0,1,0,1
+"Asia","Innsbruck",1976,0,0,0,0,0
+"Asia","Lake Placid",1932,0,0,0,0,0
+"Asia","Lake Placid",1980,0,0,1,0,1
+"Asia","Lillehammer",1994,0,12,9,5,26
+"Asia","London",1948,0,26,5,5,36
+"Asia","London",2012,0,102,121,142,365
+"Asia","Los Angeles",1932,0,25,17,7,49
+"Asia","Los Angeles",1984,0,56,51,79,186
+"Asia","Melbourne",1956,0,26,34,9,69
+"Asia","Mexico City",1968,0,33,28,45,106
+"Asia","Montreal",1976,0,27,10,43,80
+"Asia","Moskva",1980,0,16,5,5,26
+"Asia","Munich",1972,0,30,41,36,107
+"Asia","Nagano",1998,1,14,14,13,41
+"Asia","Oslo",1952,0,0,0,0,0
+"Asia","Paris",1900,0,0,2,0,2
+"Asia","Paris",1924,0,0,0,1,1
+"Asia","Rio de Janeiro",2016,0,103,88,134,325
+"Asia","Roma",1960,0,29,29,18,76
+"Asia","Salt Lake City",2002,0,7,8,10,25
+"Asia","Sankt Moritz",1928,0,0,0,0,0
+"Asia","Sankt Moritz",1948,0,0,0,0,0
+"Asia","Sapporo",1972,1,1,1,1,3
+"Asia","Sarajevo",1984,0,0,1,0,1
+"Asia","Seoul",1988,1,39,61,59,159
+"Asia","Sochi",2014,0,11,13,14,38
+"Asia","Squaw Valley",1960,0,0,0,0,0
+"Asia","Stockholm",1912,0,0,0,0,0
+"Asia","Stockholm",1956,0,0,0,0,0
+"Asia","Sydney",2000,0,71,94,90,255
+"Asia","Tokyo",1964,1,49,27,29,105
+"Asia","Torino",2006,0,17,8,8,33
+"Asia","Vancouver",2010,0,15,19,11,45
+"Europe","Albertville",1992,1,51,56,78,185
+"Europe","Amsterdam",1928,1,150,181,198,529
+"Europe","Antwerpen",1920,1,368,378,313,1059
+"Europe","Athina",1896,1,49,36,35,120
+"Europe","Athina",2004,1,284,335,384,1003
+"Europe","Atlanta",1996,0,287,286,337,910
+"Europe","Barcelona",1992,1,219,275,260,754
+"Europe","Beijing",2008,0,279,286,293,858
+"Europe","Berlin",1936,1,223,261,235,719
+"Europe","Calgary",1988,0,85,85,79,249
+"Europe","Chamonix",1924,1,36,28,36,100
+"Europe","Cortina d'Ampezzo",1956,1,49,27,27,103
+"Europe","Garmisch-Partenkirchen",1936,1,34,24,21,79
+"Europe","Grenoble",1968,1,64,64,44,172
+"Europe","Helsinki",1952,1,187,232,222,641
+"Europe","Innsbruck",1964,1,56,62,52,170
+"Europe","Innsbruck",1976,1,66,67,64,197
+"Europe","Lake Placid",1932,0,8,10,20,38
+"Europe","Lake Placid",1980,0,48,67,70,185
+"Europe","Lillehammer",1994,1,89,63,93,245
+"Europe","London",1908,1,230,254,209,693
+"Europe","London",1948,1,161,220,206,587
+"Europe","London",2012,1,290,303,332,925
+"Europe","Los Angeles",1932,0,113,131,107,351
+"Europe","Los Angeles",1984,0,207,212,284,703
+"Europe","Melbourne",1956,0,165,180,204,549
+"Europe","Mexico City",1968,0,205,217,249,671
+"Europe","Montreal",1976,0,317,335,318,970
+"Europe","Moskva",1980,1,406,439,434,1279
+"Europe","Munich",1972,1,276,270,296,842
+"Europe","Nagano",1998,0,92,99,124,315
+"Europe","Oslo",1952,1,25,19,45,89
+"Europe","Paris",1900,1,164,208,151,523
+"Europe","Paris",1924,1,157,217,212,586
+"Europe","Rio de Janeiro",2016,0,288,396,334,1018
+"Europe","Roma",1960,1,185,203,234,622
+"Europe","Salt Lake City",2002,0,90,84,119,293
+"Europe","Sankt Moritz",1928,1,12,22,29,63
+"Europe","Sankt Moritz",1948,1,22,44,38,104
+"Europe","Sapporo",1972,0,66,43,62,171
+"Europe","Sarajevo",1984,1,68,67,73,208
+"Europe","Seoul",1988,0,360,327,370,1057
+"Europe","Sochi",2014,1,122,130,154,406
+"Europe","Squaw Valley",1960,0,28,27,44,99
+"Europe","St. Louis",1904,0,13,10,12,35
+"Europe","Stockholm",1912,1,267,284,258,809
+"Europe","Stockholm",1956,1,12,12,9,33
+"Europe","Sydney",2000,0,339,335,361,1035
+"Europe","Tokyo",1964,0,186,263,221,670
+"Europe","Torino",2006,1,119,128,123,370
+"Europe","Vancouver",2010,0,78,77,130,285
+"Oceania","Albertville",1992,0,0,1,0,1
+"Oceania","Amsterdam",1928,0,2,2,1,5
+"Oceania","Antwerpen",1920,0,0,6,2,8
+"Oceania","Athina",1896,0,2,0,1,3
+"Oceania","Athina",2004,0,53,79,31,163
+"Oceania","Atlanta",1996,0,35,19,88,142
+"Oceania","Barcelona",1992,0,15,36,21,72
+"Oceania","Beijing",2008,0,35,44,85,164
+"Oceania","Berlin",1936,0,1,0,1,2
+"Oceania","Calgary",1988,0,0,0,0,0
+"Oceania","Chamonix",1924,0,1,0,0,1
+"Oceania","Cortina d'Ampezzo",1956,0,0,0,0,0
+"Oceania","Garmisch-Partenkirchen",1936,0,0,0,0,0
+"Oceania","Grenoble",1968,0,0,0,0,0
+"Oceania","Helsinki",1952,0,8,2,13,23
+"Oceania","Innsbruck",1964,0,0,0,0,0
+"Oceania","Innsbruck",1976,0,0,0,0,0
+"Oceania","Lake Placid",1980,0,0,0,0,0
+"Oceania","Lillehammer",1994,0,0,0,4,4
+"Oceania","London",1908,0,15,2,2,19
+"Oceania","London",1948,0,2,9,5,16
+"Oceania","London",2012,0,27,40,74,141
+"Oceania","Los Angeles",1932,0,3,3,1,7
+"Oceania","Los Angeles",1984,0,23,15,37,75
+"Oceania","Melbourne",1956,1,31,13,26,70
+"Oceania","Mexico City",1968,0,10,35,13,58
+"Oceania","Montreal",1976,0,15,16,17,48
+"Oceania","Moskva",1980,0,6,2,5,13
+"Oceania","Munich",1972,0,20,11,3,34
+"Oceania","Nagano",1998,0,0,0,1,1
+"Oceania","Oslo",1952,0,0,0,0,0
+"Oceania","Paris",1900,0,4,0,3,7
+"Oceania","Paris",1924,0,3,5,3,11
+"Oceania","Rio de Janeiro",2016,0,42,59,30,131
+"Oceania","Roma",1960,0,13,24,12,49
+"Oceania","Salt Lake City",2002,0,2,0,0,2
+"Oceania","Sapporo",1972,0,0,0,0,0
+"Oceania","Sarajevo",1984,0,0,0,0,0
+"Oceania","Seoul",1988,0,22,10,27,59
+"Oceania","Sochi",2014,0,0,2,1,3
+"Oceania","Squaw Valley",1960,0,0,0,0,0
+"Oceania","St. Louis",1904,0,0,3,1,4
+"Oceania","Stockholm",1912,0,5,2,3,10
+"Oceania","Stockholm",1956,0,0,0,0,0
+"Oceania","Sydney",2000,1,61,69,57,187
+"Oceania","Tokyo",1964,0,12,6,32,50
+"Oceania","Torino",2006,0,1,0,1,2
+"Oceania","Vancouver",2010,0,2,1,0,3
