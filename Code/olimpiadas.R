@@ -308,7 +308,7 @@ df$continent <- as.factor(df$continent)
 df$Continent_host <- as.factor(df$Continent_host)
 
 # Creamos un dataframe con los datos agregados por país para nuestro análisis
-df_pais <- df %>% group_by(country, City, Year, sedePais, sedeContinente) %>%
+df_pais <- df %>% group_by(country, City, Year, sedePais) %>%
   summarise(T_Gold=sum(Gold), T_Silver=sum(Silver), T_Bronze=sum(Bronze), T_Medal=(sum(Gold)+sum(Silver)+sum(Bronze)))
 
 # Creamos un dataframe con los datos agregados por continente para nuestro análisis
@@ -376,16 +376,16 @@ plotn <- function(x,main="Histograma de frecuencias \ny distribución normal",
   curve(dnorm(x,media,dt), min, max,add = T,col="blue")
 }
 
-plotn(df_pais$sedePais, main="Distribución normal")
-plotn(df_pais$T_Gold, main="Distribución normal")
-plotn(df_pais$T_Silver, main="Distribución normal")
-plotn(df_pais$T_Bronze, main="Distribución normal")
-plotn(df_pais$T_Medal, main="Distribución normal")
-plotn(df_continente$sedeContinente, main="Distribución normal")
-plotn(df_continente$T_Gold, main="Distribución normal")
-plotn(df_continente$T_Silver, main="Distribución normal")
-plotn(df_continente$T_Bronze, main="Distribución normal")
-plotn(df_continente$T_Medal, main="Distribución normal")
+plotn(df_pais$sedePais, main="Distribución normal - Paises - Sedes")
+plotn(df_pais$T_Gold, main="Distribución normal -Paises - Oro")
+plotn(df_pais$T_Silver, main="Distribución normal - Paises - Plata")
+plotn(df_pais$T_Bronze, main="Distribución normal - Paises - Bronce")
+plotn(df_pais$T_Medal, main="Distribución normal - Paises - Medallas")
+plotn(df_continente$sedeContinente, main="Distribución normal - Continentes - Sedes")
+plotn(df_continente$T_Gold, main="Distribución normal - Continentes - Oro")
+plotn(df_continente$T_Silver, main="Distribución normal - Continentes - Plata")
+plotn(df_continente$T_Bronze, main="Distribución normal - Continentes - Bronce")
+plotn(df_continente$T_Medal, main="Distribución normal - Continentes - Medallas")
 
 # Usamos el coeficiente de correlación de Spearman 
 cor(x=df_pais$sedePais, y=df_pais$T_Gold, method = "spearman")
