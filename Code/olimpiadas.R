@@ -403,14 +403,14 @@ cor(x=df_continente$sedeContinente, y=df_continente$T_Medal, method = "spearman"
 cor(x=df_continente$sedeContinente, y=df_continente$P_Medal, method = "spearman")
 
 # Significancia de la correlación de Spearman 
-cor.test(x=df_pais$sedePais, y=df_pais$T_Gold, conf.level  = 0.95, method = "spearman")
-cor.test(x=df_pais$sedePais, y=df_pais$T_Silver, conf.level  = 0.95, method = "spearman")
-cor.test(x=df_pais$sedePais, y=df_pais$T_Bronze, conf.level  = 0.95, method = "spearman")
-cor.test(x=df_pais$sedePais, y=df_pais$T_Medal, conf.level  = 0.95, method = "spearman")
-cor.test(x=df_continente$sedeContinente, y=df_continente$T_Gold, conf.level  = 0.95, method = "spearman")
-cor.test(x=df_continente$sedeContinente, y=df_continente$T_Silver, conf.level  = 0.95, method = "spearman")
-cor.test(x=df_continente$sedeContinente, y=df_continente$T_Bronze, conf.level  = 0.95, method = "spearman")
-cor.test(x=df_continente$sedeContinente, y=df_continente$T_Medal, conf.level  = 0.95, method = "spearman")
+cor.test(x=df_pais$sedePais, y=df_pais$T_Gold, conf.level  = 0.95, method = "spearman", exact=FALSE)
+cor.test(x=df_pais$sedePais, y=df_pais$T_Silver, conf.level  = 0.95, method = "spearman", exact=FALSE)
+cor.test(x=df_pais$sedePais, y=df_pais$T_Bronze, conf.level  = 0.95, method = "spearman", exact=FALSE)
+cor.test(x=df_pais$sedePais, y=df_pais$T_Medal, conf.level  = 0.95, method = "spearman", exact=FALSE)
+cor.test(x=df_continente$sedeContinente, y=df_continente$T_Gold, conf.level  = 0.95, method = "spearman", exact=FALSE)
+cor.test(x=df_continente$sedeContinente, y=df_continente$T_Silver, conf.level  = 0.95, method = "spearman", exact=FALSE)
+cor.test(x=df_continente$sedeContinente, y=df_continente$T_Bronze, conf.level  = 0.95, method = "spearman", exact=FALSE)
+cor.test(x=df_continente$sedeContinente, y=df_continente$T_Medal, conf.level  = 0.95, method = "spearman", exact=FALSE)
 
 # Usamos el coeficiente de correlación de Kendall
 cor(x=df_pais$sedePais, y=df_pais$T_Gold, method = "kendall")
