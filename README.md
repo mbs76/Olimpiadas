@@ -35,5 +35,5 @@ La actividad ha sido realizada por:
 * **df.csv**: Dataframe final obtenido tras la limpieza por la unión de los ficheros originales
 * **df_pais.csv**: Agrupación por países del fichero df.csv para el cálculo estadísco por países
 * **df_contienente.csv**: Agrupación por continentes del fichero df.csv para el cálculo estadístico por continente
-* **df_seleccion.csv**: Ejemplo de selección entre países utilizado para la graficas finales
+* **df_seleccion.csv**: Ejemplo de selección entre países utilizado para las graficas finales
 
